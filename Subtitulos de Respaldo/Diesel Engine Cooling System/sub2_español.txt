@@ -1,0 +1,926 @@
+00:00
+Los objetivos de aprendizaje de este capítulo son presentar al alumno la necesidad
+00:04
+para enfriar un motor diesel para que el alumno sepa qué componentes del motor diesel
+00:08
+y los sistemas requieren enfriamiento
+00:32
+Los motores diésel son máquinas diseñadas para convertir la energía química del combustible en
+00:37
+energía mecánica para producir energía, esta energía se usa para hacer trabajo
+00:43
+el trabajo se puede hacer girando una hélice para impulsar un barco o para impulsar un
+00:47
+generador eléctrico para proporcionar energía eléctrica la conversión de energía
+00:51
+El proceso implica la combustión del combustible dentro del cilindro del motor durante
+00:56
+El calor de combustión se libera y se genera presión que fuerza el pistón hacia abajo.
+01:01
+El pistón está conectado al cigüeñal a través de la biela hacia abajo.
+01:07
+El movimiento del pistón hace que el cigüeñal y la unidad impulsada sea
+01:11
+conectado a dos términos, lamentablemente, no toda la energía química puede ser
+01:15
+convertido en trabajo y parte de la energía térmica liberada se transfiere al
+01:20
+componentes del motor y algunos se pierden en el escape y los otros fluidos del motor se calientan
+01:25
+también se pierde en el entorno debido a la radiación las partes móviles del motor
+01:29
+también sujeto a efectos de fricción y el trabajo realizado para superar esta
+01:34
+la fricción transfiere calor a estos componentes, por ejemplo, cojinetes de pistón
+01:39
+anillos y levas haga clic en el botón para ver varias etapas
+02:13
+Si el motor diesel se dejó sin enfriar, entonces se producirán graves problemas de funcionamiento.
+02:17
+probable que ocurran las altas temperaturas de funcionamiento resultarían en espacios libres
+02:23
+entre componentes que se reducen debido a la expansión térmica que conduce a la incautación
+02:27
+el deterioro de las propiedades materiales de los distintos componentes
+02:31
+Falla debido a un exceso de estrés mecánico que térmico a los sellos de la bomba y
+02:37
+techos que provocan fugas de oxidación y reducción de la viscosidad del lubricante
+02:42
+aceite que resulta en un contacto de metal con metal entre los componentes debido a la película de aceite
+02:47
+Por lo tanto, debe darse cuenta de que es necesario enfriar un diesel.
+02:50
+motor para evitar estos fallos si va a funcionar continuamente durante
+02:55
+períodos prolongados, algunos motores diesel pequeños pueden enfriarse por aire directamente con o
+03:02
+sin circulación de aire forzada, es posible que tenga algunos motores diésel pequeños a bordo
+03:07
+su barco posiblemente motores de bote salvavidas o motores de compresor de emergencia que
+03:12
+refrigerados por aire los reconocerás por la presencia
+03:15
+de aletas extendidas alrededor del bloque de cilindros o por una unidad de ventilador de refrigeración directo
+03:19
+La refrigeración por aire solo es adecuada para los motores diésel más pequeños de baja potencia para
+03:24
+la gran mayoría de los motores diésel marinos, la refrigeración directa por aire
+03:28
+insuficientes y se deben utilizar otros medios refrigerantes como agua o aceite.
+03:34
+son generalmente sistemas cerrados con el mismo refrigerante circulando continuamente el
+03:39
+Los fluidos que se utilizan normalmente en un circuito cerrado se pueden considerar como el refrigerante primario.
+03:43
+con un refrigerante secundario que se utiliza para tomar calor del primario para evitarlo
+03:48
+Los refrigerantes primarios sobrecalentados suelen ser agua dulce o aceite lubricante y
+03:52
+El refrigerante secundario puede ser agua dulce o agua de mar o, en algunos casos, haga clic en el
+03:59
+imágenes para ver el desbloqueo antes de continuar debe hacer clic en el botón para
+04:03
+breve explicación del papel del aceite lubricante como refrigerante
+04:42
+El propósito principal del aceite lubricante es formar una película de aceite entre dos
+04:47
+superficies en movimiento y así reducir la fricción al hacerlo, el aceite se calienta en parte debido a
+04:53
+a la fricción de las moléculas de aceite que se mueven entre sí bajo carga y
+04:57
+en parte debido a la transferencia de calor de los componentes calientes del motor a medida que el aceite se calienta
+05:02
+la viscosidad y, por lo tanto, la capacidad de carga se reducirá y puede
+05:07
+ya no mantenga las superficies móviles separadas, esto conducirá a un mayor calentamiento y
+05:12
+deterioro del aceite, es necesario enfriar el aceite lubricante para
+05:17
+mantener su rendimiento y condición en motores pequeños el aceite caliente transfiere
+05:22
+calor a la atmósfera a través de bobinas con aletas o a través de la superficie del aceite
+05:26
+sartén en motores más grandes es necesario hacer circular el aceite a través de calor externo
+05:38
+intercambiadores donde el calor se transfiere a un refrigerante secundario este continuo
+05:43
+circulación y transferencias a un refrigerante secundario significa que el aceite lubricante
+05:48
+se utiliza como refrigerante primario para algunos componentes del motor, un refrigerante ideal
+05:58
+debe ser bajo, más fácilmente disponible sin formación de incrustaciones
+06:02
+y no corrosivo, también debe tener una alta capacidad calorífica específica.
+06:08
+medida de la cantidad de calor necesaria para elevar la temperatura de una unidad de masa
+06:11
+de la sustancia en un Kelvin K, las unidades de capacidad calorífica específica son
+06:18
+generalmente se da como kilo julios por kilogramo Kelvin cuanto mayor sea el
+06:22
+capacidad calorífica, más calor se puede quitar de los materiales que requieren
+06:27
+Enfriamiento también es deseable que el refrigerante tenga una viscosidad baja para
+06:32
+minimizar la resistencia al flujo en el sistema de enfriamiento, esto hace que el agua sea la primera opción
+06:37
+para la mayoría de los sistemas de enfriamiento, generalmente con la adición de aditivos como
+06:41
+inhibidores de la corrosión al seleccionar un refrigerante también es necesario considerar
+06:46
+el riesgo de contaminación debido a fugas, por ejemplo, enfriar un pistón en un
+06:52
+El motor diesel con agua tiene un alto riesgo de contaminar el aceite lubricante.
+06:56
+sistema en este caso se puede elegir aceite lubricante para evitar este riesgo aunque
+07:02
+el agua puede ser el mejor refrigerante haga clic en cada una de las imágenes para saber más sobre
+07:07
+varios refrigerantes que están disponibles en el medio marino, aunque
+07:19
+es abundante tiene una capacidad calorífica específica relativamente baja de aproximadamente 1,0
+07:24
+kilo julios por kilogramo Kelvin la baja densidad del aire requeriría que grandes
+07:30
+tendrían que suministrarse volúmenes para quitar el calor de los diversos
+07:33
+Sin embargo, los sistemas de motor diesel AirCam se pueden utilizar como refrigerante independientemente del
+07:38
+Los radiadores refrigerados por aire de rango de temperatura de proceso se utilizan en algunos
+07:42
+motores con el aire como refrigerante secundario siendo forzado a
+07:46
+aletas externas del radiador por un firme
+08:09
+la capacidad calorífica específica moderada del aceite mineral de dos puntos cero a dos puntos
+08:14
+cinco kilo julios por kilogramo Kelvin significa que usar aceite como refrigerante es
+08:19
+generalmente restringido a aquellas aplicaciones donde la lubricación también es
+08:23
+requerido como se indicó anteriormente si la fuga de corriente sería un problema, por ejemplo
+08:29
+agua en el cárter del motor y luego enfriar con aceite puede ser el preferido
+08:33
+elección en lugar de utilizar arreglos de sellado complejos, el aceite tiene una utilidad más amplia
+08:42
+rango de temperatura que el agua, aunque el exceso de temperatura puede conducir a
+08:46
+oxidación y depósitos de carbón, se pueden utilizar aceites sintéticos o térmicos para extender
+08:52
+el rango de temperatura a baja presión aunque normalmente se utiliza aceite térmico
+08:56
+para fines de calefacción en lugar de como refrigerante
+09:08
+ver que el agua sería el refrigerante de primera elección para aplicaciones marinas si
+09:12
+no fue por los problemas de escala asociados, es barato, abundante, tiene buenas
+09:18
+capacidad calorífica específica de aproximadamente 4.0 kilojulios por kilogramo Kelvin y baja
+09:23
+La formación de escamas de viscosidad aumenta con la temperatura de funcionamiento, lo que limita la
+09:28
+rango de temperatura útil y significa que el uso de enfriamiento directo de agua de mar para
+09:32
+Los motores modernos no es realmente práctico, algunos sistemas de refrigeración todavía tienen un
+09:38
+instalación que permite el funcionamiento de emergencia y la refrigeración por agua de mar, pero
+09:42
+cargas restringidas en la mayoría de los casos, el uso de agua de mar como refrigerante se limita a
+09:48
+Aplicaciones de enfriamiento secundario donde los requisitos de temperatura son más bajos y
+09:52
+la formación de escamas se puede minimizar
+10:00
+El agua dulce cumple con todos los requisitos de un refrigerante, sin embargo, no es fácil
+10:05
+disponible y tiene que ser almacenado o producido a bordo del calor específico
+10:10
+La capacidad es de aproximadamente 4,2 kilo julios por kilogramo Kelvin, lo que da una
+10:16
+muy buen efecto de enfriamiento cuando se produce a bordo por un generador de agua dulce
+10:20
+planta el agua es casi pura, por lo tanto, la formación de incrustaciones no es realmente un problema
+10:25
+Sin embargo, el agua ligeramente ácida que produce dicha planta debe ser
+10:30
+tratado químicamente como veremos más adelante para prevenir la corrosión el agua dulce es
+10:35
+preferido como refrigerante primario para sistemas de agua de camisa de motor diesel y
+10:39
+Como refrigerante secundario para los otros sistemas del motor, el rango de temperatura es
+10:43
+limitado por el punto de ebullición relativamente bajo de 100 grados Celsius, aunque
+10:48
+esto se puede aumentar con un sistema presurizado cerrado
+10:57
+la tabla muestra la comparación entre los distintos refrigerantes que están disponibles en un
+11:02
+ambiente marino es evidente que es necesario enfriar el diesel
+11:10
+motor, ahora debemos decidir qué componentes y qué sistemas auxiliares
+11:15
+tendrá que enfriarse la respuesta simple es cualquier componente o sistema que no
+11:19
+funcionan correctamente a temperatura atómica los elementos que
+11:23
+más afectados son los que están directamente expuestos a la combustión
+11:27
+proceso o un tema de fricción esto incluirá todos los componentes que forman el
+11:32
+cámara de combustión y todos los componentes móviles los fluidos del motor, como el
+11:37
+También es necesario enfriar el agua de la camisa de aceite lubricante y el aire cargado.
+11:43
+considerar equipos auxiliares como el turbocompresor que está sujeto a
+11:47
+calentamiento debido a la fricción y también al flujo de los gases de escape a través de la turbina
+11:52
+lado y el efecto de calentamiento de comprimir el aire en el compresor
+11:55
+haga clic lateral en los botones para ver qué fluidos y componentes requieren enfriamiento
+12:00
+cuando el motor está funcionando, vale la pena señalar en este punto que demasiados
+12:14
+El enfriamiento puede ser perjudicial para el funcionamiento de un motor diesel
+12:18
+baja eficiencia térmica altos costos de funcionamiento y daño del motor obviamente un
+12:23
+el compromiso es necesario antes de continuar, debe hacer clic en los botones para ver
+12:27
+los componentes y equipos auxiliares que deben enfriarse como el motor
+12:32
+opera
+12:41
+los componentes del motor diesel que se calientan directamente por la combustión
+12:45
+proceso son el pistón y la camisa del cilindro, incluido cualquier anillo de disparo,
+12:52
+tapa del cilindro y accesorios, incluidas las válvulas de escape, las válvulas de admisión y el combustible
+12:57
+inyector y los segmentos de pistón en particular el anillo superior el diesel
+13:03
+Los componentes del motor que se calientan debido a la fricción a medida que se mueven son el pistón
+13:08
+aros de pistón y camisa del cilindro las bielas de las bielas del pistón y
+13:13
+cojinetes asociados las válvulas de la tapa del cilindro y accionar en
+13:20
+cigüeñal y cojinetes incluida la disposición de empuje el eje de levas y cojinetes
+13:28
+las cadenas, las ruedas y los cojinetes, los engranajes internos y la inyección de combustible
+13:38
+equipo haga clic en el botón para ver el
+13:49
+tú
+14:00
+como ya se ha dicho, el turbocompresor funcionará a alta
+14:03
+temperatura debido a las condiciones de trabajo de los gases de escape
+14:07
+compresión del aire y calor de fricción de los cojinetes tradicionalmente
+14:11
+Las carcasas grandes de los turbocompresores se enfriaron por agua generalmente utilizando un subcircuito
+14:16
+del sistema de refrigeración por agua de la camisa principal, las unidades más pequeñas se enfriaban por aire
+14:22
+de la última generación de turbocompresores tienen turbina sin refrigerar
+14:26
+carcasas lo que reduce las pérdidas totales de calor del motor y aumenta
+14:30
+La eficiencia térmica general con este diseño de lubricación generalmente se toma de
+14:36
+el sistema de aceite lubricante del motor principal y el aceite circulante
+14:41
+El calor de los cojinetes Las carcasas del lado de escape deben estar bien aisladas para
+14:46
+la protección del personal la gran mayoría de los motores refrigerados por agua utilizan
+14:57
+agua dulce como refrigerante primario para los componentes estáticos que forman el
+15:01
+cámara de combustión esto se logra haciendo circular el agua a través del espacio
+15:06
+entre la camisa del cilindro y el bloque de cilindros y la camisa y el
+15:10
+camisa del cilindro, por lo tanto, el sistema se denomina camisa de agua de refrigeración
+15:15
+sistema el agua entra en la parte inferior de la camisa del cilindro y pulsa hacia arriba
+15:20
+chaqueta y a través de la tapa del cilindro cuando sale del motor, esto también proporciona
+15:26
+Refrigeración para las válvulas y el engranaje de operación muchos diseños incorporan bola
+15:31
+enfriamiento de estos componentes principales en los que se perforaron pasajes para el
+15:35
+refrigerante se colocan cerca de la superficie del componente para estar frío este
+15:39
+permite un enfriamiento intenso manteniendo la fuerza del componente el aire
+15:44
+para la combustión generalmente se enfría con agua de mar después de la entrega desde el
+15:48
+turbocompresor antes de entrar en el cilindro aunque como veremos más adelante
+15:52
+Se puede usar agua dulce.Los pistones generalmente se enfrían mediante un pistón separado.
+15:57
+sistema de refrigeración que utiliza agua dulce o aceite lubricante como refrigerante
+16:02
+si se utiliza refrigeración por agua dulce, normalmente está separada de la camisa principal
+16:07
+sistema de agua los anillos del pistón se enfrían por conducción con transferencia de calor a
+16:12
+ya sea la pared del cilindro refrigerado o el cuerpo del pistón el cigüeñal y
+16:19
+cojinetes asociados y cuatro motores grandes de baja velocidad la disposición de la cruceta
+16:24
+son enfriados por el sistema principal de aceite lubricante el rbol de levas y asociados
+16:29
+Los cojinetes se enfrían mediante la circulación de aceite lubricante que en muchos diseños es
+16:34
+separado del sistema de lubricación principal del motor, esto minimiza la
+16:39
+riesgo de contaminación del sistema principal por fugas de aceite combustible el calor de fricción
+16:43
+generado por el movimiento del pistón en el revestimiento es eliminado por el agua de la camisa y
+16:48
+sistemas de refrigeración de pistón en los modernos sistemas de inyección de combustible no refrigerado
+16:53
+Las temperaturas de los componentes se mantienen normalmente a niveles aceptables por
+16:57
+flujo de aceite combustible recirculación de combustible en los inyectores se puede utilizar para ayudar
+17:03
+esto en los sistemas de combustible pesado, los sistemas de inyección de combustible más antiguos dependían del calor
+17:10
+transferencia a la tapa del cilindro cavidades del inyector húmedo en la tapa del cilindro
+17:14
+o circulación forzada de refrigerante a través de bolas en el cuerpo del inyector para mantener
+17:19
+Subtitulo no Encontrado17:24
+y aceite térmico de agua dulce y gasoil han sido utilizados por diferentes
+17:29
+fabricantes de motores en este módulo en particular estaremos
+17:35
+mirando los sistemas de agua de enfriamiento del motor, pero como verá en muchos
+17:40
+diseña este sistema también se utiliza como refrigerante secundario para el otro motor
+17:44
+sistemas en diseños más antiguos se utilizó agua de mar como refrigerante secundario para cada
+17:50
+de los sistemas individuales tendremos una mirada detallada a una chaqueta básica de agua
+17:55
+sistema de refrigeración y también un sistema de refrigeración central que es un común
+17:59
+solución utilizada para minimizar el uso de refrigeración por agua de mar y el alto mantenimiento
+18:03
+necesidades de tal sistema
+00:00
+Después de completar este capítulo, el alumno se familiarizará con el
+00:03
+Configuración de un sistema de agua de refrigeración de motor diesel básico típico.
+00:08
+con la configuración de los otros sistemas de refrigeración para un motor diesel
+00:32
+como ya hemos visto en el capítulo anterior tenemos que enfriar el
+00:37
+componentes y sistemas de un motor diesel si deseamos operar
+00:40
+continuamente durante largos períodos, podemos lograr esto haciendo circular un
+00:45
+refrigerante que tomará el calor de los componentes del motor y luego
+00:49
+circulando el refrigerante primario y secundario a través de un intercambiador de calor para
+00:53
+quitar el calor del refrigerante primario después de haber completado el capítulo 1, debe
+00:58
+Ahora tenga en cuenta qué refrigerantes son adecuados para los distintos tipos de refrigeración.
+01:01
+requisitos en este capítulo veremos los diferentes sistemas de refrigeración
+01:05
+con el que probablemente tenga que lidiar cuando esté operando grandes
+01:09
+motores un sistema de refrigeracin de agua de la camisa del motor diesel debe poder quitar
+01:15
+el calor transferido a los componentes del cilindro durante el proceso de combustión
+01:20
+Para lograr esto, hará circular un refrigerante adecuado, generalmente agua dulce.
+01:24
+a través de los espacios de enfriamiento siempre que estos espacios de enfriamiento
+01:29
+alrededor de la camisa del cilindro y dentro de la cubierta del cilindro el sistema de agua de la camisa
+01:35
+También puede servir para las jaulas de la válvula de escape y la carcasa del turbocompresor para aquellos
+01:40
+diseños que requieren enfriamiento el boceto muestra un sistema básico de agua de camisa que utiliza
+01:45
+agua dulce como refrigerante primario y agua de mar como refrigerante secundario
+01:51
+el agua dulce normalmente entrará en la parte inferior del revestimiento y saldrá de
+01:54
+la tapa del cilindro no se preocupe en esta etapa si no está familiarizado con el
+01:58
+detalles y propósito de todos los componentes como veremos estos
+02:02
+individualmente en un capítulo posterior, obviamente, no todas las camisas de motor diesel
+02:08
+El sistema de agua de refrigeración funciona con exactamente los mismos valores de parámetro que
+02:13
+es seguro que hay diferencias entre sistemas debido a diferentes diseños y
+02:16
+elección de materiales para los distintos componentes del motor también agua de mar
+02:21
+Las temperaturas variarán según la zona geográfica en la que se encuentre el barco.
+02:25
+operando en el valor que se da en la tabla son típicos para un gran motor de dos tiempos
+02:30
+motor diesel puede encontrar que la temperatura del agua de la camisa puede ser
+02:34
+15 grados Celsius o más para algunos motores diésel pequeños de alta potencia
+02:39
+debe familiarizarse con los valores reales de los parámetros para
+02:44
+todos los sistemas de refrigeración para motores diésel de los barcos en los que se encuentra
+02:47
+navegar con como parte de su familiarización con la planta de motores
+02:51
+aunque el propósito principal de un sistema de agua de camisa es enfriar el diesel
+02:55
+motor también puede servir como función secundaria proporcionando un precalentamiento
+03:00
+instalación para el motor esto es particularmente necesario al preparar
+03:04
+el motor para un primer arranque en climas fríos con el fin de minimizar la temperatura
+03:09
+destaca que los demás sistemas de refrigeración incluidos en este módulo tendrán una pre
+03:14
+instalación de calor el motor diesel requiere el calor de compresión del aire en
+03:18
+el cilindro para proporcionar la fuente de ignición para el combustible para ayudar a lograr esto
+03:23
+El cilindro del motor se puede calentar utilizando un sistema de precalentamiento de agua de la camisa.
+03:28
+La calefacción para el agua de refrigeración de la camisa puede ser proporcionada por un subcircuito de la
+03:32
+sistema que utiliza elementos calefactores eléctricos o bobinas de calentamiento de vapor que algunos sistemas utilizan
+03:37
+el calor del sistema de enfriamiento del motor auxiliar para precalentar la
+03:41
+sistema mediante el uso de arreglos cruzados adecuados ¿Qué arreglos
+03:46
+tiene en su barco en este momento, si no está seguro, debe verificarlo la próxima vez
+03:51
+estás en la sala de máquinas diferentes sistemas de refrigeración por agua de las camisas
+03:55
+tendrá diferentes diseños y disposiciones de válvulas los principios de funcionamiento
+04:00
+sin embargo será el mismo antes de iniciar el sistema el encabezado
+04:04
+El nivel del tanque debe revisarse y ajustarse según sea necesario y todos los
+04:08
+Las válvulas deben estar correctamente configuradas para el precalentamiento una vez que se inician las bombas
+04:13
+Las válvulas deben ajustarse para regular el flujo a fin de garantizar
+04:17
+temperaturas correctas en todo el sistema cuando la temperatura del
+04:21
+El sistema ha alcanzado el nivel requerido y se cumplen todas las demás condiciones requeridas.
+04:25
+el motor se puede arrancar y las temperaturas de cierre del precalentamiento y el flujo
+04:30
+generalmente se monitorean en cada cilindro el control de temperatura en los
+04:34
+Los sistemas suelen ser una función automática y en el sistema que se muestra se controla
+04:39
+mediante una válvula de 3 vías, veremos qué pasa con un control con más detalle más adelante en
+04:44
+el módulo
+04:47
+debe familiarizarse con el sistema en el barco en el que estaba
+04:51
+incluyendo los medios utilizados para regular manualmente la temperatura en caso de
+04:55
+Fallo de la función de control esto se aplica a todos los sistemas del equipo.
+05:00
+con el que puede estar involucrado, así como la tapa del cilindro y
+05:05
+camisa del cilindro los pistones también se calientan debido al proceso de combustión también
+05:11
+recibió algo de calor debido a la fricción entre los anillos del pistón y la camisa y
+05:15
+el faldón y el revestimiento del pistón, aunque cuando funcionan correctamente estas superficies
+05:20
+separados por una película de aceite, el calor por fricción todavía se genera y se transfiere
+05:24
+entre componentes en motores grandes de baja velocidad, los pistones generalmente se enfrían
+05:29
+por un sistema separado del agua de la camisa, el refrigerante que se utiliza principalmente para esto es aceite
+05:34
+del sistema principal de aceite lubricante, aunque algunos sistemas antiguos utilizaban
+05:39
+agua la preferencia por el aceite se debe al riesgo de fuga de refrigerante en el
+05:44
+cárter, como se dijo anteriormente, los motores de pistón del tronco utilizan aceite lubricante
+05:48
+circular a través de la corona del pistón o salpicar en el cárter como
+05:53
+un refrigerante de pistón con agua como refrigerante un llamado coctelera
+05:57
+El efecto se utiliza a menudo para optimizar el efecto de enfriamiento en el pistón.
+06:03
+Las cámaras están diseñadas para estar medio llenas y el movimiento alternativo del
+06:06
+pistón hace que el agua se arroje a la parte inferior de la corona del pistón
+06:11
+como si fuera una coctelera, la mayoría de los grandes motores de dos tiempos
+06:16
+con los que navegará tendrá pistones enfriados por aceite, sin duda la mayoría de los
+06:21
+Los motores de reciente construcción utilizarán aceite como refrigerante; sin embargo, todavía hay muchos
+06:26
+motores en servicio que fueron diseñados para la refrigeración por agua de los pistones
+06:30
+Los valores dados en la tabla son típicos para un motor diésel de dos tiempos grande.
+06:36
+de los principales grandes fabricantes de motores de dos tiempos utilizaron la refrigeración del pistón
+06:40
+sistema para enfriar el turbocompresor en lugar del sistema de agua de las camisas
+06:44
+ya que se consideró que las temperaturas y las presiones para el sistema eran
+06:48
+mejor adaptado de nuevo familiarícese con los valores reales de la
+06:52
+parámetros para los sistemas del barco con el que navegaba como parte de su
+06:55
+familiarización con la planta de motores antes de iniciar el sistema el drenaje
+07:01
+El nivel del tanque debe comprobarse y ajustarse según sea necesario.
+07:05
+También se verifica si hay contaminación de aceite, típicamente el enfriamiento
+07:09
+el agua se suministra y se devuelve de los pistones vuela un clip telescópico el
+07:15
+Los tubos telescópicos están dispuestos de modo que los casquillos de sellado queden fuera del
+07:19
+cárter para minimizar el riesgo de contaminar el sistema de aceite lubricante
+07:23
+Es necesario controlar estos casquillos de sellado para detectar fugas una vez que el tanque
+07:28
+nivel normal y las válvulas se han ajustado correctamente la bomba se puede poner en marcha
+07:33
+El flujo continuo de agua de enfriamiento a través de cada pistón es esencial para continuar
+07:38
+Los visores de operación y visores normalmente se instalan en las tuberías de retorno para que el flujo
+07:42
+Se puede monitorear la temperatura generalmente se monitorea en cada cilindro y
+07:46
+el bypass del enfriador se usa para ajustarlo este sistema básico muestra la temperatura
+07:52
+siendo controlado manualmente haga clic en el botón para ver el funcionamiento del
+07:56
+sistema
+08:39
+la ubicación en la culata y la exposición de la boquilla del inyector a
+08:44
+La cámara de combustión significa que el exceso de calor debe eliminarse para evitar convulsiones.
+08:49
+de la válvula de aguja y sobrecalentamiento del combustible dentro de la válvula de inyección de combustible
+08:53
+Cualquier falla del sistema, como bloqueo o depósitos de cal, causaría
+08:58
+que las válvulas de inyección de combustible se sobrecalienten y atasquen provocarán depósitos de carbón
+09:02
+dentro de las válvulas debido al sobrecalentamiento del combustible que tiene un sistema adicional
+09:07
+significa un mayor costo y mantenimiento otros problemas comunes asociados con
+09:12
+estos sistemas incluyen contaminación del refrigerante con combustible debido a fugas
+09:16
+dentro de las válvulas de inyección de combustible y la corrosión de los cuerpos de las válvulas para evitar la
+09:21
+problemas asociados con los fabricantes de motores de los sistemas de enfriamiento de la válvula de combustible
+09:26
+han desarrollado sus diseños de motores para evitar la necesidad de tales sistemas si
+09:30
+estaban en barcos con motores más antiguos, es posible que aún se encuentre con enfriamiento de la válvula de combustible
+09:34
+sistemas el tipo de combustible con el que opera el motor influirá en el enfriamiento
+09:39
+arreglos para las válvulas de inyección de combustible haga clic en los botones de acción para
+09:43
+aprender más sobre esto para algunos motores que operan con combustible destilado el riesgo de
+09:48
+sobrecalentamiento de las válvulas de inyección de combustible debido a la transferencia de calor residual cuando
+09:52
+El motor se paró por primera vez significaba que era necesario un sistema de enfriamiento separado
+09:57
+durante la operación de carga normal, el flujo del combustible relativamente frío fue suficiente
+10:02
+para mantener temperaturas aceptables, algunos sistemas combinan el enfriamiento para combustible
+10:07
+válvulas de inyección y jaulas de válvulas de escape se utiliza agua dulce como aceite refrigerante o
+10:13
+El agua dulce podría usarse para el enfriamiento de la válvula de combustible cuando estos sistemas estén separados.
+10:17
+mediante la instalación de un intercambiador de calor adicional, el sistema también podría utilizarse para
+10:22
+Mantenga las temperaturas de la válvula cuando opere a baja carga para evitar posibles
+10:26
+problemas de corrosión en frío, esta instalación de calefacción también se utilizaría para precalentar
+10:31
+el combustible en las válvulas de inyección para mejorar el arranque de un motor frío para
+10:36
+motores que utilizan fuel oil pesado las válvulas de inyección de combustible requieren positivo
+10:40
+enfriamiento ya que el combustible caliente significa que las válvulas están a una temperatura más alta
+10:45
+ya sea un sistema de enfriamiento separado o algún medio para asegurar el flujo continuo del
+10:50
+combustible a través de los cuerpos del inyector para eliminar el exceso de calor
+10:53
+desgaste necesario se ha instalado un sistema de refrigeración independiente se puede utilizar aceite o agua dulce
+10:59
+Como refrigerante con este tipo de sistema, es normal cambiar de pesado a
+11:04
+combustible destilado que permite suficiente tiempo para limpiar las líneas de todos los
+11:08
+combustible antes de que se detuviera el motor, la instalación de calefacción generalmente se incluye para
+11:13
+mantener las temperaturas a baja carga y antes del arranque
+11:16
+La práctica actual es tener recirculación automática del combustible a través del
+11:21
+válvulas cuando el motor se ha parado, esto permite que las temperaturas aceptables sean
+11:25
+Subtitulo no Encontrado11:30
+experiencia de este tipo de arreglo si ha trabajado con combustibles pesados
+11:34
+motores construidos en los últimos 20 años la mayoría de los motores diesel con los que navegará
+11:38
+estará diseñado para funcionar sin refrigeración separada de la inyección de combustible
+11:42
+válvulas en su lugar, usarán recirculación del combustible o del cilindro
+11:48
+diseño de la cubierta para lograr el enfriamiento requerido, sin embargo, todavía hay muchos
+11:52
+motores en servicio que fueron diseñados con sistemas de refrigeración de válvulas separados
+11:57
+Los valores dados en la tabla son típicos para un motor diesel grande de dos tiempos y
+12:01
+sería similar para muchos motores de cuatro tiempos.
+12:05
+con los valores reales de los parámetros para los sistemas en los barcos que estaba
+12:10
+navegar con como parte de su familiarización con la planta de motores
+12:13
+con un sistema lleno y el nivel del tanque correcto, la bomba puede arrancar una vez que
+12:18
+Las válvulas de descarga y del sistema están configuradas para hacer circular el agua de enfriamiento antes de
+12:23
+arrancando el motor el refrigerante de la válvula de combustible se calienta pasándolo a través
+12:27
+el precalentador esto calienta los inyectores y el combustible contenido en ellos
+12:32
+cerca de las temperaturas normales de funcionamiento, lo que facilita el arranque una vez
+12:36
+la temperatura del sistema de enfriamiento excede los niveles normales el precalentador está apagado
+12:40
+y la temperatura se puede controlar ajustando el bypass del enfriador cuando
+12:46
+operando continuamente con poca carga, puede ser necesario mantener
+12:49
+temperaturas utilizando el precalentador de nuevo, el control de temperatura se puede
+12:54
+ya sea manual o automático debido al alto riesgo de contaminación del combustible de
+12:59
+el agua de refrigeración en este tipo de sistema debe comprobarse el tanque del sistema
+13:03
+regularmente durante la operación
+13:43
+motores diésel que están diseñados para funcionar sin carga de presión de
+13:48
+el aire de combustión se conoce como aspirado naturalmente este tipo de diseño
+13:53
+normalmente se limita a motores para tareas de emergencia, es probable que
+13:58
+tendrá algunos motores de este tipo a bordo de su embarcación ahora, por ejemplo, el
+14:02
+motores de botes salvavidas o motores de bombas contraincendios de emergencia la gran mayoría de diesel
+14:07
+Los motores con los que navega se cargarán a presión normalmente con un
+14:11
+turbocompresor accionado por gases de escape el propósito de cargar a presión un diesel
+14:15
+motor es aumentar la masa de aire en el cilindro y así permitir una mayor potencia
+14:20
+que se desarrolle quemando una mayor cantidad de combustible de lo que sería posible
+14:23
+con un motor de aspiración natural el aire entregado al motor por un
+14:27
+El turbocompresor u otro dispositivo compresor estarán calientes debido a la compresión.
+14:32
+proceso no es raro que la temperatura del aire supere los 100 grados
+14:37
+Celsius a la salida del compresor del turbocompresor en este
+14:41
+temperatura la densidad del aire es baja y la masa para un volumen dado es bastante pequeña
+14:46
+Para aumentar la masa efectiva de aire en el cilindro es necesario enfriar el
+14:51
+aire para aumentar la densidad antes de que entre en el motor el propósito de la
+14:56
+enfriador de aire de carga o intercooler, como se le conoce en algunos motores, es
+15:01
+Reducir la temperatura del aire al nivel requerido normalmente el aire
+15:05
+La temperatura en la entrada al motor estará en el rango de 35 grados Celsius a
+15:09
+50 grados Celsius para lograr temperaturas del aire relativamente bajas
+15:15
+requerida en la entrada del motor, la temperatura del refrigerante debe ser menor que la
+15:19
+temperatura final del aire, esto significa que no se puede utilizar el agua de refrigeración de la camisa
+15:24
+y muchos motores, por lo tanto, utilizan agua de mar como refrigerante principal para el aire de carga.
+15:28
+enfriamiento cuando se utiliza agua de mar como refrigerante primario una alimentación directa del
+15:33
+El sistema principal de agua de mar se suministra al enfriador de aire de carga ya sea de tres vías
+15:38
+válvula o una válvula de derivación en paralelo con el enfriador de aire de carga se utiliza para
+15:42
+regular la temperatura del aire, verá más adelante en el módulo que donde un
+15:46
+Si se emplea un sistema de refrigeración central, es posible utilizar el agua dulce del
+15:50
+circuito de baja temperatura para enfriar el aire cargado como se indica en un
+15:55
+sección algunos motores de velocidad media y alta tienen agua de refrigeración separada
+15:58
+sistemas para las jaulas de la válvula de escape esto puede combinarse con la válvula de combustible
+16:03
+sistema de agua de refrigeración para motores grandes de dos tiempos refrigeración del
+16:08
+Las jaulas de la válvula de escape suelen ser una extensión del enfriamiento de la camisa principal.
+16:12
+sistema de agua para la mayoría de los motores modernos, el enfriamiento de la jaula de la válvula de escape es
+16:16
+logrado usando el sistema de agua de la chaqueta principal ya sea haciendo circular la chaqueta
+16:21
+agua a través de bolas en la jaula o por la posición de los espacios de enfriamiento en
+16:25
+la tapa del cilindro también hay algunos diseños de motor que
+16:28
+tienen refrigeración por agua para el colector de escape, aunque esto no es muy
+16:32
+común hemos visto que es preferible utilizar agua dulce como
+16:35
+refrigerante primario para el sistema de enfriamiento de la camisa del motor, también hemos visto que
+16:40
+El agua de mar se puede utilizar como refrigerante secundario para el agua de la camisa y otros
+16:44
+sistemas de enfriamiento que también veremos más adelante en el módulo nuestro uso de agua de mar puede ser
+16:49
+se mantiene al mínimo empleando un sistema de refrigeración central en la práctica donde el mar
+16:54
+se utiliza agua como refrigerante secundario, es normal disponer el agua de mar para
+16:58
+Fluir a través de los intercambiadores de calor de los diversos sistemas de motor en serie con
+17:02
+Esta disposición el agua de mar fluye a través del intercambiador de calor para el
+17:06
+sistema con la temperatura más baja requerida antes de pasar al siguiente
+17:10
+uno, normalmente no es posible organizar el enfriamiento del aire cargado en este
+17:14
+manera y esto generalmente se alimenta directamente de la tubería principal de agua de mar cada calor
+17:18
+el intercambiador está equipado con una válvula de derivación para controlar el sistema individual
+17:22
+temperaturas sin dejar de garantizar el flujo de agua de mar necesario para enfriar el
+17:26
+otros sistemas a veces se toman medidas para alimentar el sistema de agua de la camisa
+17:31
+del sistema de agua de mar en caso de pérdida de agua dulce esta instalación
+17:36
+debe considerarse como un medio de operación de emergencia a corto plazo y cuando
+17:40
+así llamado, el motor funcionaría a carga reducida para reducir la
+17:46
+riesgo de admisión accidental de agua de mar al sistema la cruz
+17:49
+Las conexiones normalmente se proporcionan con nervios bloqueados o placas ciegas.
+17:53
+obviamente, la temperatura del agua del mar variará dependiendo de en qué parte del mundo
+17:58
+el barco está operando el rango de temperatura para el agua de mar es desde bajo cero hasta
+18:03
+unos 38 grados Celsius, la mayoría de los motores están diseñados para funcionar
+18:08
+con una temperatura mínima del agua de mar de unos 10 grados Celsius para lograr esto
+18:13
+el sistema normalmente estará equipado con una instalación de recirculación con parte del
+18:17
+el agua en el sistema se devuelve a la succión de la bomba en lugar de ser
+18:21
+descargado por la borda la recirculación y por lo tanto la temperatura mínima
+18:25
+se puede controlar con una válvula de tres vías de forma manual o automática
+18:30
+Ajuste de la presión del sistema de agua de mar generalmente en el rango de 2 a 3 bar manométricos
+18:36
+presión con el valor real dictado por la posición vertical de los refrigeradores
+18:40
+en relación con la salida de la bomba y la disposición de válvulas y tuberías después
+18:45
+Apertura de las válvulas de baja succión y al agua del lado del barco Deformación de succión Entrada
+18:49
+y válvulas de salida, la válvula de succión de la bomba y las válvulas de entrada y derivación en cada
+18:54
+enfriador una de las bombas de agua de mar se puede poner en marcha con la válvula de descarga parcialmente
+18:59
+abierto una vez que la bomba ha funcionado, entonces el barril de descarga se puede abrir completamente
+19:04
+una vez que se arranca el motor, las temperaturas de los sistemas individuales
+19:08
+se puede controlar utilizando la salida del enfriador y las válvulas de derivación para
+19:13
+flujo de agua de mar requerido a través de cada enfriador en la práctica la salida y el bypass
+19:18
+Las funciones se combinan generalmente mediante el uso de una válvula automática de 3 vías en la
+19:23
+fluido que evita la necesidad de equilibrar manualmente las válvulas individuales para
+19:28
+Mantener el flujo correcto en el sistema de agua de mar, analizaremos el control automático.
+19:32
+Más adelante en el módulo, muchos motores diesel más pequeños están dispuestos con
+19:37
+servicios y sistemas, incluidos los sistemas de agua de refrigeración, algunos pequeños diésel
+19:42
+Los motores pueden enfriarse con agua de mar, por ejemplo, los motores de un barco vivo, aunque
+19:47
+el agua es siempre la opción preferida con estos arreglos el enfriamiento
+19:51
+bombas de agua, así como otras bombas de servicio como aceite lubricante y combustible
+19:55
+El aceite normalmente está montado y accionado por el motor en algunos casos pequeños
+20:00
+Se proporcionan bombas eléctricas para los requisitos de primer arranque y espera.
+20:06
+Los intercambiadores de calor para los diversos servicios también suelen estar montados en el motor en este
+20:10
+tipo de motor, es probable que los motores auxiliares de su barco tengan un
+20:14
+disposición similar a esta el calor que es llevado por el
+20:19
+El agua de la camisa, como hemos visto, se origina en parte de la combustión de combustible en
+20:23
+el cilindro cuando el calor se transfiere del agua de la camisa a
+20:27
+agua de mar, entonces el calor se desperdicia, simplemente se vierte al mar si alguno de los
+20:32
+el calor se puede utilizar para un propósito productivo, luego la planta en general
+20:35
+La eficiencia puede mejorarse, uno de los medios habituales para lograrlo es utilizar
+20:40
+calor del agua de la camisa para calentar la alimentación y los elementos generadores durante un
+20:44
+generador de agua dulce esto reduce el costo de producción de agua dulce a bordo
+20:49
+ya que no se requiere combustible adicional para proporcionar la energía térmica necesaria utilizando
+20:54
+el agua de la camisa de esta manera también significa que el generador de agua dulce está siendo
+20:58
+Se utiliza como enfriador para el sistema de enfriamiento de agua de las camisas del motor.
+21:02
+Los detalles del generador de agua dulce están fuera del alcance de este módulo y
+21:07
+debe consultar el módulo CBT cero 98 para obtener más información sobre esta pieza de
+21:13
+equipo si no está familiarizado con él en este capítulo, hemos examinado todos
+21:17
+de los sistemas de agua de refrigeración que pueden ser necesarios para permitir
+21:21
+operación de un motor diesel los sistemas para cualquier motor en particular serán
+21:26
+determinado por el diseño real de ese motor los sistemas que hemos considerado
+21:30
+todos han usado agua de mar es el refrigerante secundario, esto probablemente parece lógico
+21:35
+ya que hay mucha y normalmente hace relativamente frío usando agua de mar
+21:40
+Sin embargo, significa que los sistemas están sujetos a incrustaciones y corrosión.
+21:45
+que no solo afectan la eficiencia del sistema sino que también aumentan el tiempo de inactividad
+21:50
+y costos de mantenimiento minimizando el uso de agua de mar como refrigerante secundario también
+21:56
+minimiza estos efectos adversos que veremos en un capítulo posterior que separa
+22:00
+Los sistemas ya no son la opción preferida, ahora es común en los
+22:04
+diseños para utilizar sistemas de refrigeración central con agua dulce como principal y
+22:09
+refrigerante secundario para la mayoría de las tareas de enfriamiento y solo un simple agua de mar
+22:13
+circuito para la eliminación final del calor, lo consideraremos con más detalle en una
+22:18
+capítulo

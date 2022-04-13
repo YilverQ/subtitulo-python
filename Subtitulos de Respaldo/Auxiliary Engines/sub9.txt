@@ -1,0 +1,66 @@
+00:20
+The governing system upon a start signal from the ship's auxiliary engine control
+00:27
+system starting Ayers led to the engine the tacho relay receives a signal from a
+00:34
+magnetic pickup on the flywheel cover which indicates the engine's speed when
+00:42
+the speed exceeds 300 rpm the tacho relay sends a signal to the speed
+00:47
+controller indicating the engine is running and the starting air is shut off
+00:53
+the speed controller receives a speed signal from a magnetic pickup on the
+00:59
+flywheel cover while the engine speed is below normal running speed it sends
+01:05
+signals to the actuator fitted on the flywheel end of the engine to increase
+01:11
+engine speed the actuator transforms the electric signals to mechanical movement
+01:18
+and through arms and linkages it changes the admission of the fuel oil injection
+01:24
+pumps in multi engine systems when the engine receives normal running speed the
+01:32
+synchronizer starts comparing frequency phases and voltage on the net side with
+01:39
+the corresponding values on the generator side when they are equal the
+01:45
+synchronizer closes the circuit generator breaker and the generator set
+01:49
+is connected to the bus the synchronizer is automatically switched off afterwards
+01:58
+when the circuit generator brake is closed the speed controller receives
+02:04
+signals indicating the load of the engine from the sensors in a switch gear
+02:08
+and signals showing the load of the other auxilary engines in the vessel if
+02:14
+the load of the engine diverges from the wanted load compared to the other
+02:19
+engines the speed controller changes the signal to the actuator to change the
+02:25
+admission on the engine when a change in the load and the main
+02:30
+bests occurs the generator will be forced to increase its output since the
+02:36
+engine speed is constant determined by the frequency on the main bus the
+02:42
+increased load from the generator results in an automatically increased
+02:46
+power output from the engine by increasing the admission click the
+02:53
+component for further information the electro hydraulic actuator is fitted on
+03:01
+the flywheel end of the engine the actuator receives electric signals from
+03:05
+the speed controller which it transforms to mechanical movement through arms and
+03:13
+linkages the actuator alters the admission to the fuel injection pumps
+03:18
+thus regulating the output from the engine the linkages and arms leading
+03:26
+from the actuator to each of the fuel oil injection pumps must always work
+03:31
+smoothly this should be checked every day and Greece added in all joints and
+03:38
+couplings were needed

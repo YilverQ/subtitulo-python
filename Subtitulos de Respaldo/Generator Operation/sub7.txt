@@ -1,0 +1,164 @@
+00:00
+Marine Online
+00:16
+In this section you will learn the benefits of
+00:22
+using a power management system they're
+00:27
+closed today may have a number of
+00:28
+generator sets split best bars and a
+00:32
+variable load automatic control of all
+00:36
+these have become common practice to
+00:38
+ensure continuity of service and an
+00:41
+efficient management of both generating
+00:44
+and load equipment typical power
+00:48
+management system will incorporate the
+00:51
+following functions automatic line
+00:54
+frequency adjustment load monitoring
+00:57
+load dependent start/stop of generator
+01:02
+sets supervision of heavy consumers
+01:05
+switch on load sharing automatic start
+01:09
+and connect after blackout other
+01:12
+functions which may be controlled by the
+01:14
+power management system include control
+01:17
+of pre lubrication pumps on the standby
+01:20
+Diesel's automatic load dependent change
+01:24
+of fuel on larger auxiliary Diesel's
+01:27
+diesel 2hf oh and vice versa click on
+01:33
+item to have that item described to you
+01:35
+in greater detail the power management
+01:38
+system sends increase/decrease signals
+01:41
+to the governor without the power
+01:45
+management system fine adjustment for
+01:48
+the frequency has to be executed
+01:50
+manually by means or the apt down
+01:53
+switches on the main switchboard the
+02:00
+total system load is monitored and
+02:02
+compared to the available online
+02:04
+generating capacity the system's will
+02:08
+advise the operator to start off stop
+02:11
+the generator sets in auto mode this
+02:16
+will be carried out automatically the
+02:22
+total system load is monitored and
+02:24
+compared with the available online
+02:27
+generating capacity
+02:30
+the system would advise the operator to
+02:33
+start stop the generator sets in
+02:36
+response to varying load in auto mode
+02:41
+this will be carried out automatically
+02:43
+the power management system will
+02:49
+consider the total load in relation to
+02:52
+the available online capacity before
+02:55
+allowing the heavy consumer to start
+02:58
+this is them to prevent blackout if the
+03:03
+actual old and a heavy consumer load
+03:06
+totaled is greater than the available
+03:09
+online capacity the power management
+03:12
+system would start and connect the next
+03:16
+generator before the heavy consumer is
+03:18
+allowed to be switched on the blackout
+03:23
+logic is triggered when the power
+03:25
+management system reads zero volts from
+03:28
+the main burst bars the highest priority
+03:31
+generator would attempt to start and
+03:34
+connect to the main bus bars if this
+03:37
+fails the next diesel generator will try
+03:40
+to start and connect move the cursor
+03:44
+over the different push buttons and
+03:47
+indicators for a description
+03:59
+let us assume that one generator is
+04:24
+connected and the other one is ready
+04:26
+both generators are in auto and are set
+04:30
+to equal load sharing you can now
+04:32
+increase and decrease the load on the
+04:35
+generators and change from equal load to
+04:38
+optimal load when finished press the
+04:41
+continue button by now it should be
+04:49
+obvious but to achieve maximum safety
+04:52
+during maneuvering both generators
+04:55
+should be connected and equal load
+04:57
+sharing selected as a control mode note
+05:02
+that even if the Prince of the same
+05:04
+there are several types of power
+05:06
+management systems found on the market
+05:08
+so you must always familiarize yourself
+05:12
+with the actual system found on board
+05:15
+your ship

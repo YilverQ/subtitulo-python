@@ -1,0 +1,166 @@
+00:00
+The learning objectives of this section are to be acquainted with the main parts
+00:04
+of a steam plant understand the steam cycle
+00:28
+in this training module we will look to steam plant on a V LCC with diesel
+00:35
+engine as propulsion machinery the exhaust boiler capacity at MC R is
+00:41
+sufficient for the turbo generator and heating the oil fired boiler of the dual
+00:46
+pressure or double evaporation type as a capacity of 50 tons per hour at 15 bar
+00:53
+and 410 degrees centigrade the four main parts of a steam plant are boiler
+01:02
+turbine condenser feed water pump in the boiler we are heating water and steam by
+01:11
+burning oil some of the energy content of the steam is converted to mechanical
+01:17
+energy in the turbine
+01:23
+exhaust steam from the turbine is cooled in the condenser and the condensate
+01:29
+brought back to the boiler by the feed water pump the series of processes
+01:34
+involved is called a steam cycle the working principle of the dual pressure
+01:47
+boiler in the primary system water is heated by the oil burners in the
+01:52
+combustion chamber the steam from the primary system is fed to the heat
+01:56
+exchanger the secondary system as the primary system is completely closed this
+02:02
+system has several advantages the feedwater will never be contaminated and
+02:08
+will be free of any oxygen meaning that we will not have any scale formation or
+02:14
+corrosion on the water side we do not need deaerator in the primary system the
+02:21
+heating service will always be cooled by the water flow and this will eliminate
+02:26
+the danger of burning down tube stack as the primary steam is heating the
+02:31
+secondary steam the temperature will not rise above the evaporating temperature
+02:36
+30 bar corresponding to approximately 235 degree centigrade
+02:43
+this will reduce possible deposits on the heating coil in the secondary steam
+02:48
+drum in the oil fired boiler the water in the rises are heated and small
+02:53
+bubbles of steam are formed inside the tubes the steam water is active
+03:05
+operating temperature entering the steam drum and the colder water in a steam
+03:09
+drum is falling back to the water drum through the downcomers
+03:13
+this circulation will continue as long as we are firing the boiler
+03:23
+in the secondary steam drum the primary steam is entering the heating coils at a
+03:29
+temperature corresponding to the pressure the steam is condensed in the
+03:37
+coil and the water is flowing back to the steam drum of the primary system
+03:43
+the secondary steam leaves the drum at a pressure of say 15 bar and a temperature
+03:49
+of 100 97 degrees centigrade and is passing through the super heater before
+03:54
+it enters the turbine in the super heater the wet steam is heated to
+03:59
+approximately 410 degrees centigrade and it leaves the super heater completely
+04:04
+dry
+04:26
+the steam is entering the turbine casing throttled by a control valve depending
+04:32
+on the size and type of the turbine the steam is passing one or several groups
+04:37
+of nozzles the condenser is of a/c water-cooled tube and shell type a large
+04:45
+capacity condenser may have up to 6,000 tubes the vacuum in the condensers
+04:51
+normally obtained by using one or more steam driven ejectors by lowering the
+04:56
+vacuum when they pull more power out of the turbine but on the other hand the
+05:01
+temperature of the condensate will also be lower and the total plant efficiency
+05:06
+will be reduced feed water to the secondary system is pumped by a feed
+05:12
+water pump from the feed water tank through the economizer before it is
+05:17
+entering the secondary boiler drum
+05:24
+you
+05:42
+before we have a closer look the main components of the steam plant we will
+05:47
+repeat some of the fundamentals of steam production as you know the boiling
+05:52
+temperature of water is dependent on the pressure when we are heating the waters
+05:58
+at constant pressure the temperature will increase until we reach the
+06:02
+saturation temperature the water will start to evaporate and the necessary
+06:08
+amount of energy to achieve this is called enthalpy of evaporation this
+06:15
+energy will remain the steam into the steam is condensed when we continue to
+06:20
+heat the saturated water it will be drier become saturated steam the steam
+06:26
+and the steam water drum will always be saturated because it is in contact with
+06:32
+water
+06:36
+when all the water the steam has been evaporated and we still are adding more
+06:41
+heat the steam will be superheated at constant pressure the temperature would
+06:47
+increase and we are talking about degree of superheating after the steam has
+06:57
+passed the turbine to a third of the total energy content added in the boiler
+07:02
+has to be released to condensate the steam this energy is called the enthalpy
+07:10
+of condensation like evaporation temperature of water the condensation
+07:15
+temperature of steam is dependent on the pressure to minimize the loss of energy
+07:20
+in the condenser it is important to maintain the outlet temperature of the
+07:25
+condensate as high as possible this is achieved by controlling the condenser
+07:29
+pressure and the cooling water flow in addition to the major losses in the
+07:34
+condenser we have other minor losses like
+07:39
+the heat in the exhaust gas
+07:44
+incomplete combustion radiation losses from the boiler air steam and water
+07:55
+leakage this is reduced to a minimum by the heat transferred in the economizer
+08:01
+and the air preheater as the fuel oil contains sulfur care must be taken not
+08:08
+to reduce the gas temperature below the dew point of the sulfuric gas with a
+08:13
+sulfur content in the fuel of 0.5 percent the dew point is approximately a
+08:19
+hundred degrees centigrade and at five percent as high as 160 degrees
+08:24
+centigrade this is influenced by fuel oil viscosity burner maintenance fuel
+08:32
+oil pressure atomizing steam pressure a oil mixing a oil ratio and fuel oil
+08:44
+quality
+08:47
+radiation losses from the boiler casing and piping due to damaged insulation and
+08:53
+brickwork air leakage enforced draught fans and ducting including air preheater
+09:03
+any steam leakage in valves and piping system when we add up these losses we
+09:10
+end up with a thermal boil efficiency of approximately 90%

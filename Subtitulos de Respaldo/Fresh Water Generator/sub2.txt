@@ -1,0 +1,52 @@
+00:00
+This lesson will give a short introduction on how to start an alfa
+00:04
+laval freshwater generator
+00:28
+you will now be guided through the starting procedure of an alfa laval
+00:32
+fresh water generator open the valves on the section and discharge side of the
+00:39
+ejector pump
+00:42
+open the Overboard valve for combined air Brian ejector close the air valve on
+00:50
+the upper part of the separator vessel
+00:55
+set the main switch to position 1 start the ejector pump check the pressure
+01:03
+before ejector minimum 0.28 to 0.3 mega Pascal's after ejector maximum 0.06 mega
+01:15
+Pascal's when there is a minimum of 90% vacuum
+01:20
+open the hot water inlet and outlet vowels from the jacket cooling system
+01:27
+start the hot water supply to the evaporator section by adjusting the
+01:32
+bypass valve until the desired jacket water temperature difference is reached
+01:37
+which is 80 degrees Celsius for the inlet and 72 degrees Celsius for the
+01:43
+outlet the boiling temperature inside the separator vessel ought to be about
+01:48
+45 degrees Celsius
+01:54
+start the fresh water pump when the salinity level drops below the set alarm
+02:00
+point set the secondary alarm on improper or too low hot water flow
+02:07
+adjust bypass will result in low boiling water temperature and a drop in the
+02:13
+freshwater production hi Brian level in the sight glass in the separator vessel
+02:19
+higher than the set alarm point thus dumping it to bilge is recommended the
+02:25
+solenoid valve on the discharge side of fresh water pump stays open
+02:30
+when evaporation starts the boiling temperature rises while the vacuum
+02:35
+achieved drops to approximately 93% after a few minutes normal vacuum and
+02:43
+boiling temperature is reestablished salinity drops below the set alarm point
+02:48
+and the solenoid valve closes

@@ -1,0 +1,376 @@
+00:00
+The learning objectives of this chapter are to introduce the learner to the need
+00:04
+to cool a diesel engine that the learner will know which diesel engine components
+00:08
+and systems require cooling
+00:32
+diesel engines are machines designed to convert the chemical energy of fuel to
+00:37
+mechanical energy in order to produce power this power is then used to do work
+00:43
+the work may be done in turning a propeller to drive a ship or to drive an
+00:47
+electrical generator to provide electrical power the energy conversion
+00:51
+process involves combustion of the fuel within the engine cylinder during
+00:56
+combustion heat is released and pressure is generated forcing down the piston the
+01:01
+piston is connected to the crankshaft through the connecting rod the downward
+01:07
+movement of the piston causes the crankshaft and the driven unit it is
+01:11
+connected to two-term unfortunately not all of the chemical energy can be
+01:15
+converted into work and some of the released heat energy transfers to the
+01:20
+engine components and some is lost to exhaust and the other engine fluids heat
+01:25
+is also lost to the surroundings due to radiation the moving parts of the engine
+01:29
+also subject to frictional effects and the work done in overcoming this
+01:34
+friction transfers heat to these components for example bearings piston
+01:39
+rings and cams click on the button to see various stages
+02:13
+if the diesel engine was left uncooled then serious operational problems are
+02:17
+likely to occur the high operating temperatures would result in clearances
+02:23
+between components reducing due to thermal expansion leading to seizure
+02:27
+material properties of the various components deteriorating leading to
+02:31
+failure due to excessive mechanical than thermal stress damage to pump seals and
+02:37
+ceilings leading to leakage oxidation and reduced viscosity of the lubricating
+02:42
+oil resulting in metal to metal contact between components due to oil film
+02:47
+failure you should therefore realize that there is a need to cool a diesel
+02:50
+engine in order to avoid these failures if it is to operate continuously for
+02:55
+long periods some small diesel engines may be directly air-cooled with or
+03:02
+without forced air circulation you may have some small diesel engines onboard
+03:07
+your ship possibly lifeboat engines or emergency compressor engines which are
+03:12
+air-cooled you will recognize them by the presence
+03:15
+of extended fins around the cylinder block or by a cooling fan unit direct
+03:19
+air cooling is only suitable for the smallest low rated diesel engines for
+03:24
+the vast majority of marine diesel engines direct air cooling is
+03:28
+insufficient and other cooling mediums must be used such as water or oil these
+03:34
+are usually closed systems with the same coolant circulated continuously the
+03:39
+fluids normally used in a closed circuit can be considered as the primary coolant
+03:43
+with a secondary coolant being used to take heat from the primary to avoid it
+03:48
+overheating primary coolants are usually freshwater or lubricating oil and
+03:52
+secondary coolant may be fresh water or sea water or in some cases air click the
+03:59
+images to see the unlock before moving on you should click on the button for a
+04:03
+brief explanation of the role of lubricating oil as a coolant
+04:42
+the primary purpose of lubricating oil is to form an oil film between two
+04:47
+moving surfaces and so reduce friction in doing so the oil heats up partly due
+04:53
+to the friction of the oil molecules moving across each other under load and
+04:57
+partly due to heat transfer from hot engine components as the oil heats up
+05:02
+the viscosity and therefore the load carrying capacity will reduce and it can
+05:07
+no longer keep the moving surfaces apart this will lead to further heating and
+05:12
+deterioration of the oil it is therefore necessary to cool the lubricating oil to
+05:17
+maintain its performance and condition in small engines the hot oil transfers
+05:22
+heat to the atmosphere through finned coils or through the surface of the oil
+05:26
+pan in larger engines it is necessary to circulate the oil through external heat
+05:38
+exchangers where the heat is transferred to a secondary coolant this continuous
+05:43
+circulation and transfers to a secondary coolant means that the lubricating oil
+05:48
+is being used as the primary coolant for some engine components an ideal coolant
+05:58
+should be low most readily available non scale forming
+06:02
+and non corrosive it should also have a high specific heat capacity this is a
+06:08
+measure of the amount of heat required to raise the temperature of a unit mass
+06:11
+of the substance by one Kelvin K the units for specific heat capacity are
+06:18
+usually given as kilo joules per kilogram Kelvin the higher the specific
+06:22
+heat capacity the more heat can be taken away from the materials which require
+06:27
+cooling it is also desirable for the coolant to have a low viscosity to
+06:32
+minimize flow resistance in the cooling system this makes water the first choice
+06:37
+for most cooling systems usually with the addition of additives such as
+06:41
+corrosion inhibitors when selecting a coolant it is also necessary to consider
+06:46
+the risk of contamination due to leakage so for example cooling a piston in a
+06:52
+diesel engine with water has a high risk of contaminating the lubricating oil
+06:56
+system in this case lubricating oil may be chosen to avoid this risk even though
+07:02
+water may be the better coolant click on each of the images to know more about
+07:07
+various coolants that are available in the marine environment although
+07:19
+is plentiful it has a relatively low specific heat capacity approximately 1.0
+07:24
+kilo joules per kilogram Kelvin the low density of air would require that large
+07:30
+volumes would need to be supplied to take away the heat from the various
+07:33
+diesel engine systems AirCam however be used as a coolant irrespective the
+07:38
+process temperature range air-cooled radiators are used on some smaller
+07:42
+engines with the air as the secondary coolant being forced through the
+07:46
+external fins of the radiator by a firm
+08:09
+the moderate specific heat capacity of mineral oil two point zero to two point
+08:14
+five kilo joules per kilogram Kelvin means that using oil as a coolant is
+08:19
+generally restricted to those applications where lubrication is also
+08:23
+required as stated earlier if current leakage would be a problem for example
+08:29
+water in the engine crankcase then cooling with oil may be the preferred
+08:33
+choice rather than using complex sealing arrangements oil has a wider useful
+08:42
+temperature range than water although excess temperatures can lead to
+08:46
+oxidation and carbon deposits synthetic or thermal oils can be used to extend
+08:52
+the temperature range at low pressure although thermal oil is normally used
+08:56
+for heating purposes rather than as a coolant
+09:08
+see water would be the first choice coolant for marine applications if it
+09:12
+was not for the associated scale problems it is cheap plentiful has good
+09:18
+specific heat capacity approximately 4.0 kilojoules per kilogram Kelvin and low
+09:23
+viscosity scale formation increases with operating temperature which limits the
+09:28
+useful temperature range and means that using direct sea water cooling for
+09:32
+modern engines is not really practical some cooling systems still have a
+09:38
+facility allowing emergency operation and sea water cooling but usually at
+09:42
+restricted loads in most cases the use of sea water as a coolant is limited to
+09:48
+secondary cooling applications where temperature requirements are lower and
+09:52
+scale formation can be minimized
+10:00
+freshwater meets all of the requirements for a coolant however it is not readily
+10:05
+available and has to be stored or produced on board the specific heat
+10:10
+capacity is approximately 4.2 kilo joules per kilogram Kelvin which gives a
+10:16
+very good cooling effect when produced on board by a freshwater generating
+10:20
+plant the water is almost pure therefore scale formation is not really a problem
+10:25
+however the slightly acidic water that is produced by such a plant has to be
+10:30
+chemically treated as we will see later to prevent corrosion fresh water is
+10:35
+preferred as the primary coolant for diesel engine jacket water systems and
+10:39
+as the secondary coolant for the other engine systems the temperature range is
+10:43
+limited by the relatively low boiling point of 100 degrees Celsius although
+10:48
+this can be increased by having a closed pressurized system
+10:57
+the table shows the comparison among the various coolants that are available in a
+11:02
+marine environment it is clear that there is a need to cool the diesel
+11:10
+engine we must now decide on which components and which ancillary systems
+11:15
+will have to be cooled the simple answer is any component or system that will not
+11:19
+function properly atomic temperature the items which will
+11:23
+be affected most are those which are directly exposed to the combustion
+11:27
+process or a subject of friction this will include all components forming the
+11:32
+combustion chamber and all moving components the engine fluids such as the
+11:37
+lubricating oil jacket water and charged air also need to be cooled we also need
+11:43
+to consider ancillary equipment such as the turbocharger which is subject to
+11:47
+heating due to friction and also the flow of exhaust gas through the turbine
+11:52
+side and the heating effect of compressing the air on the compressor
+11:55
+side click on the buttons to see which fluids and components require cooling
+12:00
+when the engine is operating it is worth noting at this point that too much
+12:14
+cooling can be detrimental to the operation of a diesel engine leading to
+12:18
+low thermal efficiency high running costs and engine damage obviously a
+12:23
+compromise is necessary before moving on you should click on the buttons to see
+12:27
+the components and ancillary equipment that need to be cooled as the engine
+12:32
+operates
+12:41
+the diesel engine components which are heated directly by the combustion
+12:45
+process are the piston and cylinder liner including any firing ring the
+12:52
+cylinder cover and fittings including exhaust valves inlet valves and fuel
+12:57
+injector and the piston rings in particular the top ring the diesel
+13:03
+engine components which heat up due to friction as they move are the piston
+13:08
+piston rings and cylinder liner the piston rods connecting rods and
+13:13
+associated bearings the cylinder cover valves and actuate in gear the
+13:20
+crankshaft and bearings including thrust arrangement the cam shaft and bearings
+13:28
+the chains chain wheels and bearings the internal gear drives and fuel injection
+13:38
+equipment click on the button to see the
+13:49
+you
+14:00
+as has already been stated the turbocharger will run at high
+14:03
+temperature due to the working conditions of the exhaust gas the
+14:07
+compression of the air and frictional heat from the bearings traditionally
+14:11
+large turbocharger casings were water-cooled usually using a sub circuit
+14:16
+of the main jacket water cooling system smaller units were awful air cooled many
+14:22
+of the latest generation of turbochargers have uncooled turbine
+14:26
+casings which reduces the total heat losses of the engine and increases
+14:30
+overall thermal efficiency with this design lubrication is usually taken from
+14:36
+the main engine lubricating oil system and the circulating oil carries away the
+14:41
+heat from the bearings exhaust side casings have to be well insulated for
+14:46
+the protection of personnel the vast majority of water-cooled engines use
+14:57
+freshwater as the primary coolant for the static components forming the
+15:01
+combustion chamber this is achieved by circulating the water through the space
+15:06
+between the cylinder liner and the cylinder block and the liner and the
+15:10
+cylinder jacket the system is therefore referred to as the jacket cooling water
+15:15
+system the water enters at the bottom of the cylinder liner and pulses up the
+15:20
+jacket and through the cylinder cover as it exits the engine this also provides
+15:26
+cooling for the valves and the operating gear many designs incorporate ball
+15:31
+cooling of these main components in which drilled passageways for the
+15:35
+coolant are positioned close to the surface of the component to be cold this
+15:39
+allows intense cooling while maintaining the strength of the component the air
+15:44
+for combustion is usually cooled by seawater after delivery from the
+15:48
+turbocharger before entering the cylinder although as we will see later
+15:52
+fresh water can be used the Pistons are usually cooled by a separate piston
+15:57
+cooling system which uses either fresh water or lubricating oil as the coolant
+16:02
+if freshwater cooling is used it is normally separate to the main jacket
+16:07
+water system the piston rings are cooled by conduction with heat transferring to
+16:12
+either the cooled cylinder wall or the Piston body the crankshaft and
+16:19
+associated bearings and four large slow speed engines the cross head arrangement
+16:24
+are cooled by the main lubricating oil system the camshaft and associated
+16:29
+bearings are cooled by lubricating oil circulation which in many designs is
+16:34
+separate to the engine's main lubricating system this minimizes the
+16:39
+risk of contamination of the main system by fuel oil leakage the frictional heat
+16:43
+generated by the piston motion in the liner is removed by the jacket water and
+16:48
+piston cooling systems in modern uncooled fuel injection systems the
+16:53
+component temperatures are normally maintained at acceptable levels by the
+16:57
+flow of fuel oil recirculation of fuel in the injectors may be used to assist
+17:03
+this in heavy fuel systems older fuel injection systems either relied on heat
+17:10
+transfer to the cylinder cover wet injector pockets in the cylinder cover
+17:14
+or forced circulation of coolant through balls in the injector body to maintain
+17:19
+acceptable temperatures the coolants used for this full circulation varied
+17:24
+and freshwater thermal oil and diesel oil have all been used by different
+17:29
+engine manufacturers in this particular module we will be
+17:35
+looking at engine cooling water systems but as you will see in many modern
+17:40
+designs this system is also used as the secondary coolant for the other engine
+17:44
+systems in older designs sea water was used as the secondary coolant for each
+17:50
+of the individual systems we shall have a detailed look at a basic jacket water
+17:55
+cooling system and also a central cooling system which is a common
+17:59
+solution used to minimize the use of sea water cooling and the high maintenance
+18:03
+needs of such a system

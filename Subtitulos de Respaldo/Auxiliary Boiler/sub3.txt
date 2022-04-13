@@ -1,0 +1,110 @@
+00:00
+The learning objectives of this section are to be acquainted with the following
+00:04
+boiler control systems combustion control burner management trip system
+00:11
+level control
+00:33
+the main objectives of the combustion control system are to supply fuel oil
+00:38
+according to the boiler load to control the combustion air supply according to
+00:43
+the fuel oil consumption to shut off the burners in case of an emergency a
+00:48
+cascade control system is used to obtain the best possible stability the system
+00:55
+is comprised of several controllers a master controller receives the steam
+01:01
+pressure and a steam flow signal the output signal from the master is the
+01:06
+input signal to the air controller and the fuel oil controller called the slave
+01:12
+controllers the control philosophy is that the slave controller has to take
+01:18
+care of the variations in the master controller output signal before this
+01:22
+effects the master controllers input signal the master input signal or the
+01:29
+process variable is the value that has to be constant in the first place to
+01:35
+maintain the best possible combustion during change of boiler load we need a
+01:40
+high-low selector which also receives a signal from the oxygen controller the
+01:46
+high-low selector makes it possible to increase the air flow before increase in
+01:52
+fuel oil flow when we increase spoil a load as we are reducing boiler load we
+01:59
+want to reduce the oil flow before we reduce the airflow by adding the signal
+02:06
+from the oxygen analyzer we can optimize the a oil ratio further this to
+02:13
+compensate for variations in fewer oil quality
+02:17
+airflow due to soot and reduced air blower capacity tuning of a cascade
+02:23
+control system is usually done the following way
+02:27
+set the slave controller in manual during normal operation tune the control
+02:36
+according to specifications in the operating manual when the master
+02:43
+controller input process variable is correct
+02:47
+adjust the slave controllers setpoint to the slave controller input signal when
+02:56
+this is completed the slave controller can be switched back to auto the master
+03:04
+controller must be in manual during firing of the boiler if it is necessary
+03:09
+to tune the master controller this must be done with the slave controller in
+03:13
+auto or remote setpoint mode carefully follow the instructions in the manual as
+03:20
+each burner has a limited capacity with an optimum range
+03:25
+we usually have several burners on each boiler to achieve the best possible
+03:29
+combustion and a various load conditions the burner management system will fire
+03:34
+and shut off the burners in sequence depending on the boiler load one burner
+03:41
+is selected as the master and the others are slaves a set steam pressure
+03:46
+deviation will activate the system the low and high pressure limits must
+03:53
+reflect the pressure control system settings
+04:09
+to avoid hazards to people and possible damage to the boiler a shutoff or
+04:14
+tripped system is always installed input to the trip system can be the following
+04:20
+signals flame failure combustion air failure air preheater failure high high
+04:28
+water level low low water level high high steam pressure the mergency stop
+04:35
+activated
+04:46
+all the signals are wired in a separate system and are not an integrated part of
+04:51
+the control system the trip system requires separate pressure and level
+04:56
+switches to maintain the correct water level during all normal operating
+05:01
+conditions we need an automatic level control system on boilers with a low
+05:07
+steam production and a high water content the level control system only
+05:13
+measures the water level and controls the feed water flow by a control valve
+05:22
+on boilers with a high esteem production and low water content the level control
+05:29
+system is usually based on signals from the steam consumption and the feed water
+05:34
+supply in addition to the water level a sudden increase in steam consumption
+05:39
+results in a pressure drop in the steam water drum and the water level increases
+05:45
+and vice versa this is why we need to compare steam consumption with the feed
+05:51
+water supply before we introduce major changes the feed water supply

@@ -1,0 +1,148 @@
+00:00
+Operation and surveillance learning objectives the main objectives of this
+00:06
+section are to make the operators able to describe components and systems which
+00:12
+should be operating during startup describe components and systems which
+00:19
+should be in standby mode during startup recognize the components to operate
+00:25
+during startup describe what actually happens within the system during startup
+00:32
+describe the critical parameters and know where to find the measuring
+00:36
+instruments rectifying actions in case of deviation
+01:02
+before starting the engine after a period of standstill shorter than 24
+01:07
+hours the following routine should be performed to ensure a safe startup of
+01:12
+the engine if the fuel system has been disconnected it will be necessary to
+01:18
+expel trapped air in the system disconnect the high-pressure pipe
+01:23
+between some of the fuel injection pumps and fuel injection valves wait until all
+01:30
+the oil comes out of the pipe before reconnecting check the cooling water
+01:35
+system check jacket cooling water start on marine diesel oil check that the
+01:43
+jacket cooling water temperature is above 50 degrees Celsius for a warm
+01:48
+standby starting this makes the engine ready for instant loading to a hundred
+01:53
+percent between zero degrees and 50 degrees Celsius the engine can be cold
+02:01
+started on marine diesel oil the engine has to be loaded gradually and in a
+02:08
+minimum jacket water temperature of 50 degrees Celsius is reached if the jacket
+02:14
+water temperature is below zero degree Celsius the only starting attempts
+02:19
+should be emergency starts requirement for start on heavy fuel oil check that
+02:27
+the jacket water cooling water temperature is at least 50 degrees
+02:31
+Celsius if it's not run the heater until it reaches that temperature for start
+02:39
+and heavy fuel oil check fuel oil and nozzle oil temperatures in addition to
+02:46
+the jacket cooling water temperature the following temperature demands have to be
+02:51
+met to start on heavy fuel oil the temperature of the heavy fuel oil has to
+02:56
+be as required for the fuel oil injection viscosity the nozzle oil
+03:01
+temperature has to be 85 plus -5 degrees Celsius check control air pressure
+03:09
+ensure that the control air pressure is between 5 and 7 bar
+03:14
+check the lubricating oil systems check for cooling water leakage clean rocker
+03:22
+arm lubricating oil filter check the starting air pressure check start
+03:29
+interlocks when starting the engine after a period of standstill longer than
+03:35
+24 hours the following routine should be performed to ensure a safe startup of
+03:41
+the engine if the fuel system has been disconnected it would be necessary to
+03:46
+expel trapped air in the system disconnect the high-pressure pipe
+03:53
+between some of the fuel injection pumps and fuel injection valves wait until all
+04:00
+the oil comes out of the pipe before reconnecting check the cooling water
+04:05
+system open the lower temperature and the high temperature cooling water
+04:11
+valves check the high temperature cooling water level in the expansion
+04:18
+tank if the engine has been drained the high temperature system must be vented
+04:25
+start a marine diesel oil check that the jacket cooling water temperature is
+04:32
+above 50 degrees Celsius for a warm standby starting this makes the engine
+04:39
+ready for instant loading to a hundred percent between zero degrees and 50
+04:45
+degrees Celsius the engine can be cold started on marine diesel oil the engine
+04:53
+has to be loaded gradually and in a minimum jacket water temperature of 50
+04:57
+degrees Celsius is reached if the jacket water temperature is below zero degrees
+05:03
+Celsius the only starting attempts should be emergency starts requirement
+05:11
+for start on heavy fuel oil check that the jacket cooling water temperature is
+05:16
+at least 50 degrees Celsius if it's not run the heater until it reaches that
+05:23
+temperature for start and heavy fuel oil check fuel
+05:28
+oil and nozzle oil temperatures in addition to the jacket cooling water
+05:32
+temperature the following temperature demands have to be met to start on heavy
+05:38
+fuel oil the temperature of the heavy fuel oil has to be as required for the
+05:43
+fuel oil injection viscosity the nozzle oil temperature has to be 85 plus -5
+05:50
+degrees Celsius check the control air system check the control air module
+05:57
+ensure that the control air pressure is between 5 and 7 bar open the control air
+06:05
+quickly to avoid that the solenoid valves are placed in the center position
+06:10
+drain the control air module check the lubricating oil systems check for
+06:17
+cooling water leakage clean rocker arm lubricating oil filter check control
+06:23
+shaft check the starting air pressure check start interlocks start the engine
+06:34
+check all manometers check the start air piping before manual control stop run
+06:44
+engine for 5 minutes on no load to avoid boiling of cooling water you are
+06:50
+performing a daily check of the engine then you discover that exhaust
+06:55
+temperature one of the cylinders is too high compared to the others even though
+07:01
+it is not triggered an alarm it is important to find out why the exhaust
+07:06
+temperatures too high what would you do specify the procedure by dragging the
+07:13
+actions so they are listed in a suitable order on the sheet at EDD specify the
+07:21
+procedure by dragging the actions so they are listed in a suitable order on
+07:26
+the sheet at any time you can get more detailed information on any of the
+07:32
+actions by double clicking on it you are performing a daily check of the
+07:38
+engine then you discover that the exhaust temperature for one of the
+07:42
+cylinders is too low compared to the others even though it is not triggered
+07:47
+an alarm it is important to find out why the exhaust temperatures too low what
+07:54
+would you do

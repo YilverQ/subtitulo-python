@@ -1,0 +1,165 @@
+00:00
+Los objetivos de aprendizaje de esta sección son familiarizarse con las partes principales
+00:04
+de una planta de vapor comprender el ciclo del vapor
+00:28
+En este módulo de capacitación veremos una planta de vapor en una V LCC con diesel.
+00:35
+motor como maquinaria de propulsión la capacidad de la caldera de escape en MC R es
+00:41
+suficiente para el turbogenerador y calentar la caldera de gasoil del doble
+00:46
+tipo presión o doble evaporación con una capacidad de 50 toneladas por hora a 15 bar
+00:53
+y 410 grados centígrados, las cuatro partes principales de una planta de vapor son caldera
+01:02
+bomba de agua de alimentación del condensador de turbina en la caldera estamos calentando agua y vapor por
+01:11
+quemar aceite parte del contenido de energía del vapor se convierte en mecánica
+01:17
+energía en la turbina
+01:23
+El vapor de escape de la turbina se enfría en el condensador y el condensado
+01:29
+devuelto a la caldera por la bomba de agua de alimentación la serie de procesos
+01:34
+involucrado se llama ciclo de vapor el principio de funcionamiento de la presión dual
+01:47
+caldera en el sistema primario el agua es calentada por los quemadores de aceite en el
+01:52
+cámara de combustión el vapor del sistema primario se alimenta al calor
+01:56
+intercambiador del sistema secundario ya que el sistema primario está completamente cerrado
+02:02
+El sistema tiene varias ventajas, el agua de alimentación nunca se contaminará y
+02:08
+estará libre de oxígeno, lo que significa que no tendremos ninguna formación de incrustaciones o
+02:14
+corrosión en el lado del agua, no necesitamos desaireador en el sistema primario.
+02:21
+El servicio de calefacción siempre será enfriado por el flujo de agua y esto eliminará
+02:26
+el peligro de quemar la pila del tubo descendente ya que el vapor primario está calentando
+02:31
+vapor secundario la temperatura no subirá por encima de la temperatura de evaporación
+02:36
+30 bar correspondientes a aproximadamente 235 grados centígrados
+02:43
+esto reducirá posibles depósitos en el serpentín de calentamiento en el vapor secundario
+02:48
+tambor en la caldera de aceite el agua en los ascensos se calienta y se
+02:53
+se forman burbujas de vapor dentro de los tubos el agua de vapor está activa
+03:05
+temperatura de funcionamiento que ingresa al tambor de vapor y el agua más fría en un vapor
+03:09
+el tambor vuelve al tambor de agua a través de las bajantes
+03:13
+esta circulación continuará mientras estemos encendiendo la caldera
+03:23
+En el tambor de vapor secundario, el vapor primario entra en las bobinas de calentamiento a
+03:29
+temperatura correspondiente a la presión en la que el vapor se condensa en el
+03:37
+bobina y el agua fluye de regreso al tambor de vapor del sistema primario
+03:43
+el vapor secundario sale del tambor a una presión de, digamos, 15 bar y una temperatura
+03:49
+de 100 97 grados centígrados y pasa por el supercalentador antes
+03:54
+entra a la turbina en el supercalentador el vapor húmedo se calienta a
+03:59
+aproximadamente 410 grados centígrados y deja el supercalentador completamente
+04:04
+seco
+04:26
+el vapor entra en la carcasa de la turbina estrangulado por una válvula de control dependiendo
+04:32
+según el tamaño y tipo de turbina, el vapor pasa por uno o varios grupos
+04:37
+de boquillas, el condensador es de tubo y carcasa refrigerados por agua de aire acondicionado
+04:45
+El condensador de capacidad puede tener hasta 6.000 tubos el vacío en los condensadores
+04:51
+04:56
+vacío cuando extraen más potencia de la turbina pero, por otro lado, el
+05:01
+La temperatura del condensado también será menor y la eficiencia total de la planta
+05:06
+se reducirá el agua de alimentación al sistema secundario es bombeada por una alimentación
+05:12
+bomba de agua del tanque de agua de alimentación a través del economizador antes de que sea
+05:17
+entrando en el tambor secundario de la caldera
+05:24
+tú
+05:42
+antes de ver más de cerca los componentes principales de la planta de vapor,
+05:47
+Repita algunos de los fundamentos de la producción de vapor ya que conoce la ebullición
+05:52
+la temperatura del agua depende de la presión cuando calentamos el agua
+05:58
+a presión constante la temperatura aumentará hasta alcanzar el
+06:02
+temperatura de saturación el agua comenzará a evaporarse y la necesaria
+06:08
+La cantidad de energía para lograr esto se llama entalpía de evaporación.
+06:15
+la energía seguirá siendo el vapor en el vapor se condensa cuando continuamos
+06:20
+calentar el agua saturada estará más seco volverse vapor saturado el vapor
+06:26
+y el tambor de agua de vapor siempre estará saturado porque está en contacto con
+06:32
+agua
+06:36
+cuando se haya evaporado toda el agua el vapor y todavía estemos agregando más
+06:41
+calor el vapor se sobrecalentará a presión constante la temperatura
+06:47
+aumentar y estamos hablando de grado de sobrecalentamiento después de que el vapor ha
+06:57
+pasó la turbina a un tercio del contenido total de energía agregada en la caldera
+07:02
+tiene que ser liberado para condensar el vapor esta energía se llama entalpía
+07:10
+de condensación como temperatura de evaporación del agua la condensación
+07:15
+La temperatura del vapor depende de la presión para minimizar la pérdida de energía.
+07:20
+en el condensador es importante mantener la temperatura de salida del
+07:25
+condensado lo más alto posible esto se logra controlando el condensador
+07:29
+presión y el flujo de agua de refrigeración, además de las principales pérdidas en el
+07:34
+condensador tenemos otras pérdidas menores como
+07:39
+el calor en los gases de escape
+07:44
+Pérdidas por radiación de combustión incompleta del aire de la caldera, vapor y agua.
+07:55
+fugas, esto se reduce al mínimo por el calor transferido en el economizador
+08:01
+y el precalentador de aire, ya que el fueloil contiene azufre, se debe tener cuidado de no
+08:08
+para reducir la temperatura del gas por debajo del punto de rocío del gas sulfúrico con un
+08:13
+contenido de azufre en el combustible de 0,5 por ciento el punto de rocío es aproximadamente un
+08:19
+cien grados centígrados y al cinco por ciento tan alto como 160 grados
+08:24
+centígrados esto está influenciado por la viscosidad del aceite combustible mantenimiento del quemador combustible
+08:32
+presión de aceite presión de vapor de atomización un aceite que mezcla una proporción de aceite y aceite combustible
+08:44
+calidad
+08:47
+Pérdidas por radiación de la carcasa y las tuberías de la caldera debido a un aislamiento dañado y
+08:53
+Fugas de aire en mampostería Ventiladores y conductos de tiro forzado, incluido precalentador de aire
+09:03
+cualquier fuga de vapor en las válvulas y el sistema de tuberías cuando sumamos estas pérdidas,
+09:10
+terminar con una eficiencia de ebullición térmica de aproximadamente el 90%

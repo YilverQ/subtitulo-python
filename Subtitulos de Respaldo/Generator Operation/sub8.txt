@@ -1,0 +1,392 @@
+00:00
+Marine Online
+00:16
+Understanding the need to take necessary safety
+00:22
+precautions during maintenance for the
+00:25
+electrical installations before
+00:31
+attempting any electrical work there are
+00:33
+some basic precautions you must bear in
+00:36
+mind the possible dangers arising from
+00:40
+the misuse of electrical equipment are
+00:42
+well known electric shock and fire
+00:46
+caused loss of life and damage to
+00:49
+equipment regulations exist to control
+00:53
+the construction installation operation
+00:56
+and maintenance of electrical equipment
+00:58
+in order to reduce the element of danger
+01:02
+as much as possible where danger arises
+01:05
+it is usually due to accident neglect
+01:08
+off another contravention of the
+01:10
+regulations electrical equipment and
+01:13
+services and board ships must meet the
+01:16
+minimum standards specified by the
+01:18
+various national and international
+01:21
+organizations the standards specified by
+01:26
+the various organizations are met when a
+01:29
+ship is designed built approved and
+01:31
+classified it is the ship owner and is
+01:34
+staffs responsibility to maintain the
+01:37
+vessel and its electrical equipment in
+01:40
+compliance with the requirements of the
+01:42
+classification society throughout the
+01:45
+ship's lifetime the periodic electrical
+01:49
+survey every four years is for checking
+01:52
+that the installations meet the
+01:54
+requirements the classification society
+01:57
+the ship's staff must operate equipment
+02:00
+in a safe manner and maintain it in a
+02:03
+safe condition at all times failure to
+02:07
+do so is dangerous and could have
+02:10
+disastrous consequences the ship staff
+02:14
+should keep in mind an essential list of
+02:16
+do's and don'ts when working on
+02:19
+electrical equipment do get to know the
+02:24
+ship's electrical system and equipment
+02:26
+study the ship's diagrams
+02:29
+to pinpoint the location of switches and
+02:31
+protection devices supplying
+02:33
+distribution boards and essential items
+02:36
+of equipment right down this information
+02:40
+in a notebook note the normal indication
+02:44
+from switchboards instruments so that
+02:46
+abnormal operation can we quickly
+02:49
+detected do operate the equipment
+02:52
+according to the manufacturer's
+02:54
+recommendations do maintain equipment
+02:57
+according to the manufacturer's
+03:00
+recommendations or the ship owners
+03:03
+maintenance procedures do check that
+03:06
+circuits are dead by using a voltage
+03:09
+tester before touching conductors and
+03:12
+terminals do switch off and lock off
+03:15
+supplies remove fuses and display
+03:19
+warning notices before removing
+03:22
+equipment covers prior to maintenance to
+03:25
+ensure that all guards covers and doors
+03:29
+are securely fitted and that all bolts
+03:32
+and fittings are fitted and tightly
+03:35
+secured don't neglect or abuse equipment
+03:40
+don't leave conductors or rotating parts
+03:45
+exposed don't touch rotating parts don't
+03:49
+touch live conductors under any
+03:52
+circumstances you should think safety at
+03:57
+all times and developed an attitude of
+04:00
+safety consciousness this may well save
+04:04
+your life from the lives of others most
+04:07
+accidents occur due to momentary loss of
+04:10
+concentration or attempt the
+04:12
+short-circuit standard safety procedures
+04:15
+do not let it happen to you nearly
+04:22
+everyone has experienced an electric
+04:24
+shock at some time at best it is an M
+04:29
+pleasant experience at worst it is
+04:32
+faithful anyone who has access to live
+04:36
+electrical equipment must be fully
+04:38
+familiar with first aid and safety
+04:41
+procedures related electric
+04:43
+och as described in relevant safety act
+04:46
+copies of these safety procedures should
+04:50
+be displayed on board ship electric
+04:57
+shock is caused by the flow of current
+04:59
+through your body this is often from
+05:03
+hand to hand off from hand to foot a
+05:06
+shock current as low as 15 milli amp AC
+05:10
+or DC may be fatal obviously the size of
+05:16
+the shock current is related to the
+05:18
+applied voltage and your body's
+05:20
+resistance and fortunately your body's
+05:24
+resistance goes down as applied voltage
+05:27
+goes up this means that the shock
+05:31
+current is further increased at high
+05:34
+voltages the amount of your body
+05:38
+resistance also depends on other factors
+05:41
+such as your state of health the degree
+05:44
+of contact with live wires and the
+05:46
+amount of perspiration or dampness on
+05:49
+your skin typical dry full contact body
+05:52
+resistance is about 5,000 ohms at 25
+05:57
+votes fall into 2000 ohms at 250 volts
+06:02
+elect shock is often accompanied by
+06:06
+falling which may cause additional
+06:08
+physical injury and require first-aid
+06:11
+action if the shock victim is
+06:14
+unconscious resuscitation must take
+06:17
+place first before doing anything else
+06:19
+check the resuscitation techniques
+06:22
+illustrators on the electric shock
+06:25
+posters displayed on board all equipment
+06:32
+is subject to wear and tear eventually
+06:35
+reaching the end of its useful life when
+06:37
+it must be replaced as equipment nears
+06:41
+the end of its life its condition
+06:43
+determines to what an extent it poses a
+06:46
+danger to personnel and other power
+06:49
+plants the purpose of maintenance
+06:51
+therefore is to extend the useful life
+06:54
+of equipment by
+06:57
+air and or replacement of defective
+07:00
+parts and to maintain it in a safe and
+07:03
+serviceable condition the marine
+07:09
+environment is particularly arduous full
+07:12
+elective equipment to the damp fault
+07:15
+Laden atmosphere extremes of temperature
+07:18
+and constant vibration shitball
+07:22
+equipment is in particular need of
+07:24
+correct maintenance the continuous
+07:28
+operation of equipment on board a ship
+07:30
+demands high operating efficiency and
+07:33
+optimum economy in order to keep down
+07:36
+costs to maintain financial
+07:38
+competitiveness nearly all equipment
+07:44
+needs maintenance an efficiency engineer
+07:47
+or electrician must get to know his
+07:50
+plant he must be able to check the
+07:53
+ship's drawings and diagrams and relate
+07:56
+them to actual equipment equipment must
+07:59
+be kept under continuous observation so
+08:02
+that normal healthy operating conditions
+08:04
+become familiar and abnormal operation
+08:07
+can be quickly observed faults should be
+08:12
+pinpointed and corrected before
+08:15
+breakdown occurs caution if it is
+08:19
+necessary to work on live equipment and
+08:22
+the operator must be fully protected
+08:25
+only rubber gloves that are specially
+08:28
+made for this purpose should be used
+08:30
+caution always ensure that the generator
+08:35
+prime mover is shut down and locked off
+08:38
+before you begin your maintenance also
+08:42
+check that the generator circuit breaker
+08:44
+is locked off auto start circuits are
+08:48
+disabled and generate electric heaters
+08:50
+are isolated caution generator circuit
+08:54
+breakers must be switched off and
+08:57
+isolated from the best spas for
+08:59
+maintenance and testing name
+09:05
+for the generator is normally limited to
+09:07
+inspection and lubrication of bearings
+09:10
+according to manufacturers
+09:12
+recommendation clean the generators in
+09:15
+case of dirt in accordance with the
+09:17
+manufacturers recommendation it is
+09:19
+rendered that you check the generators
+09:22
+controlled equipment and compare them to
+09:25
+the test protocols delivered from the
+09:28
+manufacturer Limited maintenance is
+09:33
+generally all that is necessary in the
+09:35
+main switchboard however specified
+09:39
+maintenance on the different
+09:40
+manufacturers should be carried out
+09:42
+generally the maintenance on a main
+09:46
+switchboard consists of cleaning
+09:48
+lubrication of mechanical devices and
+09:51
+checking contacts note that unnecessary
+09:54
+tightening of contacts and terminals are
+09:57
+not recommended this may cause
+10:01
+deformations and in turn break or weaken
+10:04
+contacts some circuit breakers may have
+10:07
+pneumatic delay relays which tend to
+10:10
+change delay time due to dirt these have
+10:14
+to be cleaned and checked eventually
+10:17
+readjusted inspection of the instruments
+10:20
+accuracy may be carried out according to
+10:22
+maintenance schedule inspect the
+10:25
+generator circuit breakers in accordance
+10:28
+of manufacturers recommendations typical
+10:34
+failure on the generator may be one or
+10:36
+more of the following
+10:51
+very big

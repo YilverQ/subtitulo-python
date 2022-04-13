@@ -1,0 +1,234 @@
+00:00
+Esta lección dará una breve introducción sobre los principios de funcionamiento.
+00:03
+del generador de agua dulce Alfa Laval
+00:28
+la función del generador de agua dulce es convertir el agua de mar en agua dulce
+00:34
+por destilación al vacío para el suministro de agua dulce de alta calidad para uso doméstico
+00:40
+y la utilización del proceso se hace para la instalación en barcos y plataformas y
+00:47
+ubicaciones remotas en tierra el generador de agua dulce Alfa Laval
+00:54
+jwp 26c está diseñado para funcionamiento automático con control continuo de
+01:01
+calidad del agua dulce
+01:07
+las características de los generadores son intercambiador de calor de titanio de diseño compacto simple
+01:15
+placas y otros ven materiales resistentes al agua sin recubrimiento
+01:20
+sistema combinado de agua del eyector de refrigeración del condensador y del agua de alimentación agua dulce
+01:27
+sistema de control
+01:31
+algunas de las ventajas de utilizar el generador de agua dulce de Alpha Laval
+01:36
+agua dulce de calidad el bajo contenido de sólidos disueltos la salinidad asegura una
+01:43
+suministro de agua pura que se puede utilizar directamente como complemento de las calderas de vapor
+01:50
+materiales resistentes a la corrosión de alto grado de larga vida útil como el titanio
+01:56
+las placas aseguran la larga vida útil del equipo bajo funcionamiento y mantenimiento
+02:01
+Los costos comienzan y olvidan la operación combinada con un fácil acceso a la
+02:06
+el interior reduce la cantidad de horas hombre necesarias para la operación y el mantenimiento
+02:11
+a una instalación mínima simple debido a su diseño compacto, bajo peso y
+02:18
+capacidad de ser ensamblado en el lugar
+02:23
+El generador de agua dulce Alfa Laval serie jwp 26 C cubre un rango de capacidad desde
+02:31
+4 a 35 metros cúbicos por 24 horas, dependiendo del medio de calentamiento y
+02:37
+temperaturas del agua de refrigeración los valores ilustrados se basan en un agua de refrigeración
+02:43
+temperatura de 32 grados Celsius, los destiladores se pueden dimensionar para adaptarse
+02:48
+cualquier temperatura del agua de la chaqueta de 55 a 95 grados Celsius y se adapta a cualquier refrigeración
+02:55
+temperatura del agua requerida la cantidad de agua dulce producida puede modificarse
+03:01
+dentro de cada tamaño variando el número de placas en el intercambiador de calor
+03:05
+Ensambles
+03:11
+el agua de alimentación a destilar se toma de la salida de agua de refrigeración del mar del
+03:16
+condensador entra al evaporador donde se evapora a unos 40 a 50 grados
+03:23
+Celsius a medida que pasa entre las placas calentadas por el medio de calentamiento,
+03:28
+La temperatura de evaporación corresponde a un vacío del 90 al 95 por ciento mantenido por
+03:35
+el eyector de aire de salmuera los vapores generados pasaron a través de un D mr. dónde
+03:41
+cualquier gota de agua de mar arrastrada se elimina y cae debido a la gravedad en el
+03:47
+sumidero de salmuera en el fondo de la cámara del destilador el agua dulce limpia
+03:52
+los vapores continúan hacia el condensador donde se condensan en agua dulce a medida que
+03:58
+pasar entre las placas frías enfriadas por el agua de enfriamiento del mar para
+04:04
+comprobar continuamente la calidad del medidor de acelino producido con agua dulce
+04:09
+suministrado junto con una unidad de electrodo montada en la entrega de la bomba de agua dulce
+04:15
+lado si la salinidad del agua dulce producida excede el máximo permitido
+04:21
+valor, la válvula solenoide y la alarma se activan para descargar automáticamente el
+04:28
+agua dulce producida en la sentina
+04:34
+esta ilustración muestra una sección transversal como se ve a través de la cámara del destilador
+04:40
+la parte incluida es elegir los nombres para resaltar las partes
+04:53
+tú
+05:20
+El generador de agua dulce JW 26c está diseñado para un funcionamiento automático en
+05:26
+periódicamente salas de máquinas no tripuladas y otras operaciones automatizadas la calefacción
+05:33
+medio es agua de enfriamiento de la camisa del motor o un circuito cerrado calentado por
+05:39
+vapor la bomba eyectora se instala por separado y tiene una succión separada
+05:45
+del cofre de mar, esta bomba suministra refrigerante en forma
+05:50
+de agua de mar al agua de alimentación del condensador para la evaporación y agua para la
+05:56
+eyector de aire de salmuera combinado la bomba de agua dulce incorporada bombea el agua dulce
+06:02
+producido en el tanque el panel de control que se instala por separado con el motor
+06:08
+arrancadores y ohmímetro de solución salina suministran energía eléctrica al eyector y
+06:13
+bombas de agua dulce y control de voltaje a la solución salina
+06:23
+el equipo básico incluye unidad generadora de agua dulce
+06:29
+intercambios de placas de titanio para evaporador y condensador destilar una carcasa de dos etapas
+06:35
+eyector de aire de salmuera bomba de agua dulce sensor de control de agua dulce tubería interna fig
+06:44
+los nombres para resaltar las partes
+06:53
+tú
+07:05
+El equipo adicional necesario para la operación incluye enfriamiento combinado y
+07:11
+Bomba de agua eyectora con panel de control de motor eléctrico con arrancadores de motor y
+07:17
+Unidad de dosificación química antical del agua de alimentación del medidor Celino necesaria
+07:23
+temperaturas del medio de calentamiento superiores a 75 grados Celsius
+07:35
+tú
+07:40
+El equipo opcional incluye sistema eyector de vapor tipo JW SP + SP
+07:49
+para sistema de bucle de aumento de vapor y agua caliente panel de control extendido con motor
+07:55
+arrancadores y medidor Celino ajuste de pH de agua dulce filtro de endurecimiento fresco
+08:04
+Conexiones de equipos de desinfección de agua según norma ANSI y JIS
+08:14
+La información completa y la documentación acompañan a cada generador de agua dulce.
+08:20
+El manual de instalación proporciona toda la información necesaria para
+08:24
+instalación incluida descripción de la planta procedimiento de instalación datos técnicos
+08:32
+y dibujos, el manual de instrucciones proporciona toda la información necesaria para
+08:36
+operación y mantenimiento incluyendo descripción de la planta instrucciones de operación
+08:44
+dosificación química de productos químicos antiincrustantes resolución de problemas mantenimiento y
+08:52
+componentes dibujos de piezas de repuesto dibujos y datos técnicos
+09:03
+esta ilustración muestra el generador de agua dulce alfa laval como parte integral
+09:09
+de un sistema de agua de refrigeración consta de las siguientes partes
+09:21
+tú
+09:46
+ahora se le presentará a los instrumentos y equipos colocados localmente
+09:51
+en el generador de agua dulce, haga clic en el nombre del componente para ver dónde
+09:56
+Ellos estan localizados
+10:05
+tú
+10:12
+ahora se le presentará el equipo externo para un agua dulce alfa laval
+10:17
+generador
+10:25
+una red internacional de centros de servicios de alfa laval marines proporciona
+10:32
+disponibilidad de repuestos y servicio dondequiera que sean los ingenieros de servicio
+10:37
+puede ayudar con cualquier nivel de mantenimiento y capacitará su operación y
+10:42
+personal de mantenimiento, si lo desea, puede obtener más información de su
+10:47
+representante de alfa laval más cercano
+00:00
+Esta lección le dará una breve introducción sobre cómo iniciar un alfa.
+00:04
+generador de agua dulce laval
+00:28
+ahora se le guiará a través del procedimiento de inicio de un alfa laval
+00:32
+generador de agua dulce abra las válvulas en la sección y el lado de descarga del
+00:39
+bomba eyectora
+00:42
+Abra la válvula al agua para aire combinado. El eyector Brian cierre la válvula de aire.
+00:50
+la parte superior del recipiente separador
+00:55
+poner el interruptor principal en la posición 1 poner en marcha la bomba eyectora comprobar la presión
+01:03
+antes del eyector mínimo 0.28 a 0.3 mega Pascal's después del eyector máximo 0.06 mega
+01:15
+Pascal cuando hay un mínimo de 90% de vacío
+01:20
+abrir las vocales de entrada y salida de agua caliente del sistema de enfriamiento de la camisa
+01:27
+Inicie el suministro de agua caliente a la sección del evaporador ajustando el
+01:32
+válvula de derivación hasta que se alcance la diferencia de temperatura del agua de la camisa deseada
+01:37
+que es 80 grados Celsius para la entrada y 72 grados Celsius para el
+01:43
+salida la temperatura de ebullición dentro del recipiente separador debe ser aproximadamente
+01:48
+45 grados centígrados
+01:54
+Encienda la bomba de agua dulce cuando el nivel de salinidad descienda por debajo de la alarma configurada
+02:00
+punto establece la alarma secundaria en un flujo de agua caliente inadecuado o demasiado bajo
+02:07
+ajustar la derivación dará como resultado una temperatura baja del agua hirviendo y una caída en el
+02:13
+producción de agua dulce alto nivel de Brian en la mirilla en el recipiente separador
+02:19
+más alto que el punto de alarma establecido, por lo que se recomienda descargarlo a la sentina.
+02:25
+la válvula solenoide en el lado de descarga de la bomba de agua dulce permanece abierta
+02:30
+cuando comienza la evaporación, la temperatura de ebullición aumenta mientras que el vacío
+02:35
+logró caídas a aproximadamente 93% después de unos minutos de vacío normal y
+02:43
+se restablece la temperatura de ebullición la salinidad cae por debajo del punto de alarma establecido
+02:48
+y la electroválvula se cierra

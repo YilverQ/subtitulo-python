@@ -1,0 +1,322 @@
+00:00
+After completion of the section you'll be able to identify all major components
+00:05
+and explain their design and function
+00:28
+the boiler is a complicated construction of steel tubes pipes and drums the
+00:37
+primary boiler of the d-type has an upper and a lower drum connected
+00:42
+together with hundreds of tubes and pipes the upper drum is the steam water
+00:47
+drum and the lower one the water drum water is circulating inside the pipes
+00:54
+that are arranged as warz
+00:59
+inside the furnace the water in the risers is heated by the flames from the
+01:04
+oil burners as the density of waters 30 times the density of steam the mixture
+01:12
+of steam and water will flow to the top drum the heavier water in the top drum
+01:17
+will flow back to the lower drum through the downcomers
+01:21
+outside the furnace Wars the steam water mixture travels around in the boiler to
+01:28
+velocity of zero point three to one meters per second in the epiderm the
+01:36
+steam will leave the water saturated steam the water content of approximately
+01:41
+0.25 percent primary steam is entering the evaporating coil in the secondary
+01:47
+steam drum and is condensed as the energy is transferred to the secondary
+01:52
+steam system this steam is heated above boiling temperature and is passing the
+02:01
+super heater in the furnace close to the burners the temperature can reach to a
+02:05
+thousand degrees centigrade so it is very important that we always have a
+02:10
+sufficient flow steam through the super heater when we are firing the boiler
+02:24
+you the feed water coming from the
+02:27
+economizer is always colder than the water in the boiler it is mixed to the
+02:34
+hot water by a long perforated feed pipe inside the upper drum
+02:40
+approximately 30% of the energy the fuel oil to the diesel engine is lost in the
+02:46
+exhaust gas to utilize some of this energy loss we install exhaust gas
+02:52
+boilers and yep take
+02:56
+exhaust gas dampers control the amount of heat allowed through to the
+03:01
+evaporating coils in the boiler as this boiler is an integrated part of the
+03:06
+total steam plant a set of circulation pumps forced the feed water through the
+03:12
+exhaust gas boiler when we are firing the boiler the exhaust gas boiler is
+03:17
+equipped with such blowers to keep it clean and efficient to minimize the loss
+03:23
+of energy in the exhaust gas several types of air preheater
+03:28
+have been developed young strums rotating air preheater is a common type
+03:34
+several thousands of steel plates are arranged in a large cylindrical housing
+03:40
+an electrical motor turns the preheater at a rate of two to five revolutions per
+03:46
+minute the exhaust gas heats about 60% the steel plates and at the same time
+03:53
+the air cools the remaining 40% the air preheater works according to the counter
+04:00
+flow principle bypassed dampers on the air and exhaust side controlled the flow
+04:07
+exhaust temperature below 110 degree centigrade results in the formation of
+04:13
+sulfuric acid the economizer is placed in exhaust gas uptake below the air
+04:19
+preheater this can be a single unit or several units working together the feed
+04:26
+water pump pushes the feed water through the economizer before it enters the
+04:31
+steam water drum the water temperature can increase to above 230 degrees
+04:38
+centigrade
+04:53
+if the economizer temperature gets too high the feed water will start to
+04:59
+evaporate and the steam may reduce the free flow of feed water to increase the
+05:10
+energy content of the steam and thereby the steam plant thermal efficiency and
+05:15
+dry it completely the saturated steam passes the super heater before it leaves
+05:22
+the boiler
+05:29
+like the economizer the superheater can be arranged differently from one type of
+05:35
+boiler to another usually the superheater tubes are protected by one
+05:39
+or more walls of risers in this way the hottest gases past these risers first
+05:47
+and a combustion temperature is less harmful to the superheated tubes the
+05:52
+steam outlet temperature from the super heater can be well above 500 degrees
+05:57
+centigrade not all machinery and equipment are operated by superheated
+06:03
+steam we still want to keep the high pressure and therefore we only want to
+06:08
+reduce the temperature this is done by adi super heater
+06:18
+a simple and common way of de-superheating is to inject water in a
+06:25
+steam flow
+06:32
+some boilers have a separate steam cooling coil inside the lower water drum
+06:37
+D superheated steam can be used for reciprocating machinery heating and
+06:44
+optimising steam the purpose of the D aerator is to be an expansion tank for
+06:51
+the condensate from the condenser as the flow of water to the boiler vary with a
+06:56
+load to remove air and other non condensable gases from the feed water
+07:01
+feed water pre heater as it is mixing steam and water it may be a condenser
+07:08
+for several - steam consumers the deaerator is placed approximately 10
+07:13
+metres above the feed water pump and will by that to protect the pump from
+07:19
+the steam flashing and cavitation by heating the feed water with steam the
+07:25
+air will boil off and be led to the atmosphere a level control system will
+07:31
+maintain a constant water level in the deaerator during normal operation of the
+07:37
+boiler there would always be soot and other deposits on the heat surface and
+07:42
+in the uptake of the boiler the suit is mostly carbon from incomplete combustion
+07:48
+of fuel oil that Ash and vanadium can also be a problem
+07:54
+search blowing has to take place regularly to maintain the thermal
+07:58
+efficiency of the boiler an increase in exhaust temperature after the air
+08:03
+preheater of 10 degrees centigrade is a good indication and when to start such
+08:08
+blowing the suit blower equipment on a large boiler is complicated and needs a
+08:19
+lot of maintenance the number and types of such blowers depend on the type and
+08:25
+the make of the boiler we have suit blower types like a long-stroke
+08:31
+retractable blower this can be electrical or a operated and
+08:36
+is usually placed in hot gas areas like the super heater section the multi dual
+08:42
+nozzle blower this is placed in lower temperature areas like air preheater and
+08:48
+economizer typical steam consumption per blower can be 2 kilos 4 seconds and air
+08:54
+consumption 130 cubic meters per minute the operation will take approximately
+09:00
+one minute but there will only be sucked blowing for 20 seconds
+09:05
+an electrical driven centrifugal type of blower supplies combustion air through a
+09:11
+short duct to the air preheater
+09:16
+from the air preheater the ducting follows the boiler front to the oil
+09:21
+burners even if the blowers have a controlled damper on the suction side
+09:25
+they may have a two to four step revolutions per minute controller this
+09:31
+is because it can have a major difference in boiler load during normal
+09:35
+operation on its way to the furnace the air passes control dampers or air
+09:41
+registers before it is mixed thoroughly with the fuel oil the fuel oil will only
+09:47
+be present in the furnace for a fraction of a second ask for a diesel engine tis
+09:53
+therefore very important that the fuel oil is properly atomized and mixed with
+09:58
+a combustion air if the fuel oil is not completely and immediately burning small
+10:05
+particles of oil will form soot and other deposits in the furnace and
+10:10
+exhaust uptake this will reduce the heat transfer and excessive search blowing is
+10:17
+necessary to maintain the boiler efficiency to obtain the best possible
+10:22
+atomizing several types of burners have been developed pressure atomizing using
+10:30
+high pressure oil pumps
+10:33
+steam or air atomizing using low pressure saturated steam when there is
+10:40
+no steam available for fuel oil heating and atomizing we use diesel oil to start
+10:46
+firing the boiler and later on changed fuel oil
+10:52
+rotating burners driven by an electrical motor possible reasons for combustion
+10:58
+problems can be poor atomizing check change burner tip to low atomizing steam
+11:08
+pressure too much water in the steam fuel oil too low oil pressure check pump
+11:17
+and filters wrong fuel oil viscosity too little combustion air to low speed on
+11:24
+air blower malfunction of air damper control deposits on air blower deposits
+11:31
+in the air preheater air or exhaust side tuning of air oil ratio controller
+11:40
+deposits on economizer all boilers shall be provided with at least two safety
+11:47
+valves on the steam drums so last chapter two one if it is possible to
+11:54
+close off super heater and economize a sections during firing and they are
+11:59
+still subject to combustion gases they must have separate safety valves the
+12:05
+size of the safety valve should at least be sufficient to prevent the steam
+12:09
+pressure from increasing more than 10% above normal pressure even if the oil
+12:16
+burners are working at full capacity for 15 minutes and all steam valves are
+12:22
+closed the safety valves must have an arrangement that makes it possible to
+12:28
+release the boiler pressure from deck and engine room
+12:34
+on boilers with working pressure after 20 bar the safety valve is normally of
+12:39
+the spring-loaded type the tension of the spring can be adjusted when the
+12:45
+steam pressure increases above the spring load the valve will open and the
+12:50
+steam will act on a ring in the valve housing the valve keeps open until the
+12:56
+steam pressure is reduced below normal operating pressure another type of
+13:01
+safety valve is the full stroke valve a small spring-loaded valve is first
+13:07
+activated by the increased steam pressure this valve is a pilot valve for
+13:12
+the full stroke valve and the steam pressure would push a piston that opens
+13:17
+the safety valve
+13:27
+to convert the heat and pressure energy in the steam entering the turbine the
+13:32
+steam passes one or several groups of nozzles these nozzles can be of the
+13:40
+convergent or the convergent divergent type in the convergent nozzle the
+13:46
+velocity of steam increases until the velocity of sound of that particular
+13:51
+pressure the pressure drop in the nozzle is called the critical pressure drop to
+13:57
+obtain the total pressure drop this type of turbine has several wheels with an
+14:02
+increasing diameter on the blades towards the outlet side of the turbine
+14:10
+the convergent divergent type of nozzle also called the Laval nozzle has an
+14:18
+expansion of the steam volume in the divergent part of velocity and can be as
+14:23
+high as 800 meters per second typical turbines of this type of feed
+14:29
+water turbines cargo pump turbines and turbine driven generators this type of
+14:36
+turbine is often called the Curtiss turbine the steam velocities brought
+14:42
+down in two steps from the Laval nozzle the steam enters the first rotating
+14:47
+wheel and leaves this in the opposite direction
+14:52
+passing through the fixed nozzles then entering the second rotating wheel and
+14:57
+the steam velocity is now close to zero when it leaves the last blade the
+15:04
+working principle of this turbine is called the impulse type because of the
+15:09
+high esteem velocity this type of turbine is not very efficient and
+15:13
+consequently not used as main propulsion machinery turbines can also be
+15:19
+categorized as back pressure or vacuum condenser types some of the energy in
+15:25
+the steam is converted to a cinematic energy in the nozzles and enters the
+15:30
+turbine rotor blades with a velocity of several hundred meters per second for
+15:36
+each turbine wheel the steam pressure drops until most of the available energy
+15:41
+in the steam is converted to mechanical work exhaust steam enters the condenser
+15:48
+at low pressure temperature and a volume up to 500 times higher than on the inlet
+15:55
+side of the turbine the condensate is pumped by a condensate pump to the
+16:00
+deaerator
+16:12
+we have several types of feed water pumps depending on the size and type of
+16:17
+the boiler installation on a large installation we normally have two
+16:22
+identical steam turbine driven centrifugal pumps each of the pumps have
+16:27
+a capacity well above the total boiler capacity in addition to the two main
+16:33
+pumps we also have an auxilary pump this can be a reciprocating type and used to
+16:40
+fill the boiler aft inspection and maintenance work

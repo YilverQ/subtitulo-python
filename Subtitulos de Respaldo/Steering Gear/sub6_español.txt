@@ -1,0 +1,482 @@
+00:00
+Como resultado del estudio de esta sección conocerá los parámetros esenciales para
+00:05
+el tamaño del mecanismo de dirección poder explicar cómo actúan las fuerzas de los cojinetes saber
+00:11
+los principios de las disposiciones de timón más utilizadas
+00:35
+Para mover el timón, el mecanismo de gobierno tiene que crear una cierta conversación.
+00:41
+El requisito de torque viene dado por las reglas de clase para garantizar una maniobrabilidad segura de
+00:46
+el barco el tamaño y la forma del timón y también la velocidad del barco
+00:51
+se toma en consideración
+00:55
+La disposición del timón también está expuesta a estas fuerzas, las fuerzas actuales creadas por
+01:00
+hélice y ondas gravedad de los componentes y fuerzas laterales del movimiento del barco
+01:06
+al girar, las fuerzas dependen del tipo y tamaño del timón y también del
+01:11
+disposición del timón
+01:15
+haga clic en los botones para obtener más información sobre los diferentes timones
+01:18
+disposiciones Timón de pala 1/2 Timón de pala Timón de aleta
+01:25
+este es el tipo de timón más utilizado en transbordadores y barcos más pequeños este tipo de
+01:30
+El timón ofrece una muy buena maniobrabilidad dependiendo del ángulo de timón disponible.
+01:35
+y el perfil del timón
+01:40
+Este tipo de timón se usa con mayor frecuencia en embarcaciones grandes.Este timón no es
+01:46
+tan efectivo como un timón de pala del mismo tamaño
+01:52
+Este tipo de timón se utiliza cuando se requiere muy buena maniobrabilidad.
+01:58
+trasero delgado exagerado s: el movimiento del timón hace que el timón sea más
+02:02
+eficaz
+02:12
+miembro
+00:00
+Como resultado de estudiar esta sección, aprenderá los principios de funcionamiento del
+00:05
+modelo estándar del actuador de paletas rotativas a los principios de funcionamiento del
+00:10
+Modelo IMO del actuador de paletas rotativas cómo reacciona el sistema IMO a una fuga
+00:15
+los principios de funcionamiento del actuador tipo RAM
+00:39
+Básicamente, hay dos tipos de mecanismos de dirección electrohidráulicos que funcionan
+00:44
+principios el tipo RAM y el tipo de paleta rotatoria los principios de funcionamiento del
+00:49
+dos son muy similares un movimiento lento y fuerte de una superficie mecánica es
+00:54
+creado por el uso del tipo de ariete de alta presión de aceite utiliza pistones de cilindro giratorios
+01:00
+La paleta usa presión trabajando en el lado de una paleta en el tipo RAM el pistón es
+01:05
+conectado por un ariete a un timón y el timón se fija al timón parado
+01:09
+creando el movimiento de rotación en la paleta giratoria la paleta está fijada a un saliente
+01:14
+que se fija directamente a la culata los principios descritos para el rotativo
+01:19
+El mecanismo de dirección de paletas se puede transformar fácilmente al tipo RAM típico para
+01:25
+Engranajes de dirección tipo RAM es que funcionan con un sistema hidráulico mucho más alto.
+01:28
+presión necesitan un cojinete de mecha de timón externo y el ángulo de trabajo es
+01:33
+limitado en comparación con el mecanismo de dirección de paletas rotativas se utiliza el modelo estándar
+01:38
+en todos los buques excepto los petroleros con instalación de timón único por encima de 100.000
+01:43
+toneladas de peso muerto seguridad seguridad contra un solo fallo en el sistema hidráulico
+01:49
+De acuerdo con las reglas de son, el modelo IMO está especialmente diseñado para camiones cisterna con
+01:56
+instalación de un solo timón por encima de 100.000 toneladas de peso muerto para cumplir con la
+02:01
+reglas soleus también se puede utilizar para otros barcos y / o disposiciones de timón
+02:06
+donde se desea una seguridad extraordinaria seguridad seguridad contra un solo fallo en
+02:12
+el sistema hidráulico de acuerdo con las reglas de Solace
+02:21
+este es un dibujo esquemático del mecanismo de dirección estándar en el que puede hacer clic
+02:26
+los botones marcados Porsche o estribor para ver cómo funciona y haga clic en el
+02:30
+diferentes partes para más información el modelo muestra una situación de funcionamiento normal
+02:35
+con una bomba en funcionamiento utilizando ambas bombas se duplicará la velocidad del timón
+02:48
+tú
+03:20
+Este es un dibujo esquemático del mecanismo de dirección IMO, puede hacer clic en el
+03:24
+botones marcados a babor o estribor para ver cómo funciona y hacer clic en los diferentes
+03:28
+partes para obtener más información, el modelo muestra una situación de funcionamiento normal con
+03:34
+una bomba funcionando con ambas bombas duplicará la velocidad del timón
+03:46
+tú
+04:12
+Ahora se le mostrará cómo reacciona el sistema IMO ante una fuga.
+04:23
+tú
+04:27
+para ver cómo se muestra esta situación en el panel de la timonera, haga clic en el enlace
+04:40
+tú
+05:31
+el mecanismo de dirección del iro es redundante para las fugas sobre los sellos de las venas, por lo que si el
+05:36
+El aceite puede pasar por alto una de las venas por cualquier motivo accidental, la vena con fugas puede
+05:41
+se pondrá fuera de funcionamiento y el mecanismo de dirección funcionará solo en la otra vena
+05:45
+Sin embargo, si se produce una fuga sobre uno de los tapones, ambas venas se
+05:50
+inoperable una situación como esta no está cubierta por los requisitos de la clase soleus
+05:55
+el doble IMO protegerá contra bypass accidental sobre uno de los
+06:00
+tapones, así el doble IMO está diseñado para armadores que desean el
+06:04
+la máxima seguridad más allá de lo requerido por las reglas del son o de la clase
+06:11
+El propósito del dispositivo de bloqueo es fijar el timón en cualquier posición y puede
+06:16
+ser utilizado durante el mantenimiento del mecanismo de dirección
+06:20
+fondeo
+06:24
+o remolcando
+00:00
+En la sección debería poder identificar y comprender
+00:04
+función de las partes principales de la carcasa del actuador
+00:31
+rotor
+00:34
+Tapones
+00:37
+cubrir
+00:41
+Cojinete radial
+00:46
+portador de rutter
+00:52
+El actuador está situado en la parte superior del mecanismo de dirección.
+00:56
+compartimento el rotor en el actuador de paletas giratorias está montado directamente en el
+01:02
+culata del timón en el tipo RAM la caña del timón está fijada a la culata del timón el timón
+01:07
+stock conecta el actuador con un timón
+01:16
+esta es la culata del timón está ahusada en la parte superior para adaptarse al rotor esta es la
+01:22
+rotor está montado en la culata del timón mediante el uso de un gato hidráulico estos son
+01:27
+los cojinetes para el cojinete radial superior e inferior del rotor y el timón
+01:31
+portador esta es la carcasa del actuador estas son las barras de montaje de hierba de parada
+01:36
+Estos son los tapones que tienen un doble propósito junto con el rotor.
+01:42
+paletas los tapones dividen el actuador en dos cámaras de presión y también hacen
+01:47
+límites para el ángulo máximo del timón este es el prensaestopas inferior este es
+01:52
+la base para el actuador esta cubierta forma la parte superior de las cámaras de presión
+01:56
+Este es el gato de anillo que se utiliza durante la instalación para forzar el rotor en el
+02:02
+culata del timón este es el nudo de la culata del timón esta es la placa de montaje para el
+02:07
+indicador de ángulo este es el eje del indicador de ángulo este es el aceite del sistema
+02:13
+tanque de expansión esta es la rueda indicadora de ángulo estas tuercas
+02:18
+bloquear los tapones de la tapa y la junta de aceite con estos el actuador es
+02:23
+completa, tenga en cuenta que esta secuencia para colocar el actuador
+02:27
+juntos es diferente de la vida real
+02:32
+haga clic en el dibujo dividido del actuador para obtener información sobre el
+02:36
+partes diferentes
+02:41
+indicador de ángulo
+02:45
+esto se fija a la culata del timón y muestra el ángulo del timón
+02:51
+Tanque de expansión
+02:56
+este tanque sirve como aceite del sistema
+03:02
+tuerca de la culata del timón
+03:06
+esta tuerca actúa como un dispositivo de seguridad para la conexión de fricción entre el
+03:10
+mecha del timón y el rotor
+03:14
+Tapones
+03:17
+establecer límites para las cámaras y también establecer los límites para el
+03:22
+ángulo del timón a cada lado
+03:27
+Tapones
+03:30
+establecer límites para las cámaras de presión y también establecer los límites para el
+03:35
+ángulo del timón a cada lado del rotor
+03:43
+esta es la parte móvil del actuador gira la mecha del timón cuando
+03:48
+la presión hidráulica aumenta a ambos lados de sus venas está equipado
+03:52
+con barras de hierro fundido con resorte, no están expuestas al desgaste
+04:00
+alojamiento
+04:05
+sirve como el lado de los límites exteriores y la parte inferior de las cámaras de presión
+04:13
+culata del timón
+04:17
+este es el eje de conexión entre el rotor y el timón
+04:23
+rodamiento radial inferior
+04:28
+el rodamiento radial inferior absorbe las fuerzas radiales junto con el radial superior
+04:32
+cojinete está hecho de latón este cojinete está lubricado por el aceite del sistema
+04:42
+prensaestopas inferior
+04:47
+Esto evita que el aceite del sistema se filtre por la mecha del timón después de que el sistema
+04:51
+el aceite ha lubricado el cojinete lateral inferior y el portador del timón
+04:58
+anillo jack
+05:01
+esto se utiliza durante la instalación para forzar el rotor sobre la mecha del timón
+05:10
+cubrir
+05:13
+la cubierta forma las cámaras
+00:00
+Como resultado de estudiar esta sección, aprenderá las reglas en los requisitos generales.
+00:06
+relativo al mecanismo de dirección por lo que el último 2004 capítulo 5 reglamento 25
+00:34
+esta es la jerarquía administrativa que ha sido establecida por los Estados
+00:38
+Naciones con el fin de desarrollar un estándar internacional de reglas que cubran
+00:43
+Asuntos marítimos Naciones Unidas Sede de las Naciones Unidas en Nueva York I M Oh
+00:51
+Organización Marítima Internacional este comité está compuesto por representantes
+00:56
+de todos los países miembros i M O hizo que las reglas soleus consuelen la seguridad de las vidas
+01:05
+en el mar un conjunto completo de reglas elaboradas por la OMI para garantizar la seguridad en la clase de mar
+01:13
+reglas estas son reglas establecidas por las empresas de la clase como el DMV no van
+01:21
+Veritas l RS Lloyd's Register of shipping abs American Bureau of Shipping
+01:30
+GL gimana seguro que Lloyd y otros para barcos regulares, el timón debe poder
+01:37
+Gire un mínimo de 35 grados a cada lado para cumplir con las reglas relativas al timón.
+01:44
+velocidad angular el timón debe poder girar de 35 grados a 30 grados en
+01:49
+el otro lado en un máximo de 28 segundos esto se llama el ángulo mínimo
+01:55
+velocidad el mecanismo de dirección debe ser lo suficientemente grande para girar el timón a 35 grados
+02:01
+babor y estribor a toda velocidad este par se logra con ciertos aceites
+02:07
+en las venas del rotor la válvula de seguridad se ajusta al aceite correspondiente
+02:12
+presión mínima un 25% por encima de esta cuando las válvulas de seguridad se abren, se permite que el aceite
+02:19
+evitar las paletas, además, el mecanismo de dirección debe ser probado a presión
+02:23
+con una presión mucho más alta, esto lo hace el fabricante antes de la entrega del
+02:29
+El sistema hidrulico debe estar diseado de modo que una sola falla no
+02:34
+aparato de gobierno fuera de funcionamiento el diagrama de procedimiento para emergencias
+02:39
+la dirección debe verse fácilmente en la timonera
+02:42
+y compartimento del mecanismo de dirección, la dirección de emergencia se realiza mediante el uso de
+02:47
+los pulsadores de no seguimiento en el armario de arranque o directamente en el
+02:52
+válvulas direccionales en el aparato de gobierno, el sistema será controlado por
+02:57
+Monitorear funciones importantes especificadas en las reglas tales como niveles de aceite y
+03:02
+fuente de alimentación el monitoreo se realiza colocando sensores en estas áreas importantes
+03:08
+estos sensores uno por uno o en combinación activan diferentes alarmas
+03:14
+el operador del aparato de gobierno debe tener la competencia necesaria
+03:19
+Las funciones vitales del aparato de gobierno deben ser controladas periódicamente por la tripulación y
+03:24
+la tripulación debe ser instruida en procedimientos de emergencia
+03:29
+capítulo 5 regla 25 funcionamiento del aparato de gobierno en zonas donde la navegación
+03:36
+los buques de precaución especial de bombas tendrán más de un aparato de gobierno
+03:41
+unidad en funcionamiento cuando dichas unidades son capaces de funcionar simultáneamente
+03:45
+capítulo 5 regla 26 pruebas del aparato de gobierno y simulacros en un plazo de 12 horas
+03:54
+antes de la salida, el aparato de gobierno del buque será controlado y probado por el
+03:59
+tripulación del buque el procedimiento de prueba incluirá, cuando proceda, la operación
+04:05
+del siguiente punto 1 el punto del aparato de gobierno principal al auxiliar
+04:12
+punto 3 del aparato de gobierno el punto de los sistemas de control del aparato de
+04:19
+los puestos de gobierno ubicados en el puente de navegación punto 5 la emergencia
+04:26
+punto de alimentación 6 los indicadores del ángulo del timón en relación con el
+04:32
+posición del punto del timón 7 el sistema de control remoto del aparato de gobierno
+04:38
+alarmas de fallo de alimentación punto 8 alarmas de fallo de la unidad de potencia del mecanismo de dirección
+04:45
+y el punto 9 dispositivos de aislamiento automáticos y otros
+04:51
+equipo
+00:00
+Como resultado del estudio de esta sección, aprenderá a iniciar y detener el
+00:06
+unidades de potencia de la timonera el significado de las diferentes alarmas lo que
+00:10
+acción a tomar en caso de alarmas
+00:33
+El panel de la timonera es el panel de control principal de las funciones del mecanismo de dirección y
+00:38
+alarmas normalmente en condiciones de navegación marítima todas las órdenes relacionadas con el
+00:43
+el aparato de gobierno se debe dar desde el puente
+00:46
+caso 1 caso 2 caso 3
+00:52
+caso 1
+00:55
+una unidad de potencia en funcionamiento la otra en espera se produce una alarma la dirección
+01:02
+El sistema de engranajes arrancará automáticamente la unidad de potencia de reserva y el
+01:06
+unidad de potencia con la alarma se detiene
+01:12
+k-estofado
+01:15
+dos unidades de potencia en funcionamiento se produce una alarma en una de ellas el sistema de mecanismo de dirección
+01:21
+entonces detendrá automáticamente la unidad de potencia con la alarma
+01:27
+caso tres
+01:30
+una unidad de potencia en funcionamiento la otra no es quién espera una alarma se produce en el
+01:36
+unidad de marcha, el sistema de mecanismo de dirección permitirá que la unidad de potencia con el
+01:40
+La alarma funciona hasta que se detiene, el mecanismo de dirección está listo para el control desde el
+01:46
+timonera antes de comenzar, debe presionar el botón de prueba de la lámpara y ajustar la
+01:51
+atenuador si es necesario una alarma indica una situación anormal mediante una luz intermitente
+01:57
+y un zumbido mueva el mouse sobre los botones para obtener una descripción detallada
+02:01
+explicación de cada
+00:01
+Como resultado de estudiar esta sección, sabrá qué podría causar una emergencia.
+00:06
+situación saber qué hacer cuando ocurre una situación de emergencia ser capaz de
+00:12
+ubicar todas las válvulas de emergencia en el actuador
+00:28
+tú
+00:35
+tú
+00:37
+La dirección de emergencia es la misma que la dirección local desde el mecanismo de dirección.
+00:41
+compartimento el operador tiene que empujar directamente sobre las válvulas en el actuador
+00:46
+y mantenga sus ojos en la rueda indicadora del ángulo del timón en la parte superior del
+00:50
+Los comandos del timón del actuador deben recibirse por teléfono desde el puente local
+00:56
+La dirección también se puede hacer desde el panel frontal de los gabinetes de arranque
+01:02
+situaciones en las que el gobierno local puede ser necesario fallo en el timón o
+01:07
+Puente del sistema de indicación de timón fuera de funcionamiento
+01:12
+rotura de cable
+01:15
+es extremadamente importante que el procedimiento para cambiar a local
+01:19
+El modo de dirección es familiar y está bien practicado, por lo que todos los involucrados saben qué hacer.
+01:26
+se describe en detalle en las instrucciones de funcionamiento que agarré que cuelga
+01:31
+el mamparo en la caseta del timón y en el compartimiento del aparato de gobierno debe
+01:36
+Estudie este diagrama de instrucciones de funcionamiento en su embarcación y vaya al
+01:41
+compartimento del mecanismo de dirección para familiarizarse con la dirección de emergencia
+01:45
+controles los controles pueden variar en diferentes tipos de mecanismo de dirección en el
+01:50
+En las siguientes páginas se le mostrarán las instrucciones de funcionamiento.
+01:55
+puntos calientes para leer los procedimientos procedimiento de cambio inicio o parada de
+02:02
+las bombas se pueden hacer desde el puente las bombas son independientes entre sí las bombas pueden
+02:07
+operar el mecanismo de dirección de forma independiente o en conjunto, cada bomba tiene su propio
+02:12
+El circuito de control de dirección independiente después de las válvulas debe estar abierto
+02:17
+posición a b c d e yf alarma de falla eléctrica o del bloque de válvulas una una bomba
+02:28
+en funcionamiento 1.1.1 arrancar la bomba de reserva si no también arrancó un punto un punto para
+02:38
+detener la bomba con función de falla a dos bombas en funcionamiento dos punto uno
+02:46
+Bomba de parada de punto único con función de falla precaución en algunas circunstancias
+02:53
+es posible que el timón no responda al timón y no se emite ninguna alarma si esto sucede
+02:59
+proceda de la siguiente manera un punto dos punto uno cambio a dirección sin seguimiento
+03:06
+modo uno punto dos punto dos arranque bomba de reserva un punto dos punto tres
+03:14
+detener la bomba con falla de funcionamiento un punto dos puntos cuatro timón de control
+03:20
+movimiento en el indicador de timón dos puntos dos puntos uno cambiar a no
+03:27
+modo de dirección de seguimiento dos puntos dos puntos dos detener la bomba control número uno
+03:34
+el indicador de timón, si ninguno, vaya a dos punto dos punto tres dos punto dos
+03:41
+punto tres poner en marcha la bomba número uno de nuevo y detener la bomba número dos controlar la
+03:48
+movimiento del timón en el indicador de timón dirección desde el mecanismo de gobierno
+03:52
+El arranque y la parada del compartimento de las bombas se pueden realizar en el compartimento del mecanismo de dirección.
+03:57
+apague B 1 y B 2 a mediante el uso del interruptor de no seguimiento en la parte delantera del motor de arranque
+04:04
+o B activando ll o mm dependiendo de la bomba en funcionamiento
+04:14
+válvula abierta k válvula eyf normalmente están abiertas válvula cerrada k después de rellenar el
+04:22
+El mecanismo de dirección debe rellenarse a través de una bomba de mecanismo de dirección utilizando el
+04:26
+sistema de tanque de almacenamiento válvulas cerradas a y B o C y D

@@ -1,0 +1,321 @@
+00:00
+Después de completar la sección, podrá identificar todos los componentes principales
+00:05
+y explicar su diseño y función
+00:28
+La caldera es una construcción complicada de tubos de acero, tubos y tambores.
+00:37
+La caldera primaria del tipo d tiene un tambor superior e inferior conectados
+00:42
+junto con cientos de tubos y tuberías, el tambor superior es el agua de vapor
+00:47
+tambor y el inferior el agua del tambor de agua está circulando dentro de las tuberías
+00:54
+que están arreglados como warz
+00:59
+Dentro del horno, el agua de los elevadores es calentada por las llamas del
+01:04
+quemadores de aceite como la densidad del agua 30 veces la densidad del vapor la mezcla
+01:12
+de vapor y agua fluirá hacia el tambor superior el agua más pesada en el tambor superior
+01:17
+fluirá de regreso al tambor inferior a través de las bajantes
+01:21
+fuera de las guerras del horno, la mezcla de agua y vapor viaja por la caldera para
+01:28
+velocidad de cero punto de tres a un metros por segundo en la epiderma la
+01:36
+el vapor dejará el agua saturada de vapor el contenido de agua de aproximadamente
+01:41
+0.25 por ciento de vapor primario ingresa al serpentín de evaporación en el secundario.
+01:47
+tambor de vapor y se condensa a medida que la energía se transfiere al secundario
+01:52
+sistema de vapor este vapor se calienta por encima de la temperatura de ebullición y pasa el
+02:01
+supercalentador en el horno cerca de los quemadores la temperatura puede alcanzar un
+02:05
+mil grados centígrados por lo que es muy importante que siempre tengamos un
+02:10
+suficiente flujo de vapor a través del supercalentador cuando estamos encendiendo la caldera
+02:24
+usted el agua de alimentación procedente del
+02:27
+El economizador siempre está más frío que el agua de la caldera, se mezcla con el
+02:34
+agua caliente por un tubo de alimentación largo perforado dentro del tambor superior
+02:40
+Aproximadamente el 30% de la energía del fuel oil al motor diesel se pierde en el
+02:46
+gas de escape para utilizar parte de esta pérdida de energía instalamos gas de escape
+02:52
+calderas y sí toma
+02:56
+Los amortiguadores de gases de escape controlan la cantidad de calor que se permite
+03:01
+bobinas de evaporación en la caldera ya que esta caldera es una parte integrada del
+03:06
+planta de vapor total un conjunto de bombas de circulación forzó el agua de alimentación a través de la
+03:12
+caldera de gases de escape cuando estamos encendiendo la caldera la caldera de gases de escape está
+03:17
+equipado con tales ventiladores para mantenerlo limpio y eficiente para minimizar la pérdida
+03:23
+de energía en los gases de escape varios tipos de precalentador de aire
+03:28
+Se han desarrollado rasgueos jóvenes El precalentador de aire giratorio es un tipo común
+03:34
+varios miles de placas de acero están dispuestas en una gran carcasa cilíndrica
+03:40
+Un motor eléctrico hace girar el precalentador a una velocidad de dos a cinco revoluciones por
+03:46
+minuto el gas de escape calienta alrededor del 60% las placas de acero y al mismo tiempo
+03:53
+el aire enfría el 40% restante el precalentador de aire funciona según el contador
+04:00
+el principio de flujo evitó los amortiguadores en el lado del aire y el escape controlaron el flujo
+04:07
+temperatura de escape por debajo de 110 grados centígrados da como resultado la formación de
+04:13
+ácido sulfúrico el economizador se coloca en la captación de gases de escape debajo del aire
+04:19
+precalentador puede ser una sola unidad o varias unidades trabajando juntas la alimentación
+04:26
+La bomba de agua empuja el agua de alimentación a través del economizador antes de que entre
+04:31
+tambor de agua de vapor la temperatura del agua puede aumentar a más de 230 grados
+04:38
+centígrado
+04:53
+Si la temperatura del economizador aumenta demasiado, el agua de alimentación comenzará a
+04:59
+evaporarse y el vapor puede reducir el flujo libre de agua de alimentación para aumentar la
+05:10
+contenido de energía del vapor y por lo tanto la eficiencia térmica de la planta de vapor y
+05:15
+séquelo completamente, el vapor saturado pasa por el supercalentador antes de salir
+05:22
+la caldera
+05:29
+Al igual que el economizador, el sobrecalentador se puede organizar de manera diferente a un tipo de
+05:35
+caldera a otra generalmente los tubos del sobrecalentador están protegidos por una
+05:39
+o más paredes de elevadores de esta manera, los gases más calientes pasan primero por estos elevadores
+05:47
+y una temperatura de combustión es menos dañina para los tubos sobrecalentados
+05:52
+La temperatura de salida de vapor del supercalentador puede estar muy por encima de los 500 grados.
+05:57
+centígrados no toda la maquinaria y equipo son operados por sobrecalentamiento
+06:03
+vapor todavía queremos mantener la presión alta y, por lo tanto, solo queremos
+06:08
+reducir la temperatura esto se hace por adi supercalentador
+06:18
+Una forma simple y común de desrecalentamiento es inyectar agua en un
+06:25
+flujo de vapor
+06:32
+algunas calderas tienen un serpentín de enfriamiento de vapor separado dentro del tambor de agua inferior
+06:37
+El vapor sobrecalentado D se puede utilizar para calentar y calentar maquinaria recíproca.
+06:44
+Optimización del vapor El propósito del aireador D es ser un tanque de expansión para
+06:51
+el condensado del condensador ya que el flujo de agua a la caldera varía con un
+06:56
+carga para eliminar el aire y otros gases no condensables del agua de alimentación
+07:01
+precalentador de agua de alimentación, ya que mezcla vapor y agua, puede ser un condensador
+07:08
+para varios consumidores de vapor, el desaireador se coloca aproximadamente a 10
+07:13
+metros por encima de la bomba de agua de alimentación y protegerá la bomba de
+07:19
+el vapor parpadea y cavita calentando el agua de alimentación con vapor el
+07:25
+el aire se evaporará y será llevado a la atmósfera un sistema de control de nivel
+07:31
+Mantener un nivel de agua constante en el desaireador durante el funcionamiento normal del
+07:37
+caldera siempre habrá hollín y otros depósitos en la superficie de calor y
+07:42
+en la captación de la caldera, el traje es principalmente carbón de combustión incompleta
+07:48
+de fuel oil que la ceniza y el vanadio también pueden ser un problema
+07:54
+El soplado de búsqueda debe realizarse con regularidad para mantener la temperatura
+07:58
+eficiencia de la caldera un aumento en la temperatura de escape después del aire
+08:03
+precalentador de 10 grados centígrados es una buena indicación y cuándo comenzar tal
+08:08
+Soplar el equipo soplador del traje en una caldera grande es complicado y necesita un
+08:19
+gran cantidad de mantenimiento, el número y los tipos de tales ventiladores dependen del tipo y
+08:25
+la marca de la caldera tenemos tipos de sopladores adecuados como los de carrera larga
+08:31
+ventilador retráctil que puede ser eléctrico o accionado y
+08:36
+generalmente se coloca en áreas de gas caliente como la sección del supercalentador, el multi dual
+08:42
+soplador de boquilla que se coloca en áreas de temperatura más baja como precalentador de aire y
+08:48
+El consumo de vapor típico del economizador por soplante puede ser de 2 kilos 4 segundos y aire
+08:54
+consumo 130 metros cúbicos por minuto la operación tomará aproximadamente
+09:00
+un minuto pero solo se succionará durante 20 segundos
+09:05
+Un tipo de soplador centrífugo accionado eléctricamente suministra aire de combustión a través de un
+09:11
+conducto corto al precalentador de aire
+09:16
+desde el precalentador de aire el conducto sigue el frente de la caldera hasta el aceite
+09:21
+quemadores incluso si los ventiladores tienen un regulador controlado en el lado de succión
+09:25
+pueden tener un controlador de dos a cuatro revoluciones por minuto
+09:31
+se debe a que puede tener una diferencia importante en la carga de la caldera durante
+09:35
+operación en su camino hacia el horno el aire pasa reguladores de control o aire
+09:41
+registros antes de que se mezcle completamente con el fueloil, el fueloil solo
+09:47
+estar presente en el horno por una fracción de segundo pedir un motor diesel tis
+09:53
+Por tanto, es muy importante que el fuel oil se atomice y mezcle correctamente con
+09:58
+un aire de combustión si el fuel oil no se quema completa e inmediatamente
+10:05
+Las partículas de aceite formarán hollín y otros depósitos en el horno y
+10:10
+absorción de escape, esto reducirá la transferencia de calor y el soplado de búsqueda excesivo es
+10:17
+necesario para mantener la eficiencia de la caldera para obtener la mejor
+10:22
+atomización Se han desarrollado varios tipos de quemadores atomización a presión utilizando
+10:30
+bombas de aceite de alta presión
+10:33
+atomización de vapor o aire usando vapor saturado de baja presión cuando hay
+10:40
+no hay vapor disponible para calentar y atomizar fuel oil, usamos gasoil para comenzar
+10:46
+encender la caldera y luego cambiar el fueloil
+10:52
+quemadores rotativos accionados por un motor eléctrico posibles causas de la combustión
+10:58
+Los problemas pueden ser una atomización deficiente Revisar cambiar la punta del quemador a vapor de atomización baja
+11:08
+presión demasiada agua en el vapor aceite combustible demasiado baja presión de aceite comprobar la bomba
+11:17
+y filtra la viscosidad incorrecta del aceite combustible muy poco aire de combustión a baja velocidad en
+11:24
+mal funcionamiento del ventilador de aire de los depósitos de control del regulador de aire en los depósitos del ventilador de aire
+11:31
+en el aire del precalentador de aire o en el lado de escape sintonización del controlador de relación aire-aceite
+11:40
+depósitos en el economizador Todas las calderas deben estar provistas de al menos dos
+11:47
+válvulas en los tambores de vapor por lo que el último capítulo dos, uno si es posible
+11:54
+cierre las secciones del sobrecalentador y del economizador durante la cocción y
+11:59
+aún sujetos a gases de combustión, deben tener válvulas de seguridad separadas
+12:05
+El tamaño de la válvula de seguridad debe ser al menos suficiente para evitar que el vapor
+12:09
+presión de aumentar más de un 10% por encima de la presión normal incluso si el aceite
+12:16
+Los quemadores funcionan a plena capacidad durante 15 minutos y todas las válvulas de vapor están
+12:22
+cerradas las válvulas de seguridad deben tener una disposición que permita
+12:28
+liberar la presión de la caldera de la cubierta y la sala de máquinas
+12:34
+en calderas con presión de trabajo superior a 20 bar la válvula de seguridad es normalmente de
+12:39
+el tipo de resorte la tensión del resorte se puede ajustar cuando el
+12:45
+la presión de vapor aumenta por encima de la carga del resorte, la válvula se abrirá y el
+12:50
+el vapor actuará sobre un anillo en la carcasa de la válvula la válvula se mantiene abierta hasta que
+12:56
+la presión de vapor se reduce por debajo de la presión de funcionamiento normal otro tipo de
+13:01
+La válvula de seguridad es la válvula de carrera completa, primero una pequeña válvula cargada por resorte
+13:07
+activada por el aumento de la presión de vapor, esta válvula es una válvula piloto para
+13:12
+la válvula de carrera completa y la presión del vapor empujarían un pistón que se abre
+13:17
+la válvula de seguridad
+13:27
+para convertir la energía de calor y presión en el vapor que ingresa a la turbina,
+13:32
+el vapor pasa por uno o varios grupos de boquillas estas boquillas pueden ser del tipo
+13:40
+convergente o el tipo convergente divergente en la boquilla convergente el
+13:46
+La velocidad del vapor aumenta hasta que la velocidad del sonido de ese particular
+13:51
+presión, la caída de presión en la boquilla se denomina caída de presión crítica para
+13:57
+obtener la caída de presión total este tipo de turbina tiene varias ruedas con un
+14:02
+aumento de diámetro en las palas hacia el lado de salida de la turbina
+14:10
+el tipo de boquilla convergente divergente, también llamada boquilla Laval, tiene un
+14:18
+expansión del volumen de vapor en la parte divergente de la velocidad y puede ser como
+14:23
+de hasta 800 metros por segundo turbinas típicas de este tipo de alimentación
+14:29
+14:36
+turbina a menudo se llama turbina de Curtiss las velocidades del vapor traídas
+14:42
+hacia abajo en dos pasos desde la boquilla Laval, el vapor entra en la primera
+14:47
+rueda y deja esto en la dirección opuesta
+14:52
+pasando a través de las boquillas fijas luego ingresando a la segunda rueda giratoria y
+14:57
+la velocidad del vapor ahora es cercana a cero cuando sale de la última hoja
+15:04
+El principio de funcionamiento de esta turbina se llama tipo de impulso debido a la
+15:09
+alta velocidad estimada este tipo de turbina no es muy eficiente y
+15:13
+por lo tanto, no se utilizan como maquinaria de propulsión principal, las turbinas también pueden
+15:19
+categorizados como tipos de condensador de vacío o contrapresión parte de la energía en
+15:25
+el vapor se convierte en una energía cinematográfica en las boquillas y entra en el
+15:30
+palas de rotor de turbina con una velocidad de varios cientos de metros por segundo para
+15:36
+cada rueda de turbina, la presión del vapor cae hasta que la mayor parte de la energía disponible
+15:41
+en el vapor se convierte en trabajo mecánico el vapor de escape ingresa al condensador
+15:48
+a baja temperatura de presión y un volumen hasta 500 veces mayor que en la entrada
+15:55
+lado de la turbina, el condensado es bombeado por una bomba de condensado al
+16:00
+desaireador
+16:12
+tenemos varios tipos de bombas de agua de alimentación dependiendo del tamaño y tipo de
+16:17
+la instalación de la caldera en una instalación grande normalmente tenemos dos
+16:22
+Bombas centrífugas impulsadas por turbinas de vapor idénticas cada una de las bombas tiene
+16:27
+una capacidad muy por encima de la capacidad total de la caldera, además de los dos principales
+16:33
+bombas también tenemos una bomba auxiliar que puede ser un tipo alternativo y se utiliza para
+16:40
+Rellenar la caldera en popa trabajos de inspección y mantenimiento.

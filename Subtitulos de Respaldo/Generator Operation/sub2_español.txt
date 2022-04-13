@@ -1,0 +1,744 @@
+00:00
+Marina en línea
+00:21
+Una planta de energía eléctrica marina moderna es muy
+00:23
+sistema complejo que exige entrenamiento
+00:27
+personal para garantizar la seguridad y económica
+00:30
+operación podemos considerar la eléctrica
+00:35
+planta de energía como el corazón del barco si
+00:39
+el corazón se detiene, la nave saldrá de
+00:42
+control y puede causar un accidente que
+00:46
+posiblemente podría conducir a fatal
+00:47
+consecuencias que las plantas de energía eléctrica pueden
+00:51
+varían de plantas pequeñas con una
+00:53
+generador a grandes sistemas complejos
+00:56
+compuesto por generadores federales con
+00:59
+varios tipos de motores primarios como
+01:03
+motores diesel turbinas de vapor gas
+01:07
+turbinas y un eje principal el eléctrico
+01:13
+planta de energía echaremos un vistazo más de cerca
+01:15
+es bastante simple pero la electricidad
+01:19
+principios para llenar el mismo
+01:24
+el nombre oro
+01:26
+no es usted es para proporcionarle el
+01:29
+conocimiento necesario el trabajo
+01:31
+principios para generadores y
+01:34
+equipo relacionado además
+01:38
+darle una apreciación de la necesidad de
+01:41
+sistemas de administración de energía aunque
+01:45
+hay varios diseños diferentes de
+01:47
+plantas de energía eléctrica los principios
+01:50
+describe en este módulo un común para
+01:52
+la mayoría de los sistemas finalmente podría enseñarte
+01:56
+la importancia de seguir la seguridad
+01:58
+procedimientos mientras se trabaja en
+02:01
+instalaciones al comienzo de este
+02:03
+El módulo será una revisión de los
+02:06
+principios eléctricos antes de entrar en
+02:08
+temas más complejos
+02:11
+buena suerte
+00:00
+Marina en línea
+00:16
+familiarizarte con lo alternativo
+00:23
+corriente aparece el generador monofásico
+00:27
+la armadura del generador trifásico
+00:30
+reacción se ha dicho si un bobinado
+00:37
+se repite campo magnético no homogéneo
+00:40
+el voltaje será inducido ley de Faraday
+00:43
+establece que el voltaje inducido es igual a
+00:47
+cambio de flujo dividido por el tiempo
+00:50
+factor que significa que la tasa de flujo
+00:53
+el cambio determina la fuerza de
+00:56
+voltaje
+00:59
+¿Y si Lex flux se puede describir como un
+01:09
+campo magnético que atraviesa el devanado
+01:12
+como podemos ver si esta posición el
+01:16
+el campo magnético máximo cruza el
+01:18
+bobinado lo que significa máxima flexión déjanos
+01:31
+gira el devanado y mira que pasa
+01:55
+según la ley de vacaciones el
+01:58
+el voltaje inducido será mínimo
+02:00
+cuando el Flex que cruza el devanado está en
+02:03
+máximo porque la forma de flexionar cambia
+02:07
+si una comunión como podemos ver el inducido
+02:15
+el voltaje está en su punto más alto cuando el flujo
+02:17
+que lo más bajo que a su vez ilustra
+02:21
+que cuando el flujo está en su nivel más bajo,
+02:23
+voltaje inducido tiene que tyas la línea de flujo
+02:27
+sigue la forma de curva más fina
+02:40
+lo que hemos visto hasta ahora es un simple
+02:43
+generador en el que los devanados tienen
+02:47
+girado y el voltaje inducido debe
+02:49
+extraerse a través de los anillos colectores y
+02:52
+los generadores de cepillos tienen sus bobinados
+02:56
+montó la armadura y el magnético
+02:59
+campo hace la rotación
+03:20
+como puedes ver porque el pariente
+03:22
+movimiento entre el devanado
+03:24
+campo magnético que produce el voltaje
+03:27
+mientras el campo magnético cruce
+03:31
+la tensión de los devanados se inducirá en
+03:34
+los devanados notan un magnetismo más fuerte
+03:39
+campo que es más líneas de campo que
+03:43
+dar una mayor tasa de cambio de flujo
+03:45
+da como resultado un voltaje más alto que
+03:53
+lo que tenemos ahora es uno muy simplificado
+03:58
+generador de fase con dos polos en orden
+04:03
+para alcanzar una frecuencia de 60 Hertz
+04:06
+debe girar el imán la velocidad de 3600
+04:09
+RPM la velocidad de rotación se puede encontrar
+04:14
+usando la fórmula debajo de la frecuencia
+04:17
+es igual al número de pares de polos en el
+04:20
+rotor multiplicado por el número de rotaciones por
+04:25
+minuto RPM / 60 para tener un
+04:31
+velocidad de 60 Hertz con un bipolar
+04:34
+generador, la ecuación se verá así
+04:37
+esta
+04:49
+en este módulo usaremos el diesel
+04:52
+motor con 1200 RPM 60 hertz en el
+04:57
+motor primario para el alternador
+05:21
+Okay
+05:29
+prácticamente todos los generadores están diseñados
+05:34
+como generadores trifásicos 23 devanados
+05:39
+conjuntos montados con una caza de 20 grados
+05:42
+cambio de fase alrededor del estado esto
+05:46
+dar las tres fases con el inducido
+05:48
+voltaje un cambio de caza 20 grados en
+05:52
+relación entre nosotros queremos
+05:58
+utilizar la armadura para crear
+06:01
+un sistema trifásico por lo que proporcionamos
+06:05
+generador con dos juegos adicionales de
+06:07
+bobinados y un imán de 4 polos en el
+06:10
+rotor
+06:18
+los devanados no se montan en tal
+06:24
+manera que cada devanado tiene su vino danés
+06:27
+lado sobre el norte y el sur
+06:30
+Polos al mismo tiempo ahora agregaremos
+06:34
+las otras dos fases agregando dos más
+06:36
+enrollando la armadura si estudiamos esto
+06:42
+generador haciendo una revolución lo haremos
+06:46
+ver que el generador producirá para
+06:48
+establecer las curvas de los senos nasales en lugar de una
+06:51
+esos son los dos polos uno sinuoso
+06:54
+generador
+06:55
+esto significa que el motor principal de
+07:00
+ejemplo de estas leyendas se puede ejecutar a la mitad
+07:03
+velocidad y seguir produciendo una constante 60
+07:07
+Hertz en esta sección tomaremos un
+07:13
+Mira más de cerca cómo los diferentes tipos de
+07:15
+las cargas afectan el generador que usaremos
+07:19
+el generador de 4 polos como ejemplo
+07:27
+no hay carga conectada al generador no
+07:31
+la corriente estará presente en el generador
+07:33
+armadura esto significa que no hay
+07:37
+campos magnéticos alrededor de los devanados
+07:40
+que también significa el voltaje generado
+07:44
+terminales que llama voltaje inducido
+07:47
+en el inducido apuntar y hacer clic en el
+07:51
+terminal para detalles con el rotor
+07:55
+posiciones que muestran el voltaje en el rojo
+07:58
+el terminal ha pasado el máximo negativo
+08:01
+voltaje y de aproximarse a 0
+08:10
+con las posiciones del rotor mostradas en negrita
+08:18
+Peter Green terminal había pasado 0 y si
+08:22
+acercándose al voltaje negativo máximo
+08:24
+cuando el rotor está en la posición que se muestra
+08:30
+el voltaje del terminan azul sería
+08:34
+estar al máximo como verás en el
+08:38
+siguientes ilustraciones que es
+08:41
+actualmente los devanados de la armadura esto era
+08:45
+situado en el campo magnético alrededor del
+08:47
+bobinados con la dirección indicada por
+08:50
+las flechas se refieren a la regla de la mano derecha
+08:54
+como conocemos una corriente a través de un óhmico
+09:02
+carga tenemos la misma fase del
+09:05
+voltaje inducido esto significa que cuando el
+09:10
+página antigua inducida es en su máximo el
+09:13
+la corriente estará en su punto máximo y
+09:16
+haga clic en la terminal para obtener más detalles
+09:19
+apuntar y hacer clic en todos ustedes cómo el
+09:22
+algunos más que los campos magnéticos influyen
+09:26
+la compra del campo principal
+09:35
+muestra que el voltaje del terminal rojo tiene
+09:38
+pasó el voltaje negativo máximo y es
+09:41
+acercándose a cero ya que los generadores
+09:45
+conectado a una corriente de carga óhmica
+09:48
+fluir a través de los devanados que es
+09:50
+en fase el voltaje en el rotor
+09:57
+posición mostrada el voltaje limpio
+10:00
+terminal ha pasado 0 y es
+10:03
+acercándose al voltaje negativo máximo
+10:05
+ya que el generador está conectado a un
+10:09
+Carga atómica por la que fluirá una corriente
+10:11
+los devanados que está en fase con el
+10:14
+tono en negrita después de la posición del rotor
+10:21
+El voltaje mostrado al terminal azul está en
+10:25
+su máximo ya que los generadores
+10:29
+conectados a una carga de todos los fabricantes
+10:32
+fluir una corriente a través del devanado que
+10:34
+está en fase con el voltaje según
+10:37
+a la regla de la mano derecha campos magnéticos
+10:40
+aparecerá alrededor de los devanados que se muestran
+10:43
+echemos un vistazo más de cerca a cómo estos
+10:50
+pequeños campos magnéticos alrededor del
+10:53
+los devanados afectan el campo principal ya que podemos
+10:57
+mira que tenemos un campo magnético en el
+10:59
+armadura que cruza el campo principal
+11:07
+en la carga inductiva conectada al
+11:11
+terminales la corriente a través del
+11:14
+los devanados del inducido tienen una fase de 90 grados
+11:16
+cambiado después de la tensión inducida por qué
+11:24
+echemos un vistazo a las leyes de hombres de la ley de Lenz
+11:30
+afirmar que un cambio de corriente en un
+11:33
+conductor o devanado induciría un
+11:36
+voltaje que resistiría el cambio de
+11:39
+corriente que hizo que pudiera
+11:42
+Conducir la corriente a través de la bobina
+11:44
+generador tiene que entregar un voltaje
+11:47
+igual a la tensión inducida en el
+11:49
+enrollando eso en dirección opuesta y
+11:53
+corriente alterna en el devanado
+11:55
+hacer un flujo y una fase de la corriente
+11:59
+el cambio de flujo induciría un voltaje de 90
+12:03
+grados después de la corriente se refieren a cómo
+12:08
+alterna cocina completa Pierre
+12:11
+sección
+12:19
+Joseph, ya que no hay carga conectada al
+12:22
+generador no habrá corriente presente en
+12:25
+la armadura del generador esto significa que
+12:30
+no hay campos magnéticos alrededor del
+12:32
+bobinados que también significa el voltaje
+12:36
+terminales generados es igual a la inducida
+12:40
+voltaje en el inducido apuntar y hacer clic
+12:43
+la terminal City kames con el rotor
+12:48
+posición como se muestra el voltaje en el rojo
+12:51
+terminal había pasado máxima negativa
+12:54
+voltaje y de acercarse a cero con el
+13:01
+las posiciones del rotor se muestran tanto en el verde
+13:04
+terminal ha pasado 0 y se acerca
+13:08
+voltaje negativo máximo cuando el rotor
+13:14
+está en la posición mostrada por el Voltaire
+13:17
+el terminan azul estaría en su
+13:20
+máximo como veremos a continuación
+13:26
+ilustraciones actualizadas en el
+13:29
+bobinados del inducido esto se fijó en el
+13:33
+campo magnético alrededor de los devanados con
+13:36
+la dirección indicada por las flechas
+13:38
+referirse a la regla de la mano derecha como la conocemos
+13:48
+corriente a través de una carga óhmica tenemos
+13:51
+la misma fase de la tensión inducida
+13:53
+esto significa que cuando el voltaje inducido
+13:58
+está en su máximo la corriente estará en
+14:02
+su punto máximo y haga clic en el terminal
+14:05
+para detalles
+14:06
+apuntar y hacer clic en todos ustedes cómo el
+14:10
+suma de todos los campos magnéticos influyen
+14:13
+el campo principal después de la posición del rotor
+14:22
+se muestra el voltaje del terminal rojo
+14:25
+ha pasado el voltaje negativo máximo y
+14:29
+is approaching zero since the generators
+14:32
+conectado a una corriente de carga atómica
+14:35
+fluir a través de los devanados que está en
+14:38
+fase con el voltaje en la carretera
+14:44
+muestra que el voltaje del terminal verde tiene
+14:48
+pasó 0 y se acerca al máximo
+14:51
+voltaje negativo ya que los generadores
+14:55
+conectado a una carga óhmica una corriente
+14:57
+fluirá a través de los devanados que es
+15:00
+en fase con el voltaje después de la
+15:07
+posición del rotor mostrada voluntariamente al
+15:10
+terminal azul está en su máximo desde
+15:15
+los generadores conectados a una marca de todos
+15:18
+carga fluirá una corriente a través del
+15:20
+bobinado que está en fase con el
+15:23
+voltaje según la regla de la mano derecha
+15:26
+El campo magnético aparecería alrededor del
+15:29
+se muestran los devanados echemos un vistazo más de cerca
+15:35
+de cómo estos pequeños campos magnéticos
+15:38
+alrededor de los devanados afectan a la principal
+15:41
+campo como podemos ver tenemos un campo magnético
+15:44
+campo en la armadura que cruza el
+15:47
+campo principal en la carga inductiva
+15:55
+conectado a los terminales el aquelarre
+15:58
+a través de los devanados de la armadura es de 90
+16:01
+grados cambiados de fase después de la inducida
+16:04
+voltaje por qué
+16:10
+echemos un vistazo a
+16:15
+La ley de hombres del piso establece que un cambio de
+16:19
+corriente en un conductor o bobinado
+16:22
+in view cir voltage which will resist
+16:25
+el cambio de corriente que hizo que
+16:28
+ser capaz de conducir la corriente a través del
+16:29
+bobina el generador tiene que entregar un
+16:32
+voltaje igual al voltaje inducido en
+16:35
+el devanado en dirección opuesta y
+16:39
+alternate current in the winding would
+16:41
+hacer un flujo y una fase de la corriente
+16:45
+el cambio de flujo induciría un voltaje de 90
+16:49
+degrees after the current refer to how
+16:54
+¿Aparece voltaje alternativo como lo haremos?
+17:00
+vea en las siguientes ilustraciones que
+17:02
+is current and the armature windings
+17:05
+esto se fijó en un campo magnético alrededor
+17:08
+los devanados en la dirección indicada
+17:11
+por las flechas se refieren al momento adecuado
+17:15
+babear apuntar y hacer clic en la terminal para
+17:18
+detalles
+17:19
+apuntar y hacer clic en todos ustedes cómo el
+17:24
+suma de todos los campos magnéticos influyen
+17:27
+el campo principal que es el real
+17:33
+se muestra el voltaje del terminal rojo
+17:36
+has just passed its maximum negative
+17:39
+voltaje y se acerca a cero actuar el
+17:44
+posición del rotor que se muestra dedicada a la
+17:47
+terminal verde o simplemente 0 rápido y es
+17:51
+acercándose al máximo en un voltaje negativo en
+17:58
+la posición del rotor mostrada voltaje al
+18:01
+la terminal azul estará al máximo porque
+18:06
+del cambio de fase debido a la inductiva
+18:09
+carga la corriente será un dominio y
+18:13
+como resultado no tendrá ningún magnético
+18:16
+field around these windings let's take a
+18:22
+Mire más de cerca cómo estos pequeños
+18:25
+Los campos alrededor de los devanados afectan la
+18:29
+campo principal una frecuencia por dirección de
+18:34
+el campo magnético alrededor de los devanados
+18:36
+formará un campo magnético con opuestos
+18:40
+dirección al campo principal el principal
+18:44
+campo se debilitará y por esto el
+18:47
+El voltaje inducido será menor que el
+18:50
+generador con solo carga cómica que es
+18:57
+bueno
+18:58
+carga activa conectada a los terminales
+19:00
+el Pacto en toda la armadura
+19:02
+los devanados se desplazarán en fase 90
+19:06
+grados por delante del voltaje por qué el
+19:14
+el condensador puede considerarse corto
+19:16
+en circuito en el momento en que no hay
+19:19
+carga y no hay voltaje en el circuito, así que
+19:23
+cuanto más podamos estar con un condensador como
+19:26
+estar completamente restringido o sin fin
+19:30
+resistencia cuando el condensador está completamente
+19:34
+cargado de esto podemos imaginar que
+19:37
+el Pacto estará en su máximo cuando
+19:40
+el voltaje cruza cero en el mejor
+19:42
+curva y al mnimo cuando el voltaje es
+19:47
+en su máximo suministro máximo
+19:50
+voltaje el condensador está completamente cargado
+19:54
+y por lo tanto también tendrá un
+19:56
+voltaje igual al voltaje de suministro pero
+20:00
+en una conclusión de dirección opuesta
+20:04
+since the capacitor can be considered a
+20:07
+cortocircuitado cuando la tensión de alimentación
+20:09
+cruza el mal, la corriente tiene que estar en
+20:13
+su valor máximo y otro resultado por 90
+20:16
+grados antes de la tensión de alimentación en
+20:18
+fase apuntar y hacer clic en los terminales
+20:22
+detalles apuntar y hacer clic en todos ustedes
+20:26
+cómo la suma de todo el campo magnético
+20:28
+influencia en el campo de nombre o rotativo
+20:33
+campo después de las posiciones del rotor
+20:40
+casa el voltaje del terminal rojo tiene
+20:43
+simplemente emite el voltaje negativo máximo y
+20:47
+is approaching zero because of the phase
+20:51
+cambiar los flujos de corriente en la dirección
+20:54
+se muestra después de mostrar la posición del rotor
+21:00
+dedicada a la terminal verde acaba de
+21:04
+pasó 0 y se acerca a los mapas en
+21:07
+el voltaje negativo porque la fase
+21:11
+cambiar la corriente tendría el
+21:14
+posición mostrada después de la posición del rotor
+21:19
+muestra el claro en negrita en la terminal de duelo
+21:22
+estará en su máximo debido a la
+21:25
+cambio de fase debido a la carga capacitiva
+21:28
+la corriente será mínima activa y
+21:32
+como resultado no tienen campos magnéticos
+21:35
+alrededor de estos devanados, tomemos un
+21:42
+Mire más de cerca y cómo estos pequeños
+21:45
+Los campos alrededor de los devanados afectan la
+21:49
+campos principales como podemos ver la dirección
+21:52
+de los campos magnéticos alrededor del
+21:54
+los devanados formarán un campo magnético para
+21:58
+en la misma dirección que el campo principal
+22:02
+main field is strengthened and this
+22:05
+aumentaría el voltaje inducido
+22:07
+preguntando si
+22:14
+significa el voltaje inducido y el
+22:16
+voltaje de los terminales dependen de la
+22:19
+tipo de los conectados para generar
+22:22
+terminales una instalación de barco incluye
+22:27
+todos los componentes de carga descritos con un
+22:31
+factor de potencia típico entre 0,8 0,9 a
+22:37
+mantener el voltaje terminal dentro
+22:39
+límites aceptables para cargar el cambio
+22:43
+el generador que necesitamos para variar
+22:45
+fuerza el campo principal

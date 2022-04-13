@@ -1,0 +1,190 @@
+00:00
+After completing this chapter the learner will understand the reasons for
+00:04
+introduction of central cooling systems know the operating principles of a
+00:08
+central cooling system know the general layout of a central cooling system
+00:33
+the amount of maintenance required for any cooling water system depends mainly
+00:38
+on the materials used for the pipe work consistent components and also on the
+00:42
+quality of the water and water treatment used in the system when using seawater
+00:47
+for temperatures over 50 degrees Celsius the level of corrosion and scale
+00:51
+formation becomes unacceptable the corrosion problem can to some extent be
+00:57
+avoided by material selection although the cost increases when using special
+01:01
+alloys some of the materials copper based alloys were mentioned in an
+01:06
+earlier chapter material selection does not really help with scale formation and
+01:11
+the only way to reduce this is to use better quality water in the systems this
+01:16
+is the main reason for the development of central cooling systems in which much
+01:20
+of the traditional sea water system is replaced by freshwater circuits this is
+01:25
+now the preferred option and it is likely that such a system is employed on
+01:29
+your present vessel you should check this out the next time you are in the
+01:32
+engine room the basic central cooling system has two interconnected freshwater
+01:38
+circuits one a high temperature circuit and the other a low temperature circuit
+01:43
+and a simple seawater circuit the freshwater circuits are normally
+01:48
+referred to as the HT and lt circuits to denote high and low temperature
+01:53
+respectively the HT circuit serves the diesel engine jacket cooling water
+01:58
+systems for the main and auxiliary engines it can also be used for heating
+02:02
+the freshwater generator typically the system operates to give an
+02:06
+outlet temperature from the engine of between 75 and 85 degrees Celsius the HT
+02:13
+circuit usually consists of two circulating pumps which circulate the
+02:17
+water through the main engine and auxilary engine jackets a 3-way
+02:22
+temperature control valve is provided which connects to the LT system
+02:26
+provision is also made to pass the HT water through the fresh water generator
+02:31
+heat exchanger when required with a suitable bypass facility when it is
+02:36
+offline the header tank and deaerator complete the system suitable valves for
+02:41
+isolating the engines and pumps are provided for maintenance purposes
+02:46
+while cooling requirements other than the main and auxiliary engine jackets
+02:50
+are met by the LT circuit this includes cooling for the main and auxiliary
+02:54
+engine lubricating oil and charge air other machinery served by the LT system
+03:00
+includes air compressors and refrigeration and air conditioning
+03:04
+compressors and condensers typically the LT system operates with a temperature of
+03:09
+about 37 degrees Celsius the system usually comprises two circulating pumps
+03:14
+and a number of heat exchangers the heat exchangers include those for cooling
+03:19
+lubricating oil and air for the diesel engines the air compresses and
+03:23
+refrigerating and air conditioning equipment as well as 2 C water-cooled
+03:27
+central coolers the three-way temperature control valve used in bypass
+03:32
+diverter mode controls the freshwater flow through the central coolers the LT
+03:37
+system is connected to the HT system via the 3-way mixing valve and a return
+03:43
+connection temperature control of the HT system is achieved by a 3-way valve used
+03:49
+as a mixing valve the sensor for controlling this valve is usually
+03:53
+positioned at the main engine jacket water outlet or the return line to the
+03:57
+circulating pumps constant engine outlet temperature is achieved by mixing water
+04:03
+from the LT circuit into the HT circuit via this 3-way valve as the HT water
+04:09
+temperature rises at the engine outlet due to increased engine power the sensor
+04:14
+detects the rise and sends a signal to the controller here it is compared to
+04:19
+the setpoint and a corrective signal is sent to the control valve which moves to
+04:24
+allow some of the LT water to mix with the HT water so reducing the temperature
+04:28
+there may be additional individual temperature control for the auxiliary
+04:33
+engines using thermostatically-controlled vowels
+04:36
+temperature control of the LT circuit is achieved by a 3-way valve used to
+04:42
+control the flow through the central coolers in a bypass arrangement the
+04:46
+sensor for the valve is positioned downstream from the point at which the
+04:50
+return from the central coolers re-enters the LT circuit as the
+04:55
+temperature of the system starts to rise due to increased thermal load
+04:59
+the sensor detects the rise and sends a signal to the controller here it is
+05:04
+compared to the setpoint and a corrective signal is sent to the control
+05:07
+valve which moves to allow some of the LT water to pass to the coolers so
+05:12
+reducing the temperature any further increase in thermal load on the system
+05:16
+will cause the valve to divert more flow to the coolers in some systems there are
+05:22
+additional 3-way valves to control temperatures of the individual services
+05:26
+by bypassing the primary fluids at the relevant heat exchangers minimum
+05:31
+temperature for the LT circuit may be achieved by using split range control to
+05:36
+control a heating unit in the system the sea-water circuit for a central cooling
+05:40
+system is very simple it usually consists of two seawater suction
+05:45
+strainers two or more circulating pumps and two heat exchangers for central
+05:50
+coolers these heat exchangers are usually of the plate type the material
+05:55
+used for the pipe work is generally high-quality complet based alloy
+05:58
+although some systems use stainless steel these materials produce
+06:03
+maintenance requirements as they are resistant to corrosion and as there is
+06:08
+so little pipe work in the system the cost is moderate the plates for the
+06:12
+heat exchanger are also made from high-quality material which is resistant
+06:16
+to corrosion stainless steel or titanium is often chosen since the high-strength
+06:22
+allows very thin plates to be used which improves heat transfer the central
+06:27
+cooling system can be adapted to provide cooling or heating for most of the
+06:31
+machinery on board the LT system can be used to provide the secondary fluid for
+06:36
+many of the cooling requirements such as air compressor heat exchanges and oil
+06:40
+coolers the HT system can be used as a source of heating we have already seen
+06:46
+that it can be used as the heat source for the freshwater generator it can also
+06:51
+be used to heat domestic water and a preheat machinery such as the main and
+06:56
+auxiliary diesel engines the seawater circuit can be used to provide pre
+07:00
+heated feed for the freshwater generator and also the cooling requirements for
+07:05
+any systems requiring direct seawater cooling to achieve lower temperatures
+07:10
+than can be achieved by the LT by doing this the number of subsystems
+07:15
+can be reduced than the overall plant simplified in this section we have
+07:20
+looked at the arrangement of a central cooling system you should now understand
+07:24
+the reasons for having such a system and be aware of the subsystems that make up
+07:29
+the main system you should also have an understanding of how the system
+07:32
+temperatures are controlled in the next chapter we will look at the maintenance
+07:36
+requirements of cooling water systems and in particular how we can treat the
+07:42
+systems to minimize this requirement

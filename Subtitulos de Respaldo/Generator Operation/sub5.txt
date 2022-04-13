@@ -1,0 +1,124 @@
+00:00
+Marine Online
+00:16
+In this section you will learn how to
+00:22
+synchronize an incoming generator to
+00:25
+alive the spa the following conditions
+00:30
+must be present before parallel
+00:32
+connection is carried out the generator
+00:35
+and the main bus bar must have voltage
+00:38
+similarity the generator and the main
+00:41
+burst bar must have frequency similarity
+00:44
+the generator and the main burst bar
+00:46
+must be synchronized the voltage is read
+00:51
+between the main burst bars and the
+00:53
+incoming generator the instruments are
+00:57
+found in a synchronizing section of the
+00:59
+main switchboard the frequency is read
+01:05
+between the main bus bars on the
+01:06
+incoming generator the instruments are
+01:10
+found in the synchronizing section on
+01:13
+the main switchboard synchronism is read
+01:17
+by means of the synchronizing lamp and
+01:20
+the synchro scope the instruments are
+01:23
+found in a synchronizing section the
+01:25
+main switchboard the synchro scope is
+01:31
+the main synchronizing instrument the
+01:34
+synchronizing lamps can be considered to
+01:37
+be a backup for the finca scope both the
+01:40
+synchro scope which consists of a number
+01:42
+of LEDs and the synchronizing lamps are
+01:45
+based on the same principle there are
+01:51
+different ways of connecting the
+01:53
+synchronizing lamps but we've connected
+01:55
+them in a dark bright combination and
+01:58
+place the lamp in a triangle which gives
+02:00
+a rotation effect the lamps are arranged
+02:04
+so that h 1 and h 3 will be lit while
+02:08
+hate to is dark when the generator and
+02:11
+best are synchronized if the generator
+02:16
+frequencies too fast relative to the
+02:18
+main bus the synchronizing lamp rotation
+02:21
+would be clockwise when the
+02:26
+of frequencies too slow relative of the
+02:29
+main bus the synchronizing lamp rotation
+02:32
+will be counterclockwise the connection
+02:37
+of a generator breaker should be
+02:39
+executed when the lamps are in the five
+02:42
+to twelve position with a generator
+02:45
+frequency slightly above the bus
+02:48
+frequency clockwise the reason the
+02:52
+generator frequency should be slightly
+02:54
+above the bus frequency is because the
+02:57
+generator will be taking on a load the
+02:59
+moment that it is connected by not doing
+03:03
+this we risk reverse power with a
+03:06
+subsequent tripping of the generator
+03:08
+beaker let's start the generator by
+03:13
+pushing the start button if the voltage
+03:16
+for any reason is different from you
+03:18
+nominal adjustment of excitation may be
+03:22
+necessary the generator frequency is too
+03:32
+low increase the speed by pressing the
+03:35
+UP button connect the bus and generator
+03:39
+at synchronization

@@ -1,0 +1,448 @@
+00:00
+The main objectives of this section are to make the operators able to describe
+00:05
+components and systems which should be operating during startup described
+00:09
+components and systems which should be in standby mode during startup recognize
+00:14
+the components to operate during startup describe what actually happens within
+00:19
+the system during startup describe the critical parameters and know where to
+00:24
+find the measuring instruments rectifying actions in case of deviation
+00:50
+starting preparation after a short period of standstill starting
+00:55
+preparation after a long period of standstill
+00:58
+stop routines
+01:04
+before starting the engine after a period of standstill shorter than 24
+01:09
+hours the following routine should be performed to ensure a safe startup of
+01:13
+the engine vent the fuel oil system check jacket cooling water for a start
+01:20
+on HFO check fuel oil and nozzle oil temperatures check control air pressure
+01:28
+prime the main lubricating oil system check for cooling water leakage clean
+01:35
+rocker arm lubricating oil filter check starting air pressure check start
+01:41
+interlocks click on the buttons to learn more if the fuel system has been
+01:47
+disconnected it will be necessary to expel trapped air in the system
+01:52
+disconnect the high-pressure pipe between some of the fuel injection pumps
+01:56
+and fuel injection valves wait until only oil comes out of the pipe before
+02:01
+reconnecting reconnect
+02:12
+you
+02:17
+check the cooling water system check jacket cooling water start on marine
+02:23
+diesel oil check that the jacket cooling water temperature is above 50 degrees
+02:29
+Celsius for a warm standby starting this makes the engine ready for instant
+02:33
+loading to a hundred percent between zero degrees and 50 degrees Celsius the
+02:40
+engine can be cold started on marine diesel oil the engine has to be loaded
+02:44
+gradually until the minimum jacket water temperature of 50 degrees Celsius is
+02:49
+reached if the jacket water temperature is below zero degrees Celsius the only
+02:55
+starting attempts should be emergency starts requirements for start on heavy
+03:00
+fuel oil check that the jacket water cooling water temperature is at least 50
+03:06
+degrees Celsius if it's not run the heater until it reaches that temperature
+03:16
+for slant on heavy fuel oil check fuel oil at nozzle oil temperatures in
+03:22
+addition to the jacket cooling water temperature the following temperature
+03:25
+demands have to be met to start on heavy fuel oil the temperature of the heavy
+03:31
+fuel oil has to be as required for the fuel oil injection viscosity the nozzle
+03:37
+oil temperature has to be 85 degrees Celsius plus -5 degrees
+03:48
+check the control air pressure ensure that the pressure is between five and
+03:53
+seven bar
+03:59
+check the lubricating oil systems
+04:08
+you
+04:28
+check for cooling water leakage
+04:37
+you
+04:46
+clean rocker Aram lubricating oil filter click on the handle to clean the filter
+04:54
+element
+05:03
+check starting air-pressure
+05:11
+check start interlocks
+05:19
+you
+05:26
+when starting the engine after a period of standstill longer than 24 hours the
+05:32
+following routine should be performed to ensure a safe startup of the engine
+05:45
+if the fuel system has been disconnected it will be necessary to expel trapped
+05:51
+air in the system disconnect the high-pressure pipe
+05:55
+between some of the fuel injection pumps and fuel injection valves wait until
+06:00
+only oil comes out of the pipes before reconnecting click on the buttons to
+06:04
+learn more reconnect
+06:14
+you
+06:25
+check the cooling water system opened the lower temperature and the high
+06:30
+temperature cooling water valves check the high temperature cooling water level
+06:35
+in the expansion tank if the engine has been drained the high temperature system
+06:41
+must be vented start on marine diesel oil check that the jacket cooling water
+06:47
+temperature is above 50 degrees Celsius for a warm standby starting this makes
+06:53
+the engine ready for instant loading to 100% between zero degrees and 50 degrees
+06:59
+Celsius the engine can be cooled started on marine diesel oil the engine has to
+07:05
+be loaded gradually until the minimum jacket water temperature of 50 degrees
+07:09
+Celsius is reached if the jacket water temperature is below zero degrees
+07:14
+Celsius the only starting attempts should be emergency stance requirements
+07:20
+for start on heavy fuel oil check that the jacket cooling water temperature is
+07:25
+at least 50 degrees Celsius if it's not run the heater until it reaches that
+07:31
+temperature
+07:37
+for start on heavy fuel oil check fuel oil and nozzle oil temperatures in
+07:44
+addition to the jacket cooling water temperature the following temperature
+07:47
+demands have to be met to start on heavy fuel oil the temperature of the heavy
+07:52
+fuel oil has to be as required for the fuel oil injection viscosity the nozzle
+07:59
+oil temperature has to be 85 degrees Celsius plus -5 degrees
+08:09
+check the control air system check the control air module ensure that the
+08:16
+control air pressure is between five and seven bar open the control air quickly
+08:23
+to avoid that the solenoid valves are placed in the center position drain the
+08:29
+control air module
+08:39
+check the lubricating oil systems
+08:48
+you
+09:15
+check for cooling water leakage
+09:23
+you
+09:31
+clean rocker arm lubricating oil filter clean the filter in the rocker arm
+09:37
+lubricating oil system by turning the handle click on the handle to clean the
+09:42
+filter element cleaning of the filter element is now done
+09:51
+check control shaft with linkages check and oil the control shaft with
+09:58
+transmission linkages to ensure good move ability
+10:08
+check the starting air pressure
+10:17
+you
+10:30
+check start interlocks
+10:38
+you
+10:51
+start the engine click the key switch to prepare for start then press the start
+10:58
+button
+11:10
+check all manometers click on various buttons for details
+11:23
+you
+11:29
+check the start air piping if a pipe becomes hot this indicates a defective
+11:36
+starting valve which must be replaced immediately
+11:42
+there are two ways of stopping the engine auto stop
+11:50
+click on the buttons to Nome Auto stop the control system stops the engine by
+11:58
+making the actuator set the fuel rack position to zero and by activating the
+12:02
+pneumatic stop cylinders no valves should be manually operated and
+12:07
+electrical switches remain in auto mode
+12:19
+Manuel stop the engine can be stopped from the PLC cabinet or from the engine
+12:25
+panel with a switch marked stop this will make the actuator set the fuel rack
+12:32
+to zero position which will result in an immediate stop when the engine is idle
+12:37
+this is regarded as a normal stop when the engine is running on load it will be
+12:43
+regarded as an emergency stop because the abrupt halt may cause damage to the
+12:48
+engine and generator in case of any labor on or close to the engine the
+12:54
+following should be done after the engine has stopped
+12:57
+switch off the key switch on the engine panel close the starting air valve put
+13:04
+up signs do not start engine maintenance in progress in every place the engine
+13:10
+can be started from the engine has to be cooled wait one hour before starting the
+13:17
+labor stop the system pumps drain and closed valves in the involved systems
+13:31
+you
+13:40
+you are performing a daily check of the engine then you discover that the
+13:45
+exhaust temperature of one of the cylinders is too high compared to the
+13:49
+others even though it is not triggering the alarm
+13:53
+it is important to find out why the exhaust temperature is too high what
+13:59
+would you do
+14:03
+specify the procedure by dragging the actions so they are listed in a suitable
+14:08
+water
+14:16
+you
+14:20
+suggested procedure for too high exhaust temperature
+14:30
+check the exhaust temperatures in the monitoring system and compare this to
+14:35
+the temperature reported on the engine panel
+14:42
+click on the buttons if these temperatures deviate one of the
+14:47
+thermocouples is probably defective
+14:53
+however in check the position of the fuel rack on the fuel oil pump compare
+15:00
+the position of the fuel rack to the original position from the startup of
+15:04
+the engine as shown in the form from Al Steinberg in service personnel if the
+15:11
+position is changed return it to its original state how to change the
+15:16
+position of the fuel rack open the screw
+15:24
+change the position of the fuel rack close the screw
+15:36
+you
+15:49
+for HFO operation check that the fuel rec and control sleeve are not stuck if
+15:57
+the fuel rack or control sleeve are sticky and do not move easily because of
+16:01
+dirt or solidified heavy fuel the fuel injection pump cleaning system has to be
+16:07
+checked and started
+16:16
+check the linkage from the actuator to the fuel rack check that the screws and
+16:22
+nuts in the linkage of not loosened check for we're from the linkage check
+16:29
+that all flexible arms and for linkages are moving easily
+16:40
+measure max pressure on all cylinders the engine must be running at 100% load
+16:48
+when measuring the maximum pressure fasten the pressure gauge on the
+16:53
+indicator valve at the side of the cylinder head open the indicator valve
+16:58
+by using the hand wheel
+17:04
+note the maximum pressure close the indicative valve by using the hand wheel
+17:12
+remove the pressure gage and repeat the sequence for all cylinders calculate the
+17:18
+average maximum pressure if the cylinder in question has a maximum pressure which
+17:23
+is less than three bar from average it is probably an incidental variation and
+17:28
+no further action is necessary at this time however you should still monitor
+17:33
+the exhaust temperatures regularly
+17:40
+check the rotor caps on the exhaust valves the purpose of the roto caps is
+17:46
+to prolong the lifetime of the exhaust valves by rotating them mark the
+17:51
+retainer cap on the rotor cops on the cylinder head for instance with a white
+17:55
+pen if the valve is not rotating the rotor cap is broken it has to be
+18:01
+replaced
+18:08
+stop the engine the engine must be stopped before you proceed
+18:19
+check the air inlet and exhaust valves check the clearances on the air inlet
+18:26
+and exhaust valves this can be done on warm or cold engines use a tire gauge to
+18:32
+measure the inlet and exhaust valve clearances place the feeler gauge
+18:38
+accurately use a screwdriver to bend the brackets and all transfer are compare
+18:46
+the clearances to the maximum clearances given in all Steinberg ins service
+18:50
+manual
+18:58
+you
+19:04
+check the nozzle and/or nozzle pin the easiest way to test the nozzle on the
+19:10
+problem cylinder is to switch the fuel oil injection valve with another start
+19:17
+the engine when the engine is running on a hundred percent loads and the exhaust
+19:23
+temperatures have stabilized observe if the problem follows the injection valve
+19:28
+if the problem follows the injector stopped the engine and replaced the
+19:33
+valve and perform a functional test as described in all steam Bergin's service
+19:37
+manual
+19:42
+you are performing a daily check of the engine their new discover that the
+19:46
+exhaust temperature of one of the cylinders is too low compared to the
+19:50
+others even though it is not triggering the alarm
+19:55
+it is important to find out why the exhaust temperature is too low what
+20:00
+would you do
+20:03
+specify the procedure by dragging the actions so they are listed in a suitable
+20:08
+order
+20:16
+you
+20:22
+check the exhaust temperatures in the monitoring system and compare these to
+20:26
+the temperature reported on the engine panel
+20:34
+if these temperatures deviate click on the buttons to learn more
+20:43
+however in some cases this procedure will not reveal the error in those cases
+20:48
+that most probable errors are injection is too far advanced the pre injection
+20:54
+think'll has to be adjusted faulty fuel oil injection pump the pump must be
+21:00
+overhauled or changed
+21:06
+check the position of the fuel rack on the fuel oil pump compare the position
+21:11
+of the fuel rack to the original position from the startup of the engine
+21:15
+as shown in the form from all stain bergen service personnel if the position
+21:21
+is changed return it to its original state
+21:25
+how to change the position of the fuel rack open the screw
+21:35
+change the position of the fuel rec close the screw
+21:46
+you
+21:57
+for HFO operation check that the fuel rack and control sleeve are not stack if
+22:04
+the fuel rail core control sleeve are sticky and do not move easily because of
+22:08
+dirt or solidified heavy fuel the fuel injection pump cleaning system has to be
+22:13
+checked and started
+22:21
+check that the screws and nuts in the linkage of not loosened check for wear
+22:26
+on the linkage check that all flexible arms and linkages are moving easily
+22:40
+the engine must be running at a hundred percent load when measuring the maximum
+22:44
+pressure fasten the pressure gauge on the indicator valve at the side of the
+22:49
+cylinder head
+22:52
+open the indicator valve by using the hand wheel
+22:59
+note the maximum pressure close the indicative valve by using the hand wheel
+23:06
+remove the pressure gage and repeat the sequence for all cylinders calculate the
+23:13
+average maximum pressure if the cylinder in question has a maximum pressure which
+23:18
+is less than three bone from average it is probably an incidental variation and
+23:23
+no further action is necessary at this time however you should still monitor
+23:28
+the exhaust temperatures regularly
+23:38
+you
+23:44
+check for fuel oil leakage in the high-pressure pipe
+23:53
+check for possible cooling water leakage check the water level in the expansion
+23:59
+tank
+24:03
+check the exhaust gas if it is light and smoky it indicates that there is water
+24:09
+in the cylinder if water leakage is suspected the cylinder head and the
+24:14
+cylinder have to be checked check all gaskets and replace them if
+24:19
+necessary
+24:24
+stop the engine the engine must be stopped before you proceed
+24:36
+the easiest way to test the nozzle on the problem cylinder is to switch the
+24:42
+fuel oil injection valve with another on the engine start the engine when the
+24:47
+engine is running on a hundred percent load and the exhaust temperatures have
+24:52
+stabilized observe if the problem follows the injection valve if the
+24:56
+problem follows the injection valve stop the engine and replace the valve check
+25:01
+for clogged nozzle holes and perform a functional test as described in all
+25:06
+Steinberg ins service manual

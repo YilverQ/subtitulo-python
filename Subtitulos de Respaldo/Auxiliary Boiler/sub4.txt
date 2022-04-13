@@ -1,0 +1,150 @@
+00:00
+After completion of this section you'll have an increased awareness of the safe
+00:04
+operation of an auxilary steam plant
+00:27
+we assume that the boiler has been out of operation for a while and that no
+00:33
+major maintenance work has been done check that the following valves are
+00:37
+closed main stop valve foam blowing valve bottom blowing valve vent valve on
+00:45
+economizer drain valve on economizer
+00:59
+check that the following valves are open all pressure gauge valves all level
+01:06
+gauge valves vent valve on steam drum vent valve on super heater drain valve
+01:13
+on super heater feed water valve
+01:32
+check that the tubing and connections the pressure gauges are open by blowing
+01:37
+through the tube must be full of condensate all the time
+01:43
+check the water level and refill if necessary use both auxilary and main
+01:51
+feedwater line for testing
+02:00
+start the air preheater check the combustion chamber for any oil spill if
+02:05
+everything is okay start the combustion air blower purge for two to four minutes
+02:11
+at full capacity re circle the fuel oil until you have the correct viscosity of
+02:26
+the burners select the smallest burner tips reduce the capacity on the blower
+02:32
+insert the torch and check the flame of the position of the torch open for fuel
+02:38
+to the burner and check for proper flame if okay remove the torch and check the
+02:44
+flame again if not okay closed fuel oil valve immediately and
+02:50
+increase the blower capacity to maximum again purge for two to four minutes
+02:55
+before you retry to ignite the burner depending on the size and design of the
+03:01
+boiler you should use one to two hours to reach full steam pressure this is to
+03:08
+avoid damage to the boiler furnace and tubes
+03:31
+after a while you can open the main steam valve
+03:35
+slightly to avoid sticking close the drain valve on the super heater keep the
+03:41
+vent valve on the super heater open until steam flow to consumers has been
+03:47
+established this steam flow is necessary to call the super heater blow through
+04:06
+the level gauges as the pressure is increasing the water level will rise but
+04:12
+be sure you're able to read the level all the time if the water level is too
+04:17
+high you can blow some of it off through the foam glowing valve do not use the
+04:23
+bottom blowing valve as long as you are firing the water level may also be too
+04:28
+low caused by draining and venting if you observe water hammering in the
+04:33
+economizer it should be cooled down by supply of feed water it is good practice
+04:38
+toward - between the burners during firing because this will make the
+04:44
+heating of the boiler more even when you have reached the operational pressure
+04:48
+you should start to heat the piping system by opening the drain valves check
+04:54
+for the water level is not too high before you open the main steam valve
+04:59
+this because the lower pressure on the steam line may cause water to enter the
+05:04
+super heater change the burner tips to normal size check again
+05:10
+oil air ratio before you switch to automatic control
+05:31
+check that the seawater valve with a condenser is closed and easy to open
+05:36
+open a seawater section valve and start seawater Panth slowly open the seawater
+05:43
+valve to the condenser and check the water flow start the condenser vacuum
+05:48
+pump steam ejector and check that it is working properly
+05:54
+when the pressures coming down check for the alarm condenser high-pressure is
+05:59
+reset start the condensate pump and check the condensate flow check that the
+06:22
+casing drain valve is open and check for water check that the steam supply valve
+06:28
+is closed open the steam exhaust valve completely check lubricating oil level
+06:35
+in the CEMP and possible water in the oil start the electrical lubricating oil
+06:41
+pump and check the pressure check differential pressure on the oil filter
+06:46
+open and check the gland steam system adjust the glam steam pressure when
+06:54
+there is a minor gland steam leaked to the atmosphere open to the glam steam
+06:59
+condenser close any heating of the new briquetting oil system reset the
+07:05
+emergency stop system open the stop valve slightly
+07:39
+check the turbine casing drain for water again continue to open the throttle
+07:45
+valve slowly until the turbine starts to rotate check for any unfamiliar sound
+07:52
+and vibrations keep the turbine rotating for a few minutes
+07:58
+increase the RPM until you reach idling speed or no load speed and continue to
+08:06
+run at this rpm for another five minutes check lubricating oil pressure and stop
+08:13
+the electrical lubricating oil pump check oil temperature and open for
+08:19
+lubricating oil cooling when above 40 degrees centigrade when the speed
+08:24
+control valve is in action open the emergency stop valve completely check
+08:30
+again that all indicates engaged readings are normal according to the
+08:34
+operating manual and transfer rpm control to remote control position
+08:42
+you
+08:56
+if possible you should start sub blowing before closing the oil fired boiler open
+09:04
+vent valve and drain valve slightly on the super heater close the oil to the
+09:10
+burners and remove them from the furnace keep the blower running for some time to
+09:16
+remove all gases from the furnace stop the blower and close the air intake to
+09:22
+avoid cold air entering the furnace when the steam pressures below normal
+09:28
+close the main steam valve when the steam pressures one to two bar you can
+09:35
+open the vent valve from the drain the super heater completely when the boiler
+09:40
+has cooled down the feed water valves must be closed shut down the air
+09:46
+preheater

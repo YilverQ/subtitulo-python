@@ -1,0 +1,106 @@
+00:00
+Los objetivos de esta sección son familiarizar al personal operativo
+00:05
+con datos técnicos de designación del tipo de motor
+00:31
+la siguiente documentación se entrega con todos los motores Bergen manchados
+00:39
+El manual de funcionamiento describe el funcionamiento y el mantenimiento diarios de
+00:43
+el manual de servicio del motor contiene especificaciones técnicas y descripción
+00:49
+de extensos trabajos de mantenimiento varias instrucciones contiene la documentación
+00:55
+de la documentación interactiva electrónica de nuestro subcontratista
+01:03
+Todos los intervalos de mantenimiento dados son solo una guía y dependen de
+01:09
+las condiciones de funcionamiento
+01:16
+el extremo del volante del motor es donde se monta el volante el extremo opuesto
+01:21
+se llama el extremo libre o el extremo de la bomba
+01:28
+el lado de maniobra del motor es el lado longitudinal donde el control
+01:32
+El panel está instalado, este es el mismo lado donde se encuentran las bombas de inyección de fueloil.
+01:37
+ubicado el lado opuesto se llama el lado de escape
+01:46
+la designación del cilindro en Steinberg en motores comienza desde el
+01:52
+extremo de la bomba, el cilindro más cercano al extremo de la bomba será el número uno y luego el
+01:58
+el número aumentará hacia el extremo del volante
+02:04
+la dirección de rotación de todos los motores Steenburgen es por definición como
+02:09
+visto desde el extremo del volante
+02:18
+tú
+02:22
+todos los motores en línea estándar de todos los Steenburgen giran en sentido antihorario
+00:00
+El propósito principal de esta sección es brindar a todo el personal operativo una
+00:04
+comprensión de la importancia de tomar las precauciones de seguridad necesarias y
+00:07
+estar consciente de los peligros potenciales al operar los motores auxiliares
+00:31
+tú
+00:34
+Peligros Los motores diésel están diseñados para minimizar el riesgo de accidentes.
+00:39
+No obstante, los accidentes pueden ocurrir, por ejemplo, debido a la negligencia del
+00:44
+la información que se muestra en los triángulos rojos representa el nivel mínimo
+00:48
+de conocimiento sobre peligros y precauciones de seguridad operadores de motores diesel
+00:52
+debe adquirir, sin embargo, también hay algunas reglas básicas que deben tenerse en cuenta
+00:58
+nunca ignore una alarma nunca ignore las señales en el motor o las advertencias en los manuales
+01:05
+Tenga en cuenta la ubicación del equipo de seguridad en la sala de máquinas para
+01:09
+ejemplo extintores de incendios y equipos médicos
+01:19
+haga clic en los peligros de incendio se puede iniciar un incendio cuando las chispas entran en contacto
+01:25
+con materiales inflamables durante la soldadura, etc., el operador siempre debe estar atento
+01:30
+del riesgo involucrado en dicho trabajo para mantener el riesgo al mínimo siempre mantenga
+01:37
+la sala de máquinas de forma limpia y ordenada recuerde cerrar los depósitos de aceite y
+01:42
+eliminar los derrames de petróleo
+01:47
+Peligros térmicos: siempre tenga en cuenta qué partes del motor toca cuando
+01:52
+trabajando en o por el motor
+01:59
+peligros electricos
+02:07
+tú
+02:11
+una descarga eléctrica de un sistema de alto voltaje puede ser letal, pero incluso descargas
+02:16
+de sistemas de media o baja tensión pueden provocar quemaduras o pérdida del conocimiento
+02:20
+esto puede causar lesiones debido a una caída resultante o al dejar caer herramientas o
+02:25
+otro equipo
+02:29
+Riesgos de ruido El ruido generalmente se define como un sonido no deseado alrededor de la carrera.
+02:36
+motor diésel siempre habrá un cierto nivel de ruido que puede
+02:40
+molestar o, en el peor de los casos, causar daños en el oído medidas de protección necesarias
+02:45
+variará de un barco a otro operador de motor y de cualquier persona que entre
+02:50
+espacio mientras el motor está en marcha deben proteger su audición con los medios
+02:54
+disponible
+03:02
+tú

@@ -1,0 +1,182 @@
+00:00
+This lesson will give a short introduction on the working principles
+00:03
+of the Alfa Laval freshwater generator
+00:28
+the function of the freshwater generator is to convert seawater into freshwater
+00:34
+by vacuum distillation for the supply of high-quality fresh water for domestic
+00:40
+and process utilization it is made for installation on ships and rigs and
+00:47
+remote onshore locations the Alfa Laval freshwater generator
+00:54
+jwp 26c is designed for automatic operation with continuous control of
+01:01
+freshwater quality
+01:07
+the generators features are simple compact design titanium heat exchanger
+01:15
+plates and others see water resistant materials non-coated
+01:20
+combined condenser cooling ejector water and feed water system fresh water
+01:27
+control system
+01:31
+some of the advantages of using alpha Laval's fresh water generator high
+01:36
+quality fresh water the low content of dissolved solids salinity ensures a
+01:43
+supply of pure water which can be used directly as makeup for steam boilers the
+01:50
+long lifespan high-grade corrosion resistant materials such as the titanium
+01:56
+plates ensure the long life of the equipment low operation and maintenance
+02:01
+costs start and forget operation combined with easy access to the
+02:06
+interior reduces the number of man hours required for operation and maintenance
+02:11
+to a minimum simple installation due to compact design low weight and the
+02:18
+ability to be assembled on the spot
+02:23
+the Alfa Laval fresh water generator jwp 26 C series covers a capacity range from
+02:31
+4 to 35 cubic meters per 24 hours depending upon the heating medium and
+02:37
+cooling water temperatures the values Illustrated are based on a cooling water
+02:43
+temperature of 32 degrees Celsius distillers can be dimensioned to suit
+02:48
+any jacket water temperature from 55 to 95 degrees Celsius and suit any cooling
+02:55
+water temperature required the quantity of fresh water produced can be altered
+03:01
+within each size by varying the number of plates in the heat exchanger
+03:05
+assemblies
+03:11
+the feedwater to be distilled is taken from the sea cooling water outlet of the
+03:16
+condenser it enters the evaporator where it evaporates at about 40 to 50 degrees
+03:23
+Celsius as it passes between the plates heated by the heating medium the
+03:28
+evaporating temperature corresponds to a vacuum of 90 to 95 percent maintained by
+03:35
+the brine air ejector the vapors generated passed through a D mr. where
+03:41
+any drops of seawater entrained are removed and fall due to gravity into the
+03:47
+brine sump in the bottom of the distiller chamber the clean fresh water
+03:52
+vapors continue to the condenser where they condense into fresh water as they
+03:58
+pass between the cold plates cooled by the sea cooling water in order to
+04:04
+continuously check the quality of the fresh water produced acelino meter is
+04:09
+provided together with an electrode unit fitted on the fresh water pump delivery
+04:15
+side if the salinity of the freshwater produced exceeds the permitted maximum
+04:21
+value the solenoid valve and alarm are then activated to automatically dump the
+04:28
+freshwater produced into the bilge
+04:34
+this illustration shows a cross-section as seen through the distiller chamber
+04:40
+the part included are pick the names to highlight the parts
+04:53
+you
+05:20
+the JW 26c freshwater generator is designed for automatic operation in
+05:26
+periodically unmanned engine rooms and other automated operations the heating
+05:33
+medium is either engine jacket cooling water or a closed circuit heated by
+05:39
+steam the ejector pump is installed separately and has a separate suction
+05:45
+from the sea chest this pump supplies coolant in the form
+05:50
+of seawater to the condenser feed water for evaporation and water for the
+05:56
+combined brine air ejector the built in freshwater pump pumps the freshwater
+06:02
+produced into the tank the control panel which is installed separately with motor
+06:08
+starters and saline ohmmeter supplies electrical power to the ejector and
+06:13
+fresh water pumps and control voltage to the saline
+06:23
+the basic equipment includes fresh water generator unit
+06:29
+titanium plate exchanges for evaporator and condenser distill a shell two-stage
+06:35
+brine air ejector fresh water pump fresh water control sensor internal piping fig
+06:44
+the names to highlight the parts
+06:53
+you
+07:05
+additional equipment necessary for operation includes combined cooling and
+07:11
+ejector water pump with electrical motor control panel with motor starters and
+07:17
+Celino meter feed water anti-scale chemical dosing unit necessary at
+07:23
+heating medium temperatures above 75 degrees Celsius
+07:35
+you
+07:40
+optional equipment includes steam ejector system type JW SP + SP equipment
+07:49
+for steam boosting and hot water loop system extended control panel with motor
+07:55
+starters and Celino meter freshwater pH adjustment re hardening filter fresh
+08:04
+water disinfection equipment connections according to ANSI and JIS standard
+08:14
+complete information and documentation accompany each freshwater generator the
+08:20
+installation manual gives all information necessary for correct
+08:24
+installation including plant description installation procedure technical data
+08:32
+and drawings the instruction manual gives all information necessary for
+08:36
+operation and maintenance including plant description operating instructions
+08:44
+chemical dosing of anti-scale chemicals troubleshooting maintenance and major
+08:52
+components spare parts drawings technical data and drawings
+09:03
+this illustration shows the alfa laval freshwater generator as an integral part
+09:09
+of a cooling water system it consists of the following parts
+09:21
+you
+09:46
+you will now be introduced to instruments and equipment placed locally
+09:51
+on the freshwater generator click on the component name to see where
+09:56
+they are located
+10:05
+you
+10:12
+you will now be introduced to external equipment for an alfa laval freshwater
+10:17
+generator
+10:25
+an international network of alfa laval marines services centers provides the
+10:32
+availability of spares and service wherever you are the service engineers
+10:37
+can assist with any level of maintenance and will train your operation and
+10:42
+maintenance personnel if desired further information can be obtained from your
+10:47
+nearest alfa laval representative

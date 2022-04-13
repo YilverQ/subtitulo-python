@@ -1,0 +1,192 @@
+00:22
+Fire there will always be a certain danger of fire when running a diesel
+00:28
+engine a combination of leaking fuel oil and hopped engine parts may start a fire
+00:35
+that can be very damaging to the engine and in some cases dangerous for the
+00:41
+engine crew leakages in the high-pressure part of the fuel system
+00:46
+may create situations where the probability of a fire increases it is of
+00:52
+utmost importance to undertake inspections of these parts and carry out
+00:57
+preventative measures against this on a regular basis Thermal hazards fuel oil
+01:06
+pipes may be very hot and should not be touched even though they're insulated be
+01:13
+aware that fuel oil pipes leading from the heavy fuel oil feeder booster module
+01:18
+to the engine may be steam traced when performing maintenance on the fuel oil
+01:25
+system remember that heavy fuel oil is very hot fewer lawyers are flammable and
+01:32
+should be treated with care they may also irritate skin so rinse off fuel oil
+01:38
+as soon as possible take note not to wear clothing that is
+01:43
+soaked with oil all bill Stine beragon main and auxiliary engines can be
+01:52
+operated on heavy fuel oil and a certain conditions which include heavy fuel oil
+01:57
+and lubricating oil quality and the equipment which is needed
+03:06
+a safely an indicator valve is fitted outside the cylinder head by means of
+03:12
+this valve the maximum pressure in each cylinder should be measured once a month
+03:17
+the measuring must be carried out with a hundred percent load on the engine log
+03:24
+the maximum combustion pressures and exhaust temperatures find causes and
+03:30
+rectify if combustion pressure in one cylinder differs more than three bar
+03:37
+from the average maximum at full load
+03:41
+abnormal change in the exhaust temperature of one cylinder is indicated
+03:53
+click the components for further information
+04:03
+the fever booster module feeds heavy fuel oil to the engines the module
+04:10
+consists of equipment ensuring that the fuel oil is correctly filtered and that
+04:15
+it will have the correct temperature and viscosity when entering the engine the
+04:21
+feeder booster module consists of the following main components to suction
+04:27
+strainers to feeder pumps of which one is a standby pump mixing pipe deaeration
+04:36
+vessel to boost the pumps of which one is a standby pump to fuel heaters
+04:47
+automatic filter with separate manual bypass filter viscosity control system
+04:57
+duplex fine filter
+05:09
+the oil temperature and oil pressure on the fuel oil outlet should be recorded
+05:14
+every day
+05:24
+the change of a valve is equipped with a switch for heavy fuel or diesel oil
+05:29
+operation a light indicates that the engine is running on marine diesel oil
+05:35
+or heavy fuel oil oil in a disconnected fuel oil system can circulate through
+05:43
+the valve and is thereby kept heated to correct temperature
+05:58
+the cock enables switching between the filter elements enabling replacement
+06:03
+while the engine is in operation
+06:24
+in addition to logging the fuel oil pressure after the filter the filter
+06:28
+elements have to be checked at least once a month how often they have to be
+06:34
+replaced depends on the fuel oil quality
+06:42
+make sure that the filter that is going to be dismantled is not in operation by
+06:47
+checking the cock position open the vent plug empty the filter housing of diesel
+06:57
+oil by unscrewing the plug this is not necessary for checking the element
+07:06
+unscrew the nuts and remove the cover
+07:12
+remove the filter element from the housing and check the element
+07:22
+wash out all oil sediments in the filter housing blow the housing clean with
+07:29
+compressed air
+07:39
+place the text in the correct sequence
+07:47
+wrong you have no more tries we will show you the answer
+07:59
+put the new filter element into the filter housing fit the cover with the
+08:05
+Nets then the filter by turning the vent plug one revolution until pure oil flows
+08:12
+out of the drain pipe connected to the nipple further venting is done by
+08:16
+loosening the plug until the oil is free of air bubbles assure that pipe
+08:22
+couplings and plugs are tightened and that there are no leakages from the
+08:26
+filter housing
+08:43
+the fuel oil injection pumps inject the correct amount of fuel into the
+08:47
+combustion chamber via short high-pressure pipes and the injection
+08:53
+valves the pumps are driven by the camshaft via the push rods and regulated
+09:00
+by the regulator via the link arms all engines running on heavy fuel oil are
+09:08
+equipped with a cleaning system for the fuel injection pumps it is of great
+09:17
+importance to check the control levers and fuel pump
+09:21
+racks weekly for sticking tightening talks for nets and high-pressure fuel
+09:28
+pipes must be inside the tolerance given to high tightening may lead reduced flow
+09:36
+of fuel to the cylinders due to narrowing of the pipes
+09:51
+all engines running on heavy fuel oil are equipped with a cleaning system for
+09:57
+the fuel injection pumps in order to prevent the control rod and sleeve from
+10:02
+getting dirty and sticky
+10:18
+the fuel injection pump cleaning system should always be operating when running
+10:24
+on heavy fuel oil after cleaning or overhaul of the fuel injection pumps
+10:31
+start the cleaning system before the pumps checks the level in the diesel oil
+10:38
+tank
+11:06
+the fuel oil injection valve should provide the injection of fuel oil to the
+11:11
+combustion chambers when operating on heavy fuel oil the nozzles have to be
+11:17
+cooled this is done by the nozzle temperature control system a nozzle
+11:26
+should not be disassembled for inspection or changed unless the single
+11:32
+cylinder exhausts temperature deviates considerably from the average please
+11:39
+click the graphic showing the correct behavior of the fuel injection nozzle
+11:43
+during injection
+11:53
+high exhaust temperature one cylinder may be caused by leaking valves
+12:00
+incorrect injection timing or a leaking nozzle the problem is easily identified
+12:08
+by switching to valves and observing if the problem follows the nozzle the
+12:16
+cooling medium in the nozzle temperature control system is oil
+12:35
+and nozzle should not
+12:44
+we circulated also when the engine is running on diesel oil the coolant
+12:50
+temperature must be kept within the prescribed limits to low temperature may
+12:56
+cause corrosion on the nozzles
+13:15
+clean the filter once a week by turning the handle on the filter housing the
+13:21
+heat exchanger uses high temperature Jacket water for cooling it is fitted
+13:28
+with corrosion plugs which must be checked and be replaced in case of
+13:33
+leakage the nozzle coolant has to be circulated also when the engine is
+13:42
+running on diesel oil the coolant temperature must be kept within the
+13:46
+prescribed limits to low temperature may cause corrosion on the nozzles click the
+13:57
+components for further information

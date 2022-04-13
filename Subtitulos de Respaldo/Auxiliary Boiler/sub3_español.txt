@@ -1,0 +1,110 @@
+00:00
+Los objetivos de aprendizaje de esta sección son familiarizarse con los siguientes
+00:04
+sistemas de control de calderas control de combustión gestión del quemador sistema de disparo
+00:11
+control de nivel
+00:33
+Los principales objetivos del sistema de control de combustión son suministrar fuel oil
+00:38
+según la carga de la caldera para controlar el suministro de aire de combustión según
+00:43
+el consumo de fuel oil para apagar los quemadores en caso de emergencia a
+00:48
+El sistema de control en cascada se utiliza para obtener la mejor estabilidad posible el sistema.
+00:55
+se compone de varios controladores un controlador maestro recibe el vapor
+01:01
+presión y una señal de flujo de vapor la señal de salida del maestro es la
+01:06
+Señal de entrada al controlador de aire y al controlador de aceite combustible llamado esclavo
+01:12
+controladores la filosofía de control es que el controlador esclavo debe tomar
+01:18
+cuidado de las variaciones en la señal de salida del controlador maestro antes de esta
+01:22
+afecta la señal de entrada del controlador maestro la señal de entrada maestra o el
+01:29
+La variable de proceso es el valor que tiene que ser constante en primer lugar para
+01:35
+mantener la mejor combustión posible durante el cambio de carga de la caldera, necesitamos un
+01:40
+selector alto-bajo que también recibe una señal del controlador de oxígeno
+01:46
+El selector alto-bajo permite aumentar el flujo de aire antes de aumentar
+01:52
+flujo de fuel oil cuando aumentamos la carga de estropear a medida que reducimos la carga de la caldera
+01:59
+queremos reducir el flujo de aceite antes de reducir el flujo de aire agregando la señal
+02:06
+desde el analizador de oxígeno podemos optimizar la relación de aceite aún más para
+02:13
+compensar las variaciones en una menor calidad del aceite
+02:17
+flujo de aire debido al hollín y a la reducción de la capacidad del soplador de aire sintonización de una cascada
+02:23
+El sistema de control generalmente se realiza de la siguiente manera
+02:27
+configurar el controlador esclavo en manual durante el funcionamiento normal ajustar el control
+02:36
+de acuerdo con las especificaciones en el manual de operación cuando el maestro
+02:43
+La variable de proceso de entrada del controlador es correcta
+02:47
+ajustar el punto de ajuste del controlador esclavo a la señal de entrada del controlador esclavo cuando
+02:56
+esto se completa, el controlador esclavo se puede cambiar a automático el maestro
+03:04
+El controlador debe estar en manual durante el encendido de la caldera si es necesario
+03:09
+Para sintonizar el controlador maestro, esto debe hacerse con el controlador esclavo en
+03:13
+modo automático o de punto de ajuste remoto siga cuidadosamente las instrucciones del manual
+03:20
+cada quemador tiene una capacidad limitada con un rango óptimo
+03:25
+solemos tener varios quemadores en cada caldera para lograr lo mejor posible
+03:29
+combustión y varias condiciones de carga, el sistema de gestión del quemador disparará
+03:34
+y apague los quemadores en secuencia dependiendo de la caldera cargar un quemador
+03:41
+se selecciona como maestro y los demás son esclavos una presión de vapor establecida
+03:46
+La desviación activará el sistema, los límites de presión alta y baja deben
+03:53
+reflejar la configuración del sistema de control de presión
+04:09
+para evitar peligros para las personas y posibles daños a la caldera un cierre o
+04:14
+El sistema de disparo siempre está instalado La entrada al sistema de disparo puede ser la siguiente
+04:20
+Señala falla de llama falla de aire de combustión falla del precalentador de aire alta alta
+04:28
+nivel de agua bajo bajo nivel de agua alto alta presión de vapor la parada de emergencia
+04:35
+activado
+04:46
+todas las señales están cableadas en un sistema separado y no son una parte integrada de
+04:51
+el sistema de control el sistema de disparo requiere presión y nivel separados
+04:56
+interruptores para mantener el nivel de agua correcto durante todo el funcionamiento normal
+05:01
+condiciones necesitamos un sistema de control de nivel automático en calderas con un bajo
+05:07
+producción de vapor y alto contenido de agua solo el sistema de control de nivel
+05:13
+mide el nivel del agua y controla el flujo de agua de alimentación mediante una válvula de control
+05:22
+en calderas con alta producción estimada y bajo contenido de agua el control de nivel
+05:29
+El sistema generalmente se basa en señales del consumo de vapor y el agua de alimentación.
+05:34
+suministro además del nivel del agua un aumento repentino en el consumo de vapor
+05:39
+provoca una caída de presión en el tambor de agua a vapor y aumenta el nivel del agua
+05:45
+y viceversa, es por eso que debemos comparar el consumo de vapor con la alimentación.
+05:51
+suministro de agua antes de introducir cambios importantes el suministro de agua de alimentación

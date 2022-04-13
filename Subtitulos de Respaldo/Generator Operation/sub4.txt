@@ -1,0 +1,218 @@
+00:00
+Marine Online
+00:16
+Completion of this section the student
+00:22
+should have a good understanding of how
+00:24
+power is produced and a mutuality
+00:27
+between the prime movers and the
+00:29
+alternator's a pre-requisite for
+00:34
+satisfactory parallel operation is equal
+00:38
+speed on the prime movers Diesel's the
+00:43
+speed of the diesel engines is
+00:44
+controlled by their governors there are
+00:47
+different types of controllers on the
+00:49
+market but the principle is the same the
+00:53
+purpose of the controllers is to
+00:55
+maintain the speed at all loads and for
+00:58
+load sharing of active load in the
+01:01
+example below the generator use is a six
+01:05
+pole generator and the nominal frequency
+01:08
+is 60 Hertz this means that the speed of
+01:12
+the diesel engine has to be 1,200 rpm if
+01:19
+a kilowatt load such as heating is
+01:21
+switched on to the alternator then
+01:24
+energy is drawn from the alternator and
+01:26
+converted into heat this energy must be
+01:30
+provided by increasing the rate of fuel
+01:33
+to the prime mover this happens
+01:36
+automatically in the following way
+01:52
+as for the voltage regulation reactive
+02:13
+load sharing the diviners are adjusted
+02:16
+to have a speed drop from zero to full
+02:20
+load as we can see in the characteristic
+02:28
+the RPMs have dropped to 1152 of the
+02:33
+ends at full load if the idle speed is
+02:36
+set to 1,200 rpm and the speed droop is
+02:40
+four percent the frequency will drop
+02:44
+proportionally with a speed 250 7.6
+02:48
+hurts let's parallel shift the droop so
+02:52
+that the generator is at its nominal
+02:54
+speed at fifty percent load this is done
+02:58
+by changing the speed set point as we
+03:05
+can see the RPM is at 1200 rpms at fifty
+03:10
+percent load and the frequency will be
+03:13
+60 Hertz let's see what happens when we
+03:16
+change the speed roop to two percent we
+03:20
+still wish to retain the nominal
+03:22
+frequency at fifty percent slowed to
+03:29
+obtain a nominal frequency fifty percent
+03:31
+load we also have to change the speed
+03:34
+set point let's keep the focus and group
+03:43
+setting
+03:44
+and the governor adjusted nominal
+03:46
+frequency 60 Hertz at fifty percent load
+03:49
+start the generator by pressing the
+03:57
+start button on the DG one control panel
+04:00
+as you can see the generator has reached
+04:06
+idle speed connect the generator by
+04:09
+pressing the connect button on the DG
+04:11
+one control panel load the generator to
+04:18
+fifty percent each click on the increase
+04:22
+or decrease button will change the load
+04:25
+by ten percent as you can see we have
+04:39
+nominal frequency at fifty percent load
+04:42
+continue to load the generator two
+04:44
+hundred percent the RPM and frequency is
+04:54
+at 1176 and 58.8 respectively at full
+05:01
+load to maintain the nominal frequency
+05:04
+we must add more fuel to the diesel by
+05:07
+the means of the governor press the up
+05:10
+button on the governor we want to
+05:17
+connect generator 2 to the main bus in
+05:20
+order to share the load the governor has
+05:24
+the same speed droop characteristic as
+05:26
+number one start dg2 by pressing the
+05:30
+start button in the dg2 control panel
+05:33
+adjust the frequency of dg2 and it is
+05:37
+slightly above the main bus frequency by
+05:41
+pressing the down button the frequency
+05:45
+for the incoming connects dg2 by
+05:48
+pressing the connect button in the dg2
+05:50
+control panel the main best frequency
+05:53
+will decrease if we do not decrease DG
+05:57
+one simultaneously let's adjust both the
+06:02
+governor's to the nominal frequency at
+06:10
+this point it should be obvious what
+06:13
+will happen if we tamper with a speed
+06:15
+group and speed setting let's have a
+06:18
+look at a few examples changing the
+06:23
+speed set point Edwards on DG one will
+06:27
+result in DG one taking more of the
+06:29
+total load than dg2 there will be a
+06:32
+constant load deviation between DG 1 and
+06:36
+dg2 changing the speed droop on governor
+06:41
+one to eight percent will cause DG one
+06:45
+to take half as much load 50g to hear
+06:51
+both the speed setpoint and speed droop
+06:54
+is changed on DG one with these new
+06:58
+settings we get balanced load sharing
+07:01
+only at fifty percent load note that
+07:07
+these settings have been adjusted doing
+07:09
+the generator trials and should not be
+07:12
+tampered with if you are not fully aware
+07:15
+of what you are doing note that on
+07:17
+modern electrical power plants there is
+07:20
+an automatic frequency controls which
+07:22
+have take the Devon as app down
+07:24
+according to a preset point the
+07:27
+procedures in this chapter of a manual
+07:30
+adjustment of frequency and load sharing
+07:32
+in the following page
+07:40
+is it is

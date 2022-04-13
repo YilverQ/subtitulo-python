@@ -1,0 +1,42 @@
+00:00
+Los objetivos de esta sección son familiarizar al personal operativo
+00:05
+con datos técnicos de designación del tipo de motor
+00:31
+la siguiente documentación se entrega con todos los motores Bergen manchados
+00:39
+El manual de funcionamiento describe el funcionamiento y el mantenimiento diarios de
+00:43
+el manual de servicio del motor contiene especificaciones técnicas y descripción
+00:49
+de extensos trabajos de mantenimiento varias instrucciones contiene la documentación
+00:55
+de la documentación interactiva electrónica de nuestro subcontratista
+01:03
+Todos los intervalos de mantenimiento dados son solo una guía y dependen de
+01:09
+las condiciones de funcionamiento
+01:16
+el extremo del volante del motor es donde se monta el volante el extremo opuesto
+01:21
+se llama el extremo libre o el extremo de la bomba
+01:28
+el lado de maniobra del motor es el lado longitudinal donde el control
+01:32
+El panel está instalado, este es el mismo lado donde se encuentran las bombas de inyección de fueloil.
+01:37
+ubicado el lado opuesto se llama el lado de escape
+01:46
+la designación del cilindro en Steinberg en motores comienza desde el
+01:52
+extremo de la bomba, el cilindro más cercano al extremo de la bomba será el número uno y luego el
+01:58
+el número aumentará hacia el extremo del volante
+02:04
+la dirección de rotación de todos los motores Steenburgen es por definición como
+02:09
+visto desde el extremo del volante
+02:18
+tú
+02:22
+todos los motores en línea estándar de todos los Steenburgen giran en sentido antihorario

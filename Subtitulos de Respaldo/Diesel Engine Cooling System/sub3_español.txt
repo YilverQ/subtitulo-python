@@ -1,0 +1,826 @@
+00:00
+Después de completar este capítulo, el alumno conocerá los componentes principales de
+00:04
+un sistema de agua de refrigeración de un motor diesel conocer la función de cada uno de los
+00:08
+los componentes de un sistema de agua de refrigeración de un motor diesel conocen el control básico
+00:12
+funciones de alarma y seguridad de un sistema de refrigeración de motor diesel
+00:36
+la ilustración muestra los componentes principales de una chaqueta básica típica
+00:41
+sistema de enfriamiento de agua, miraremos cada uno de los componentes e identificaremos el
+00:45
+roles que tienen dentro del sistema, también veremos algunos de los diferentes
+00:49
+tipos que se utilizan comúnmente, puede compararlos con los sistemas a bordo
+00:53
+su embarcación actual la mayoría de los sistemas de agua de refrigeración con los que se encontrará
+00:58
+utilizará algún tipo de bomba centrífuga accionada eléctricamente como flujo principal
+01:02
+generador para el refrigerante para muchos motores pequeños la bomba de circulación
+01:06
+serán accionadas por motor estas bombas que son un tipo de bomba dinámica de rotor utilizan un
+01:11
+Impulsor giratorio para dar energía cinética al fluido acelerando el fluido.
+01:16
+desde el centro del impulsor el ojo hacia el borde exterior esta cinética
+01:20
+La energía se convierte en presión estática mediante el uso de una carcasa de voluta o un
+01:25
+anillo difusor veteado y es este aumento de presión lo que da al
+01:30
+flujo del sistema muchos diseños de bombas utilizan una combinación de carcasa en espiral un difusor
+01:35
+Para aumentar la presión disponible, la presión del sistema está determinada por el
+01:40
+altura de descarga o la altura a la que la bomba debe entregar como
+01:44
+bombas de guiado con impulsores poco profundos de gran diámetro se utilizan donde presiones altas
+01:49
+son necesarios y el volumen no es importante, mientras que los de menor diámetro profundo
+01:54
+Los impalas se utilizan cuando el volumen es la principal preocupación.Tipos de etapas múltiples que utilizan dos
+02:01
+o más impulsores en serie se pueden usar donde se requieren presiones más altas.
+02:05
+Probablemente encontrará que la mayoría de las bombas centrífugas utilizadas en el enfriamiento
+02:09
+Los sistemas a bordo de su embarcación son del tipo de etapa única que utilizan una combinación de
+02:14
+anillo difusor y carcasa de voluta los impulsores serán de diámetro moderado
+02:19
+y profundidad, esto proporcionará la presión adecuada y el flujo suficiente para la mayoría
+02:23
+sistemas debe hacer clic en los botones para ver cómo la carcasa de la voluta y
+02:27
+El anillo difusor funciona cuando el fluido entra en el centro del impulsor.
+02:32
+La acción centrífuga hace que se mueva hacia arriba a lo largo de las paletas del impulsor.
+02:36
+Acelerándolo a medida que avanza, las paletas están diseñadas para ayudar a impulsar el fluido
+02:42
+alrededor y hacia afuera mientras aumenta la velocidad la acción centrífuga natural
+02:47
+se suma al movimiento radial hacia afuera cuando el fluido sale del borde del impulsor es
+02:52
+reunidos en la voluta de la carcasa como se puede ver, la carcasa de la voluta tiene forma
+02:57
+tener una sección transversal creciente a medida que avanza hacia la bomba
+03:01
+salida esto hace que la velocidad del fluido disminuya y la energía cinética sea
+03:06
+convertido en presión estática cuando el fluido entra en el centro del impulsor
+03:11
+la acción centrífuga hace que se mueva hacia arriba a lo largo de las paletas del impulsor
+03:16
+Acelerándolo a medida que avanza, las paletas están diseñadas para ayudar a impulsar el fluido
+03:21
+alrededor y hacia afuera mientras aumenta la velocidad para una acción centrífuga natural
+03:26
+se suma al movimiento radial de salida cuando el fluido sale del borde del impulsor
+03:31
+entra en los canales entre las paletas del anillo difusor
+03:34
+Como puede ver, las paletas difusoras tienen una forma que aumenta
+03:38
+sección transversal a medida que se mueve hacia el extremo exterior, esto hace que la velocidad del fluido
+03:42
+disminuir y la energía cinética se convierte en presión estática algunos
+03:47
+Los diseños de bombas centrífugas tienen tanto el anillo difusor como la carcasa en espiral en
+03:52
+la misma unidad el principio de funcionamiento es similar al ya descrito pero
+03:56
+se pueden obtener presiones más altas en esta disposición intercambios de calor como el nombre
+04:02
+sugiere son dispositivos diseñados para permitir la transferencia de calor de una sustancia a
+04:06
+otro para los sistemas de refrigeración que nos ocupa esta transferencia es
+04:11
+normalmente de los fluidos de enfriamiento primario a secundario, aunque hay muchos
+04:15
+tipos de intercambiadores de calor, generalmente están diseñados de tal manera que un
+04:19
+Se forma una barrera para separar los dos fluidos el calor se transfiere del calor
+04:23
+fluido al fluido frío por conducción a través de la barrera principalmente por un
+04:28
+combinación de conducción y convección al fluido frío donde el aire es uno de los
+04:32
+los fluidos convección y radiación son los principales mecanismos de transferencia de calor
+04:37
+las tasas de transferencia dependen de las propiedades de los fluidos las diferencias de temperatura
+04:41
+los materiales de barrera y el tipo de flujo la tasa de transferencia de calor puede ser
+04:46
+afectado por el ensuciamiento de las superficies de contacto del fluido y cambios en el flujo del fluido
+04:51
+Los intercambiadores de calor pueden disponerse para un flujo paralelo de ambos fluidos
+04:56
+en la misma dirección los fluidos a contracorriente viajan en dirección opuesta
+05:01
+o fluidos de flujo cruzado que fluyen en ángulo recto, también se pueden colocar
+05:06
+para diferentes vías de flujo o pulsos, vías únicas es donde entran los fluidos
+05:11
+en un extremo a lado y fluir hacia el otro extremo o lado para salir de caminos dobles es
+05:18
+donde los fluidos salen por el mismo extremo por donde entran habiendo pasado arriba y abajo del
+05:22
+longitud del intercambiador de calor, también es posible tener otros
+05:27
+Disposiciones el número de pulsos generalmente se logra variando el diseño
+05:31
+de las cubiertas de los extremos, los intercambiadores de calor de placas ahora se utilizan comúnmente para ayudar en los enfriadores
+05:37
+y calentadores en una amplia variedad de aplicaciones marinas, se pueden adaptar fácilmente
+05:42
+para diferentes tareas y tamaños, se pueden lograr grandes áreas de transferencia de calor con
+05:47
+una unidad relativamente compacta Los intercambiadores de calor de placas constan de varios
+05:52
+placas estampadas apoyadas en un marco de viga y fijadas entre dos placas de extremo pesadas
+05:57
+una de las placas finales está fijada al marco y la otra la compresión
+06:02
+La placa se puede deslizar a lo largo del marco La pulsación de Tybalt a través de las dos placas
+06:07
+utilizado para sujetar el conjunto juntos uno de los compañeros de extremo pesado es sólido mientras
+06:12
+el otro está provisto de puertos completos protegidos contra daños por erosión con
+06:16
+inserciones de goma para la entrada y salida de los dos fluidos las placas estampadas son
+06:21
+formado con corrugaciones que proporcionan trayectorias de flujo para los fluidos en el lado opuesto
+06:25
+lados de las placas y para que los orificios coincidan con los puertos de la placa
+06:31
+separados y sellados entre sí por juntas preformadas de tal manera que un
+06:35
+Se forma un espacio de fluido entre placas adyacentes a cada fluido se le permite
+06:40
+espacios alternos en la pila de placas de modo que cada placa tenga un fluido en una
+06:45
+lado y el otro fluido en el otro lado el material utilizado para las placas es
+06:49
+a menudo de acero inoxidable o titanio, lo que significa que las placas son fuertes y
+06:54
+resistente a la corrosión y la erosión, siendo lo suficientemente delgado como para proporcionar un buen calor
+06:58
+características de transferencia encontrará muchos diseños de calor de tipo carcasa y tubo
+07:03
+intercambiadores en los barcos en los que navega se utilizan como calentadores o refrigeradores en
+07:07
+los diversos sistemas a bordo antes de la introducción de los tipos de placa estos
+07:12
+para la forma principal de intercambiador de calor utilizado en el sector marino y general
+07:16
+aplicaciones de ingeniería esencialmente este tipo de intercambiador de calor utiliza tubos
+07:20
+para separar los dos fluidos, uno que fluye por el interior del tubo con el
+07:25
+otros que fluyen por el exterior, los tubos generalmente se disponen como una pila o
+07:29
+haz con los extremos abiertos encajados en placas finales o dos placas intermedias
+07:35
+Las placas de soporte a menudo se colocan en la pila para evitar deformaciones y para guiar
+07:39
+flujo de fluido alrededor del exterior de la pila los tubos pueden ser rectos con dos
+07:44
+placas de extremo o formado como pocos tubos con una sola placa de extremo a veces los tubos pueden
+07:50
+formarse como espirales o tener inserciones para afectar la naturaleza del flujo para dar
+07:54
+eficiencia mejorada, es posible que se haya encontrado con algunos de estos, como flujo de remolino
+07:59
+tubos que son bastante comunes la pila de tubos encaja en una carcasa la carcasa y
+08:05
+está dispuesto de tal manera que las dos placas
+08:08
+sellar contra el caparazón con una pila libre para expandirse en un extremo el caparazón es
+08:13
+provisto de conexiones para la entrada y salida del fluido que pasa
+08:17
+el exterior de los tubos los componentes finales son las tapas de los extremos o los cabezales
+08:22
+Estos están provistos de conexiones para el fluido que fluirá a través del
+08:26
+tubos y también bandas de partición que dirigen la trayectoria del flujo y determinan la
+08:30
+número de pasadas a través del intercambiador de calor pase el ratón sobre el
+08:35
+diagrama para identificar los diferentes componentes otra forma de mejorar la
+08:40
+La tasa de transferencia de calor es aumentar el área de la superficie en contacto con uno de los
+08:44
+fluidos, esto se puede lograr proporcionando aletas en el exterior de los tubos o
+08:50
+elementos del intercambiador de calor esto es común cuando uno de los fluidos es aire o
+08:54
+un gas con el que probablemente se haya encontrado con este arreglo ya sea con aire enfriado
+08:59
+radiadores o enfriadores de aire cargado en motores diesel o con evaporadores usados
+09:04
+En la planta de refrigeración, algunos motores diesel y compresores de aire también utilizan
+09:10
+bloques de cilindros adelgazados para ayudar a enfriar de esta manera las válvulas que
+09:15
+encontrará instalados en los sistemas de refrigeración a bordo de los barcos en los que navega.
+09:19
+una mezcla de los diversos tipos disponibles más comunes se operará manualmente
+09:24
+tipos como válvulas de compuerta, válvulas de tornillo y válvulas de retención atornilladas
+09:29
+Aparte de unos pocos deberes específicos, ningún tipo en particular es correcto o incorrecto y
+09:34
+Las válvulas serán seleccionadas por el diseñador para adaptarse a sus preferencias.
+09:39
+El sistema de refrigeración tiene dos bombas de circulación que, como sabrá, es muy común.
+09:43
+entonces el lado de descarga de la bomba requerirá que se instale una válvula de retención
+09:48
+para evitar el reflujo de la bomba en funcionamiento a través de la bomba de reserva de 3 vías
+09:52
+Las válvulas instaladas para el control de temperatura también pueden tomar varias formas con
+09:56
+Los tipos de tapones contorneados que se utilizan comúnmente, los veremos en detalle más adelante en
+10:01
+esta sección el propósito del desaireador
+10:05
+es ayudar a liberar los gases o vapores del aire del agua de la camisa circulante
+10:09
+El desaireador suele ser un tanque de forma cilíndrica con una tapa cónica y
+10:15
+instalado en la línea de salida del motor colocado a una altura mayor
+10:19
+que las conexiones del motor se proporcionan para la entrada y salida del agua de la camisa y
+10:25
+también un tubo ascendente y descendente desde el tanque colector la entrada y salida principal
+10:29
+Las tuberías suelen estar conectadas al desaireador.
+10:32
+de tal manera que el agua gire alrededor del tanque desde la entrada superior
+10:36
+apuntar hacia el punto de salida inferior esta rotación ayuda a liberar cualquier gas de aire
+10:41
+y vapor que luego pasa a través de la conexión del elevador superior del desaireador a
+10:46
+el tanque colector y hacia la atmósfera a través del tubo de ventilación
+10:50
+tanque colector o tanque de expansión, como también se le conoce, actúa como un
+10:55
+volumen dentro del sistema para adaptarse a la expansión y contracción del agua
+10:59
+en el sistema a medida que la temperatura sube y baja, también actúa como un punto de
+11:04
+salir del sistema por cualquier aire, gas o vapor liberado en el desaireador
+11:09
+debe colocarse lo suficientemente alto en el sistema para permitir la circulación
+11:13
+presión y como tal proporciona una altura de succión positiva para la bomba de circulación
+11:18
+El llenado generalmente se organiza para que sea manual de modo que, en caso de fugas,
+11:23
+De lo contrario, es posible que no se detecten fácilmente las pérdidas del sistema.
+11:27
+cantidad de maquillaje requerido el material utilizado para la tubería de enfriamiento
+11:32
+Los sistemas se eligen para brindar una vida útil aceptable a un costo razonable.
+11:37
+medio refrigerante ser usted es el factor principal a la hora de elegir el
+11:40
+material el lado de agua dulce del sistema generalmente incorpora acero dulce
+11:45
+tubería seleccionada por el bajo costo de fabricación la tubería para el
+11:49
+El lado del agua de mar del sistema a menudo está hecho de una aleación resistente a la corrosión.
+11:53
+como materiales a base de cobre-níquel o níquel-aluminio-bronce
+11:58
+Los planos del sistema a bordo de su barco proporcionarán los detalles de los materiales utilizados.
+12:02
+para los diferentes sistemas de tuberías ya hemos visto que el agua dulce a menudo
+12:07
+elegido como refrigerante con preferencia al agua de mar debido a la corrosión y
+12:11
+depósitos de escamas asociados con el agua de mar, esto no significa que el agua dulce
+12:16
+Los sistemas son agua dulce libre de corrosión e incrustaciones a diferencia del agua destilada
+12:21
+todavía tiene un contenido de sal mineral apreciable la concentración real y
+12:26
+la naturaleza de los minerales depende de la fuente del agua dulce estos minerales
+12:31
+puede conducir a la formación de incrustaciones y también a la corrosión, especialmente a
+12:36
+temperaturas en muchos casos el agua dulce producida a bordo del barco es
+12:40
+agua destilada casi pura con un contenido mineral muy bajo, a menudo menos de cinco
+12:45
+partes por millón medidas como cloruros, es probable que el agua sea ligeramente
+12:50
+ácido y necesita ser tratado con productos químicos para hacerlo ligeramente alcalino
+12:54
+Los productos químicos de tratamiento a menudo se combinan con inhibidores de corrosión para
+12:59
+proteger aún más los componentes del sistema, generalmente se realizan pruebas de concentración
+13:04
+con un simple comparador de color, veremos los tratamientos reales y probaremos
+13:08
+métodos en un capítulo posterior algunos sistemas tienen facilidad para agregar los productos químicos
+13:12
+al sistema a través de un recipiente de dosificación especial en otros sistemas el tratamiento es
+13:17
+agregado a través del tanque de cabecera para controlar el rendimiento de un diesel
+13:21
+motor y los sistemas asociados es necesario tener
+13:25
+instrumentación disponible para establecer los valores de los parámetros clave para el
+13:30
+sistemas de enfriamiento esto significa que debe haber termómetros para lecturas de temperatura como
+13:34
+Además de los manómetros, también es necesario que haya alarmas adecuadas para la temperatura.
+13:39
+flujo de presión y nivel, algunos de estos estarán vinculados a la desaceleración automática
+13:45
+y apagado del motor como mínimo absoluto debe haber
+13:49
+termómetros en la entrada y salida del motor y una presión
+13:53
+en la descarga de la bomba en la práctica, como podrá ver en los sistemas en
+13:58
+abordo de su embarcación, por lo general hay más instrumentación que esta instalada, lo que
+14:02
+permite una mejor supervisión y diagnóstico de fallas del sistema para
+14:07
+monitorear el desempeño de un sistema de enfriamiento de manera efectiva no es realmente
+14:11
+suficiente para tener solo las temperaturas de entrada y salida y la presión del
+14:15
+sistema, también necesitará información detallada sobre el
+14:19
+eficiencia de los intercambiadores de calor con la instrumentación adecuada esto es fácilmente
+14:24
+lograda durante el funcionamiento, la eficacia de un intercambiador de calor
+14:29
+ser afectado adversamente por ensuciar la acumulación de incrustaciones o el bloqueo al medir
+14:34
+la diferencia de temperatura entre los lados del refrigerante primario y secundario de
+14:38
+el intercambiador de calor es posible identificar dónde se ha producido el ensuciamiento
+14:42
+imagina una acumulación de sarro en el interior de los tubos del enfriador en una chaqueta
+14:47
+sistema de agua de refrigeración, habrá muy pocas restricciones de flujo y presión
+14:52
+las gotas en el enfriador serán casi normales
+14:55
+Sin embargo, la escala actuará como un aislante bloqueando la transferencia de calor.
+14:59
+Se tomaría muy poco calor del refrigerante primario, el agua de la camisa y
+15:04
+transferencia de calor al refrigerante secundario, el agua de mar se reducirá si
+15:09
+Verifique las temperaturas de entrada y salida más frías de los dos fluidos que
+15:13
+encontrar que la temperatura de salida del agua de la camisa era más alta de lo normal con una reducción
+15:17
+diferencial a la entrada y la temperatura de salida del agua de mar fue inferior a
+15:22
+normal de nuevo con un diferencial reducido a la entrada esto daría un buen
+15:27
+Indicación de que el enfriador tenía una acumulación de sarro y requería un bloqueo de limpieza.
+15:31
+del sitio de agua de mar sin acumulación de incrustaciones reduciría el flujo de
+15:35
+agua de mar que provoca un aumento de la temperatura de salida del agua de mar y del agua de la camisa cuando
+15:41
+un intercambiador de calor está parcialmente bloqueado, entonces el flujo de fluido se reduce y esto
+15:45
+afectar las temperaturas del sistema, así como las presiones considerando una chaqueta
+15:49
+enfriador de agua con agua de mar como refrigerante, el lado del agua de mar es el más
+15:54
+probable que se bloquee debido a conchas y otros desechos marinos si una
+15:59
+se produce un bloqueo se puede indicar de dos formas las temperaturas de salida del fluido
+16:04
+ambos serán más altos de lo normal y la presión de salida del agua de mar
+16:07
+se reducirá también se puede ver que la presión de entrada de agua de mar es ligeramente
+16:13
+aumentado, aunque esto puede no ser notable en un sistema de agua de mar que sirve
+16:17
+otros refrigeradores y servicios en lugar de comparar las presiones de entrada y salida
+16:22
+Los sistemas a menudo están equipados con manómetros de tubo en U que miden la presión
+16:27
+Deje caer directamente sobre el enfriador, probablemente tendrá este arreglo a bordo
+16:32
+su embarcación para los enfriadores de aire cargados con motor diesel también es comúnmente
+16:36
+utilizado para caídas de presión a través de filtros en varios sistemas antes de que podamos seguir adelante
+16:41
+Para observar el control de temperatura de un sistema de enfriamiento, debemos considerar un
+16:45
+lazo de control básico los componentes básicos se muestran en el diagrama el transmisor
+16:51
+y el rojo de la corriente del posicionador no son necesarios para todas las válvulas de control de los sistemas
+16:57
+y los diferentes actuadores utilizados para alimentarlos se consideran en detalle en
+17:01
+En las siguientes páginas puede hacer clic en los botones para aprender un poco más sobre
+17:06
+función de cada uno de los otros elementos aunque no podemos entrar en gran detalle
+17:11
+al hablar de controladores en este módulo, al menos debería tener una
+17:14
+comprensión de lo que es un controlador y lo que no todos controlan
+17:19
+El circuito requiere un controlador, el control simple de encendido y apagado se puede lograr directamente
+17:24
+mediante el uso de un dispositivo de conmutación, como un termostato, como sensor para más
+17:29
+requisitos de control complejos, entonces se utiliza un controlador la señal del
+17:34
+sensor el valor medido se envía al controlador donde se compara con el
+17:38
+punto de ajuste el valor deseado el controlador calcula la diferencia
+17:43
+entre las dos señales y genera una señal de salida se utiliza la señal de salida
+17:48
+para alimentar el actuador conectado a la vlvula de control normalmente hay un
+17:52
+facilidad del controlador para cambiar de control automático a manual el
+17:57
+La señal de salida del controlador suele ser proporcional a la diferencia
+18:01
+entre los valores medidos y deseados, por lo que el controlador se denomina
+18:05
+control de acción proporcional muchos de los controladores se utilizan en sistemas a bordo
+18:11
+son más complejos y utilizan no solo acción proporcional sino también acción integral
+18:16
+acción derivada nuevamente, esto está fuera del alcance de esta válvula de módulo
+18:22
+Los posicionadores se utilizan ampliamente en aplicaciones de control marino que normalmente operan
+18:27
+con presiones de aire más altas y mayor flujo de aire en comparación con el controlador
+18:31
+Hay muchas razones para la posición de la válvula de aire que pueden
+18:35
+los comunes son cuando se requiere un posicionamiento preciso de la válvula para acelerar la
+18:40
+respuesta de la válvula para actuar como un amplificador para la señal de salida del controlador cuando
+18:45
+hay mucha fricción en la válvula y donde las presiones diferenciales variables
+18:49
+dentro del fluido haría que la posición del obturador de la válvula variara.
+18:54
+También se puede utilizar con un convertidor electroneumático adecuado para operar un
+18:58
+válvula de control accionada neumáticamente en respuesta a una señal directa de un
+19:03
+controlador o sensor eléctrico, los términos sensor y transductor a menudo pueden ser
+19:10
+utilizado para referirse al mismo dispositivo, un transductor es un dispositivo que mide una
+19:14
+característica física y la convierte en otra, un ejemplo de esto es una
+19:19
+termómetro de resistencia a medida que varía la temperatura, entonces hay un
+19:23
+correspondiente variación en la resistencia este cambio en la resistencia puede
+19:27
+ser utilizado para generar un cambio de voltaje que se puede transmitir a la
+19:30
+controlador en sistemas de control neumático, el término transmisor se utiliza a menudo para un
+19:36
+transductor el termómetro de resistencia también es un sensor ya que está detectando
+19:41
+temperatura de un fluido de proceso en nuestro caso temperatura del agua de enfriamiento para
+19:45
+sistemas de agua de refrigeración los principales sensores utilizados se muestran en la lista el último
+19:50
+Tres de estos dispositivos enumerados dependen de un cambio en la resistencia con la temperatura para
+19:55
+variar una salida de voltaje al controlador el dispositivo sensor más comúnmente utilizado
+20:00
+para sistemas de enfriamiento de motores diesel es el termómetro de resistencia en muchos
+20:05
+situaciones, la señal de salida del sensor es demasiado pequeña y debe ser
+20:10
+Este también puede ser el caso cuando el sensor está muy lejos del
+20:14
+controlador para superar esto se puede utilizar un transmisor que puede
+20:20
+convertir la señal y potenciarla antes de enviarla al controlador
+20:24
+Los transmisores pueden ser de tipo neumático o eléctrico o convertidor
+20:29
+que cambian una señal neumática a una señal eléctrica o eléctrica
+20:34
+señal a uno neumático los tipos más comunes de válvulas utilizadas para refrigeración
+20:39
+control de temperatura del sistema de agua de una válvula de elemento wex de 3 vías matiz
+20:44
+válvula de tres vías controlada y ocasionalmente controlada eléctricamente
+20:48
+válvula de tres vías la balanza puede tener tapones y puertos de válvula rotativa o puede tener
+20:54
+tapones de válvula contorneados y asientos dobles que pueden mejorar el control en una amplia
+20:59
+rango de condiciones de funcionamiento, la elección de la válvula depende realmente de la
+21:03
+sistema de control general instalado para una planta de maquinaria en particular o
+21:08
+Las válvulas, en particular las válvulas de desvío de elementos de cera, se suministran
+21:12
+algunos tipos de motores, puede aprender un poco más sobre cada uno de estos tipos de válvulas al
+21:17
+hacer clic en los botones de acción debajo de las válvulas de elementos de cera es uno de los más simples
+21:22
+formas de válvula de control de temperatura y se puede utilizar como válvulas mezcladoras o
+21:26
+válvulas de desvío, a menudo son unidades autónomas con la cera
+21:31
+elemento que actúa como sensor y actuador para la válvula
+21:34
+normalmente se instalan en el sistema de refrigerante primario para
+21:39
+detección y control de temperatura Las válvulas suelen ser válvulas de tres vías
+21:44
+tener dos entradas y una sola salida cuando se usa como mezcla
+21:48
+válvulas o una entrada y dos salidas cuando se utilizan como válvulas de desvío en agua de refrigeración
+21:55
+sistemas las vlvulas se utilizan normalmente como vlvulas desviadoras para dar bypass de la
+21:59
+intercambiador de calor a medida que la temperatura del agua aumenta la cera que normalmente
+22:05
+contenido en una unidad de fuelle se expande y acciona una varilla de empuje que mueve la válvula
+22:09
+enchufe para cerrar gradualmente el puerto de derivación y abrir el flujo a través del puerto este
+22:15
+La disposición asegura que la derivación de flujo total y el flujo de paso combinados sean
+22:20
+mantenida para cualquier posición de la válvula temperatura accionada neumáticamente
+22:25
+Las válvulas de control son a menudo válvulas de tres vías operadas por una señal de aire de control.
+22:29
+actuando sobre un diafragma conectado al eje de la válvula este tipo es popular
+22:35
+Debido a su probada confiabilidad y simplicidad, el arreglo puede incluir un
+22:40
+posicionador de válvula para dar una mejor respuesta se requiere un mayor esfuerzo para mover el
+22:44
+válvula la válvula puede montarse en el sistema de refrigeración primario y disponerse con
+22:49
+dos conexiones de entrada, una conectada a la línea de bypass para el intercambiador de calor
+22:53
+y el otro a la salida del intercambiador de calor y una única salida
+22:57
+conectar la entrada al motor con un sensor de temperatura instalado en el
+23:02
+línea de salida del motor la temperatura de salida se puede controlar la válvula
+23:07
+por lo general, el asiento trasero debido a la fuerza del resorte cuando la presin de la seal est en un
+23:11
+mínimo, esta será normalmente la posición de flujo continuo que es
+23:15
+considerada la posición a prueba de fallas cuando la válvula se usa para controlar la temperatura
+23:20
+al variar el flujo de derivación del intercambiador de calor, es casi seguro que
+23:24
+válvulas de este tipo instaladas en algunos de los sistemas de su embarcación actual, consulte
+23:29
+si están dispuestos de la manera descrita anteriormente la próxima vez que esté en
+23:32
+la sala de máquinas se puede instalar una válvula de control de temperatura
+23:36
+dispuesto exactamente de la misma manera que un tipo neumático, pero el actuador será
+23:41
+un dispositivo eléctrico como un motor lineal o un solenoide debido a la relativa
+23:45
+alto costo en comparación con los tipos neumáticos las válvulas de control eléctrico no son
+23:50
+comúnmente utilizado en sistemas de agua de refrigeración, ya que acabamos de ver un control básico
+23:55
+El circuito consta de un sensor, un controlador y un dispositivo de control que
+24:00
+normalmente una válvula completa con actuador, el sistema también puede incluir un posicionador
+24:05
+y un transmisor normalmente el parámetro controlado para un motor diesel
+24:09
+sistema de enfriamiento es la temperatura de salida del motor el valor deseado para el
+24:14
+La temperatura se utiliza como punto de ajuste para el controlador y el valor medido por
+24:18
+el sensor se compara con esto cualquier diferencia entre estos dos valores
+24:22
+genera una señal de corrección que se aplica al actuador de valor para alterar
+24:27
+la válvula que establece esta alteración en la posición causará un aumento
+24:32
+o disminución en la cantidad de flujo que pasa por alto el intercambiador de calor en la mayoría
+24:37
+sistemas, la válvula de control de temperatura está dispuesta de modo que parte del primario
+24:41
+refrigerante pasa por alto el intercambiador de calor si la temperatura medida es inferior a
+24:45
+la temperatura deseada algunos de los sistemas de enfriamiento del motor diesel tendrán
+24:49
+circuitos de control más complejos para ayudar a mejorar el control y la respuesta en un
+24:54
+drenaje ancho y bajo, estos incluirán rangos de división y
+24:58
+control en cascada puede aprender los principios básicos de estas dos formas de control
+25:03
+haciendo clic en los botones de acción donde un sistema requiere control de calefacción como
+25:09
+así como enfriar, en lugar de tener dos circuitos de control separados, un solo
+25:13
+El circuito combinado se puede configurar para controlar dos válvulas, esto se hace
+25:18
+dividir el rango de la señal de salida del controlador en dos secciones el ejemplo
+25:22
+dado es para un circuito de control de rango dividido simple para controlar el
+25:26
+La temperatura del control en cascada del sistema de agua de refrigeración de la válvula de combustible es una forma
+25:31
+de control que utiliza dos controladores un maestro y un esclavo con la salida de
+25:36
+el controlador maestro se está utilizando en el punto de ajuste del controlador esclavo
+25:40
+cada controlador medirá una variable de proceso diferente, por ejemplo, chaqueta
+25:46
+temperatura del agua y caudal de agua de mar con esta disposición más rápida
+25:50
+La respuesta se puede lograr en un amplio rango de carga para aplicaciones donde
+25:55
+Se requiere calefacción y refrigeración, el sistema en cascada se puede adaptar para que
+25:59
+el controlador esclavo funciona como un controlador de rango dividido para proporcionar
+26:04
+protección del motor diésel contra daños debidos al funcionamiento fuera del
+26:08
+límites recomendados normalmente se supervisan una serie de parámetros
+26:11
+continuamente muchos de estos están asociados con el agua refrigerante del motor
+26:15
+sistemas para aquellos parámetros que se consideran esenciales para operaciones seguras
+26:20
+Los dispositivos de seguridad que desaceleran o apagan automáticamente se proporcionan en
+26:25
+Además de las alarmas sonoras y visuales, los puntos de ajuste suelen estar dispuestos para
+26:30
+dar una alarma primero y luego una desaceleración o apagado si la condición
+26:35
+se deteriora haga clic en los botones de acción para obtener más información sobre las alarmas comunes
+26:39
+y dispositivos de seguridad asociados a los diferentes grupos de parámetros los principales
+26:44
+alarmas de temperatura asociadas con los diversos sistemas de refrigeración para un diesel
+26:48
+motor son como se muestra en la lista, típicamente los puntos de alarma se establecen 5 a
+26:54
+10 grados Celsius por encima o por debajo de la temperatura normal no todos los diésel
+26:59
+La instalación del motor tendrá todas estas alarmas y debe verificar
+27:02
+motor de su embarcación para ver las alarmas reales instaladas donde el funcionamiento del
+27:07
+motor de temperaturas superiores al blanco provocaría daños graves en el motor
+27:11
+entonces habrá más protección en forma de desaceleración o apagado corto
+27:16
+las temperaturas continúan aumentando, por lo general, esto sería para el agua de enfriamiento de la camisa
+27:21
+pistón de alta temperatura agua de refrigeración alta temperatura
+27:24
+y salida de agua de refrigeración del turbocompresor a alta temperatura, aunque puede ser
+27:30
+considerada de importancia secundaria a la temperatura cuando se trata de refrigeración
+27:34
+sistemas de agua la presión del sistema sigue siendo un parámetro importante y
+27:38
+requiere monitoreo durante la operación solo habrá alumnos de baja presión
+27:42
+instalado para todos los sistemas de agua de refrigeración del motor diesel en la entrada
+27:47
+la baja presión del motor puede ser una indicación de baja
+27:50
+nivel del tanque colector pérdida de refrigerante falla de la bomba de circulación bloqueo del sistema
+27:55
+o tuberías defectuosas, cualquiera de las cuales podría provocar daños graves en el motor, obviamente
+28:00
+La refrigeración eficaz del motor diesel se basa en un flujo constante de refrigerante.
+28:04
+a la velocidad requerida para eliminar el exceso de calor, cualquier reducción o falla del flujo
+28:09
+resultará en un sobrecalentamiento local y falla de los componentes del motor diesel
+28:14
+Los motores con pistones refrigerados por agua normalmente tienen un indicador de flujo y una alarma
+28:18
+en el retorno de cada cilindro también es común a sus alarmas de flujo y lento
+28:23
+función de bajada dispuesta para la salida de agua de la camisa de cada unidad uno de los
+28:28
+El método más simple de detectar el flujo con fines de alarma es medir la
+28:32
+presión diferencial a través de una placa de orificio instalada en una sección de tubería en el
+28:36
+sistema una reducción en la presión diferencial es una indicación de reducción
+28:41
+caudal, normalmente se producirá una reducción severa del caudal en el sistema de refrigeración
+28:46
+en una desaceleración automática del motor la alarma de nivel principal para el motor diesel
+28:51
+Los sistemas de agua de refrigeración son una alarma de nivel bajo en el tanque del cabezal de agua de la camisa.
+28:55
+esto brinda protección en caso de fuga del sistema, ya sea interna
+29:00
+o externa al motor también puede haber una alarma de nivel alto instalada en el tanque
+29:05
+Para proteger contra el sobrellenado, la alarma de nivel alto también puede brindar protección si
+29:10
+debido a una camisa o tapa del cilindro agrietada, el gas de combustión ingresa al sistema y
+29:15
+provoca la formación de espuma en el agua en el tanque colector también puede haber altos y
+29:20
+alarmas de nivel bajo instaladas en el depósito para cualquier otro sistema de agua de refrigeración para
+29:24
+brindan protección debido a fugas cruzadas del refrigerante secundario o pérdida
+29:29
+de agua debido a una fuga al probar cualquiera de las alarmas o funciones del dispositivo de seguridad
+29:34
+Siempre se debe tener cuidado para garantizar que no haya peligro de lesiones
+29:38
+daños en el personal o la maquinaria, siempre se debe realizar una evaluación de riesgos adecuada.
+29:43
+obtener permiso para trabajar e informar al personal pertinente antes de cualquier
+29:48
+Las pruebas se llevan a cabo, los métodos utilizados deben proporcionar una simulación realista de
+29:52
+el evento real para que la función se pruebe correctamente en lugar de solo
+29:56
+comprobar la acción del interruptor los siguientes métodos preferidos para probar alarmas
+30:00
+las ralentizaciones y paradas deben utilizarse teniendo en cuenta cualquier
+30:05
+instrucciones del fabricante temperatura colocar el sensor de temperatura
+30:10
+en un tanque de prueba provisto de un elemento calefactor y termómetro el sensor
+30:15
+debe dejarse conectado a su circuito para que, como alarma o dispositivo de seguridad
+30:19
+se alcanza el punto de ajuste una alarma real se desacelera o se apaga la presión
+30:25
+apague la línea de presión al sensor nuevamente con el circuito intacto y purgue
+30:30
+la presión hasta que se alcanza el punto de ajuste y la alarma se desacelera o se apaga
+30:34
+se produce una disminución del flujo, la señal debe apagarse gradualmente hasta que la alarma disminuya
+30:41
+Apagado o apagado ocurre el método real dependiendo del tipo de sensor
+30:45
+nivel normalmente esto será una alarma de flotador con un flotador separado
+30:50
+cámara o con el flotador colocado directamente en el tanque la prueba preferida
+30:55
+El método es aislar y drenar la cámara del flotador o empujar el flotador hasta que
+31:00
+la alarma se ralentiza o se apaga en este capítulo hemos examinado el
+31:05
+varios componentes que componen los sistemas de agua de enfriamiento del motor diesel que
+31:09
+se puede encontrar a bordo, ahora debe conocer los diferentes sistemas que están
+31:13
+necesario y también los tipos comunes de componentes dentro de los sistemas y
+31:17
+función de cada uno de ellos también hemos considerado las distintas temperaturas
+31:21
+los métodos de control y los dispositivos de alarma y seguridad que pueden instalarse en el
+31:25
+sistemas, ahora debe conocer los tipos utilizados, así como los métodos para
+31:30
+Comprobación de las alarmas de ralentizaciones y paradas asociadas al diesel marino.
+31:34
+sistemas de enfriamiento del motor con este conocimiento usted
+31:37
+ahora debería estar en condiciones de comprender mejor los sistemas y arreglos
+31:41
+en los barcos en los que navega, debe utilizar el conocimiento junto con el
+31:45
+manuales de operación de la maquinaria a bordo de su embarcación actual para asegurarse
+31:49
+que comprende la planta y puede operarla de manera segura en el siguiente capítulo
+31:53
+analizará los sistemas de refrigeración central, que son una forma común de reducir la
+31:57
+tamaño y complejidad del sistema de agua de mar y minimizar la cantidad de agua de mar
+32:01
+las tuberías de agua a bordo son el principal beneficio de este tipo de sistema, ya que
+32:06
+Debe apreciarse la reducción de los requisitos de mantenimiento de los sistemas de refrigeración.

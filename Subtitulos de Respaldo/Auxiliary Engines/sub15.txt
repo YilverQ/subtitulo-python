@@ -1,0 +1,30 @@
+00:20
+Starting air system note the starting a shutoff valve must be opened to lead air
+00:28
+from the bottles to the main starting air valve before the engine is started
+00:49
+to provide sufficient information about the operational parameters and to assure
+00:54
+that the operating staff will notice significant changes in the system it is
+01:00
+important that the values from the instruments have checked and recorded
+01:05
+every day click the component for further
+01:09
+information starting air compressors should have a sufficient capacity to
+01:15
+keep the pressure in the starting air bottles sufficiently high to start the
+01:21
+engine fill the bottles from atmospheric pressure to maximum pression 60 minutes
+01:27
+start air distributor a start air distributor supplies starting air to the
+01:35
+cylinders in correct order it is driven by the camshaft the relief valve
+01:43
+protects against overpressure in a system if the metal membrane in the
+01:47
+relief valve is broken the failure in the starting air system has to be
+01:52
+detected before start it is very important to place the disc correctly
+01:59
+refill the lubricating chamber with grease twice a month

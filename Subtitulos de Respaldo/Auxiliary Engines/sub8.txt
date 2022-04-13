@@ -1,0 +1,28 @@
+00:20
+Control and safety system the engine transmitters send signals for the alarm
+00:26
+and monitoring system via the junction box on these signals may be observed
+00:33
+while the engine is running thereby making it easier to monitor the
+00:38
+operation of the engine in addition to these transmitters the engine is
+00:43
+equipped with numerous manometers and thermometers which should be logged at a
+00:48
+daily basis and compared to the values observed on the alarm and monitoring
+00:53
+system if the signals monitored by the alarm and monitoring system that outside
+00:59
+the preset intervals the system would trigger an alarm transmitters and
+01:05
+switches on the engine send signals of a safety system which will result in an
+01:11
+engine shutdown if the values are outside the preset interval to overspeed
+01:17
+trips are fitted to the engine one mechanical and one electropneumatic the
+01:24
+mechanic overspeed trip is triggered by a spring-loaded weight on the camshaft
+01:29
+while the electric pneumatic is triggered by an electrical signal
+01:34
+transmitted by the tackle relay

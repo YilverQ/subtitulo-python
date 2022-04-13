@@ -1,0 +1,14 @@
+00:00
+You will now be guided through the stopping procedure of an alfa laval
+00:04
+freshwater generator
+00:29
+stop the hot water supply to the evaporator section
+00:34
+stop the fresh water pump turn the secondary alarm off
+00:41
+stop the ejector pump set to the main switch to position zero
+00:51
+open the air valve close the valves on the suction and discharge side of the
+00:59
+ejector pump close the overboard valve for combined air Brian ejector

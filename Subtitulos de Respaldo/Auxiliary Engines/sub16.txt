@@ -1,0 +1,152 @@
+00:19
+The charge air and exhaust system during operation or just after the engine has
+00:26
+been stopped most of the engine will be hot touching the engine parts may cause
+00:32
+burns in this system be especially aware of the following parts the turbocharger
+00:39
+and connecting piping will get extremely hot the charge air receiver may reach 70
+00:45
+degrees Celsius the exhaust system will get extremely hot even though the
+00:51
+exhaust manifold is well insulated flanges especially close to the
+00:57
+turbocharger may cause severe burns
+01:02
+charge airs drawn through the compressor side of the turbocharger and continues
+01:07
+to the charge air cooler fitted beneath the turbocharger after the charge air
+01:13
+cooler the flow goes through the charged air manifold from the manifold the air
+01:20
+is distributed to each cylinder after combustion the exhaust valves open to
+01:27
+the exhaust manifold the manifold leads the exhaust flow back to the
+01:33
+turbocharger what it drives the turbine rotor thereafter it is carried through
+01:39
+possible heat exchangers and silencers to the atmosphere look for any leakages
+01:46
+tighten and change seals if necessary when operating on heavy fuel oil the
+01:53
+exhaust temperature will increase somewhat due to the slower combustion of
+01:58
+that type of fuel an increase of approximately 10 to 20 degrees Celsius
+02:03
+over diesel oil operation is normal it is important that the values from these
+02:09
+instruments are checked and recorded every day according to the log sheet to
+02:15
+assure that the operating staff will notice significant changes click the
+02:20
+components for further information the exhaust gas from the engine drives the
+02:27
+turbine which drives the compressor the compressor unit sucks in and
+02:32
+compresses the air required for the engine click the text the compressor
+02:39
+side of the turbocharger should be washed daily this should be carried out
+02:44
+at no less than 75% engine load remove the screw on the top of the tank fill
+02:52
+0.4 liters water into the water tank
+03:09
+tighten the screw actuate the valve towards the spring and hold it for about
+03:14
+10 seconds until all water's been injected engines running on heavy fuel
+03:21
+oil should have the turbochargers turbine washed once a week
+04:06
+run the engine a marine diesel oil during the water washing open the drain
+04:12
+cock and ensure that hot exhaust is coming out of the drain Pike if not
+04:17
+clear the blockage
+04:30
+adjust charge air pressure to 0.3 bar by reducing engine load run for five
+04:38
+minutes before washing
+04:52
+connect cold water supply from the ships freshwater system to the water pressure
+04:57
+regulator connection open the water injection valves before carefully
+05:05
+opening the water to the hose
+05:24
+check water pressure if necessary adjust 1 plus minus 0.2 bar
+05:38
+cleaning should go on for 10 minutes only water vapor and some drops of water
+05:43
+will come out of the drain cock
+06:02
+shut up water to the holes and close the water injection valves disconnect the
+06:08
+hose
+06:20
+run the engine at same load for five minutes to dry up the turbine then shut
+06:27
+the drain cock
+06:39
+increase engine load to normal for evaporating of condensed water the
+06:45
+compressor side of the turbocharger check oil level once a day the oil level
+06:54
+should be inside the red circle while it stands still
+07:06
+if check oil level once a day the oil level
+07:13
+should be inside the red circle while it stands still if the color of the lube
+07:19
+oil has turned significantly darker than it was the day before there is a
+07:25
+possibility for seriously damaging the turbocharger increased foaming in the
+07:31
+oil gauge glass is an indication that the oil should be changed remember both
+07:38
+bearings have their own oil reservoir the turbocharger must not run when oil
+07:44
+is being changed open the drain plug and the filling plug on the bearing housing
+07:50
+cover and drain the used oil fast in the drain plug fill the lubricating oil up
+08:02
+to the upper mark on the sight glass
+08:10
+place the gasket on the filling plug and fasten it thoroughly remember both
+08:17
+bearings have their own oil reservoir
+08:22
+generally we recommend a synthetic lubricating oil which should be changed
+08:27
+at least once per 5000 operational hour when refilling oil follow the same
+08:34
+procedure as when changing oil except from opening drain plug remember both
+08:42
+bearings have their own oil reservoir the main purpose of the charge air
+08:47
+cooler is to reduce the temperature of the charged air engines running on heavy
+08:54
+fuel oil are always fitted with two-stage coolers Stage one is connected
+09:02
+into the engines jacket water circuit while Stage two is cooled by seawater or
+09:09
+low temperature freshwater the heat from the jacket water is used to heat the
+09:16
+charged air at low engine load to stage air coolers are fitted with drain
+09:25
+channels to ensure detection of leakages if water leakage water will come out of
+09:32
+the telltale hole air leakage can be detected by whistling sound in case of
+09:41
+water or air leakage the end cover gasket has to be replaced if a sea water
+09:49
+cooling system is used the end covers should be disassembled at regular
+09:54
+intervals for inspection and cleaning when out of service for longer periods
+10:01
+drain and leave drain and venting cocks open if using sea water cooling flush
+10:09
+with fresh water
+10:23
+the insulation screen must always be in place when the engine is running because
+10:29
+the exhaust manifold is hot and contact may cause fire or burning accidents

@@ -1,0 +1,128 @@
+00:00
+Marine Online
+00:16
+Completion this chapter the student
+00:23
+should appreciate the need for the
+00:24
+different instruments and switch gears
+00:27
+normally found on main switch boards and
+00:30
+have the necessary theoretical knowledge
+00:32
+to operate the main switchboard the main
+00:38
+switchboard is probably the most obvious
+00:40
+element the electrical power plant the
+00:45
+main switchboard is the main control
+00:47
+center for the electrical power plant in
+00:53
+addition to the monitoring control and
+00:55
+protection equipment for the generator
+00:57
+sets the NSB D supplies power to motor
+01:03
+group starter boards section boards and
+01:06
+distribution boards let's have a closer
+01:11
+look at the instrumentation and control
+01:14
+equipment on a typical switchboard click
+01:19
+on the switchboard section for a better
+01:21
+look
+01:41
+point and click on the DG sections and
+02:11
+the synchronizing sections to have a
+02:13
+look inside for details about the
+02:19
+generator breaker the protection devices
+02:21
+point and click on the breaker symbol
+02:24
+move the cursor over the object for
+02:29
+descriptions for details about the
+02:38
+generator break point and click DG one
+02:42
+is running and connected to the main bus
+02:44
+spa start DG to select the generator to
+02:50
+be synchronized by means of selector
+02:52
+switch the frequency and voltage should
+03:00
+be adjusted if necessary
+03:13
+press the in button and a synchro scope
+03:19
+within the five to twelve position while
+03:23
+the adjusting of frequency of voltage is
+03:26
+not very demanding on personnel the
+03:29
+parallel connection of two generators
+03:31
+requires trained personnel to help
+03:35
+personnel do to perform a parallel
+03:37
+connection a semi-auto synchronizing
+03:40
+device is often included this is a
+03:44
+parallel connection relay also called
+03:48
+check synchronizer which gives a connect
+03:51
+signal to the main breaker when voltage
+03:54
+frequency and phase for the incoming
+03:58
+generator are within preset limits dg1
+04:05
+is running and connected to the main bus
+04:07
+bar start DG to select the generator to
+04:14
+be synchronized by means of the selector
+04:16
+switch press the corresponding button
+04:20
+for semi-auto synchronization if
+04:24
+necessary adjust the frequency and
+04:26
+voltage until the ready lamp is lit the
+04:30
+ready lamp indicates whether or not the
+04:33
+voltage and frequency are within
+04:35
+acceptable limits for connection
+04:49
+In button if the circuit breaker does
+04:54
+not connect you may have to tweak the
+04:56
+frequency refer to the synchro scope to
+05:01
+determine what adjustments are necessary
+05:03
+for more details see the chapter on
+05:07
+synchronizing generators in the
+05:11
+following pages

@@ -1,0 +1,92 @@
+00:00
+As a result of studying this section you will learn rules in general requirements
+00:06
+concerning the steering gear so last 2004 chapter 5 regulation 25
+00:34
+this is the administrative hierarchy that has been established by the United
+00:38
+Nations in order to develop an international standard of rules covering
+00:43
+maritime matters United Nations United Nations headquarters in New York I M Oh
+00:51
+International Maritime Organization this committee consists of representatives
+00:56
+from all the member countries i M O made the soleus rules solace safety of lives
+01:05
+at sea a comprehensive set of rules made by IMO to ensure safety at sea class
+01:13
+rules these are rules set by the class companies such as DMV they're not go
+01:21
+Veritas l RS Lloyd's Register of shipping abs American Bureau of shipping
+01:30
+GL gimana sure Lloyd and others for regular ships the rudder must be able to
+01:37
+turn a minimum of 35 degrees to each side to meet the rules concerning rudder
+01:44
+angle velocity the rudder must be able to turn from 35 degrees to 30 degrees on
+01:49
+the other side in maximum 28 seconds this is called the minimum angle
+01:55
+velocity the steering gear must be big enough to turn the rudder to 35 degrees
+02:01
+port and starboard at full speed this torque is achieved at a certain oils
+02:07
+on the veins of the rotor the safety valve is set at a corresponding oil
+02:12
+pressure minimum 25% above this when the safety valves open the oil is allowed to
+02:19
+bypass the vanes in addition the steering gear is to be pressure tested
+02:23
+with a much higher pressure this is done by the manufacturer before delivery the
+02:29
+hydraulic system should be designed so that single failure doesn't put the
+02:34
+steering gear out of function the procedure diagram for emergency
+02:39
+steering should be easily seen in the wheelhouse
+02:42
+and steering gear compartment the emergency steering is done by the use of
+02:47
+the non follow-up push buttons on the starter cabinet or directly on the
+02:52
+directional valves on the steering gear the system shall be looked after by
+02:57
+monitoring important functions specified in the rules such as oil levels and
+03:02
+power supply the monitoring is done by placing sensors in these important areas
+03:08
+these sensors by the one by one or in combination activate different alarms
+03:14
+the operator of the steering gear must have the necessary competence the
+03:19
+steering gears vital functions are to be regularly checked by the crew and the
+03:24
+crew are to be drilled in emergency procedures
+03:29
+chapter 5 regulation 25 operation of steering gear in areas where navigation
+03:36
+de bombs special caution ships shall have more than one steering gear power
+03:41
+unit in operation when such units are capable of simultaneous operation
+03:45
+chapter 5 regulation 26 steering gear testing and drills one within 12 hours
+03:54
+before departure the ship's steering gear shall be checked and tested by the
+03:59
+ship's crew the test procedure shall include where applicable the operation
+04:05
+of the following point 1 the main steering gear point to the auxilary
+04:12
+steering gear point 3 the remote steering gear control systems point for
+04:19
+the steering positions located on the navigation bridge point 5 the emergency
+04:26
+power supply point 6 the rudder angle indicators in relation to the actual
+04:32
+position of the rudder point 7 the remote steering gear control system
+04:38
+power failure alarms point 8 the steering gear power unit failure alarms
+04:45
+and point 9 automatic isolating arrangements and other automatic
+04:51
+equipment

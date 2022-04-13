@@ -1,0 +1,670 @@
+00:00
+Marine Online
+00:16
+familiarize you with how alternate
+00:23
+current appear the one phase generator
+00:27
+the three phase generator armature
+00:30
+reaction it has been said if a winding
+00:37
+is repeated inhomogeneous magnetic field
+00:40
+voltage will be induced Faraday's law
+00:43
+states that the induced voltage equals
+00:47
+change of flux divided by the time
+00:50
+factor which means that the rate of flux
+00:53
+change determines the strength of
+00:56
+voltage
+00:59
+what if Lex flux can be described as a
+01:09
+magnetic field which crosses the winding
+01:12
+as we can see if this position the
+01:16
+maximum magnetic field crosses the
+01:18
+winding which means maximum flex let us
+01:31
+rotate the winding and see what happens
+01:55
+according to the holidays law the
+01:58
+induced voltage will be at a minimum
+02:00
+when the Flex crossing the winding is at
+02:03
+maximum because the way to flex change
+02:07
+if a communion as we can see the induced
+02:15
+voltage is at its highest when the flux
+02:17
+that it lowest which in turn illustrates
+02:21
+that when the flux is at its lowest the
+02:23
+induced voltage gotta tyas the flux line
+02:27
+follow the finest curve form
+02:40
+what we've seen so far is a simple
+02:43
+generator in which the windings have
+02:47
+been turned and the induced voltage must
+02:49
+be extracted via the slip rings and
+02:52
+brushes generators have their windings
+02:56
+mounted the armature and the magnetic
+02:59
+field does the rotating
+03:20
+as you can see because the relative
+03:22
+movement between the winding the
+03:24
+magnetic field that produces the voltage
+03:27
+as long as the magnetic field crosses
+03:31
+the windings voltage will be induced in
+03:34
+the windings note a stronger magnetic
+03:39
+field that is more field lines which
+03:43
+give a higher rate of flux change
+03:45
+results in higher voltage which
+03:53
+what we have now is very simplified one
+03:58
+phase generator with two poles in order
+04:03
+to achieve a frequency of 60 Hertz we
+04:06
+must rotate the magnet the speed of 3600
+04:09
+RPM the rotational speed can be found by
+04:14
+using the formula below the frequency
+04:17
+equals the number of pole pairs on the
+04:20
+rotor times the number of rotations per
+04:25
+minute RPM / 60 so in order to have a
+04:31
+speed of 60 Hertz with a two-pole
+04:34
+generator the equation will look like
+04:37
+this
+04:49
+in this module we will use the diesel
+04:52
+engine with 1200 RPM 60 hertz at the
+04:57
+primary mover for the alternator
+05:21
+ok
+05:29
+practically all generators are designed
+05:34
+as three phase generators 23 winding
+05:39
+sets mounted with a hunting 20 degrees
+05:42
+phase shift around the stata this will
+05:46
+give the three phases with the induced
+05:48
+voltage a shift of hunting 20 degrees in
+05:52
+relation to each other we want to
+05:58
+utilize the armature in order to create
+06:01
+a three-phase system so we provide the
+06:05
+generator with two extra sets of
+06:07
+windings and a 4-pole magnet on the
+06:10
+rotor
+06:18
+the windings not be mounted in such a
+06:24
+way that each winding have its wine Dane
+06:27
+side over both the North and the South
+06:30
+Poles at the same time we will now add
+06:34
+the other two phases by adding two more
+06:36
+winding the armature if we study this
+06:42
+generator doing one revolution we will
+06:46
+see that the generator will produce to
+06:48
+set the sinus curves instead of one
+06:51
+that's the two poles one winding
+06:54
+generator
+06:55
+this means that the prime mover for
+07:00
+example of these legend can run at half
+07:03
+speed and still produce a constant 60
+07:07
+Hertz in this section we'll take a
+07:13
+closer look at how different types of
+07:15
+loads affect the generator we will use
+07:19
+the 4-pole generator as an example
+07:27
+no load is connected to the generator no
+07:31
+current will be present in the generator
+07:33
+armature this means that there are no
+07:37
+magnetic fields around the windings
+07:40
+which also means the voltage generated
+07:44
+terminals he calls the induced voltage
+07:47
+in the armature point-and-click the
+07:51
+terminal for details with the rotor
+07:55
+positions shown the voltage at the red
+07:58
+terminal has passed maximum negative
+08:01
+voltage and of approaching 0
+08:10
+with the rotor positions shown the bold
+08:18
+Peter Green terminal had passed 0 and if
+08:22
+approaching maximum negative voltage
+08:24
+when the rotor is in the position shown
+08:30
+the voltage of the blue terminan would
+08:34
+be at its maximum as you'll see in the
+08:38
+following illustrations that is
+08:41
+currently the armature windings this was
+08:45
+set at the magnetic field around the
+08:47
+windings with the direction indicated by
+08:50
+the arrows refer to the right-hand rule
+08:54
+as we know a current through an ohmic
+09:02
+load we have the same phase of the
+09:05
+induced voltage this means that when the
+09:10
+induced old page is at its maximum the
+09:13
+current will be at its maximum point and
+09:16
+click the terminal for details
+09:19
+point and click on all of you how the
+09:22
+some more than magnetic fields influence
+09:26
+the main field purchase
+09:35
+show the voltage of the red terminal has
+09:38
+passed maximum negative voltage and is
+09:41
+approaching zero since the generators
+09:45
+connected to an ohmic load current will
+09:48
+flow through the windings which is
+09:50
+in-phase the voltage at the rotor
+09:57
+position shown the voltage clean
+10:00
+terminal has passed 0 and it's
+10:03
+approaching maximum negative voltage
+10:05
+since the generator is connected to an
+10:09
+atomic load a current will flow through
+10:11
+the windings which is in phase with the
+10:14
+bold pitch after the rotor position
+10:21
+shown voltage to the blue terminal is at
+10:25
+its maximum since the generators
+10:29
+connected to an all make load they will
+10:32
+flow a current through the winding which
+10:34
+is in phase with the voltage according
+10:37
+to the right-hand rule magnetic fields
+10:40
+will appear around the windings shown
+10:43
+let's take a closer look at how these
+10:50
+small magnetic fields around the
+10:53
+windings affect the main field as we can
+10:57
+see we have a magnetic field in the
+10:59
+armature which crosses the main field
+11:07
+at the inductive load connected to the
+11:11
+terminals the current through the
+11:14
+armature windings is 90 degrees phase
+11:16
+shifted after the induced voltage why
+11:24
+let's take a look at Lenz law men's laws
+11:30
+state that a change of current in a
+11:33
+conductor or winding would induce a
+11:36
+voltage which would resist the change of
+11:39
+current that caused it to be able to
+11:42
+drive the current through the coil the
+11:44
+generator have to deliver a voltage
+11:47
+equal to the induced voltage in the
+11:49
+winding that in opposite direction and
+11:53
+alternate current in the winding would
+11:55
+make a flux and phase of the current the
+11:59
+flux change would induce a voltage 90
+12:03
+degrees after the current refer to how
+12:08
+does alternate full kitchen Pierre
+12:11
+section
+12:19
+Joseph since no load is connected to the
+12:22
+generator no current will be present in
+12:25
+the generator armature this means that
+12:30
+there are no magnetic fields around the
+12:32
+windings which also means the voltage
+12:36
+generated terminals equals the induced
+12:40
+voltage in the armature point-and-click
+12:43
+the terminal City kames with the rotor
+12:48
+position as shown the voltage at the red
+12:51
+terminal had passed maximum negative
+12:54
+voltage and of approaching zero with the
+13:01
+rotor positions shown the both the green
+13:04
+terminal has passed 0 and is approaching
+13:08
+maximum negative voltage when the rotor
+13:14
+is in the position shown the Voltaire to
+13:17
+the blue terminan would be at its
+13:20
+maximum as we will see in the following
+13:26
+illustrations that is current in the
+13:29
+armature windings this was set at the
+13:33
+magnetic field around the windings with
+13:36
+the direction indicated by the arrows
+13:38
+refer to the right-hand rule as we know
+13:48
+current through an ohmic load we have
+13:51
+the same phase of the induced voltage
+13:53
+this means that when the induced voltage
+13:58
+is at its maximum the current will be at
+14:02
+its maximum point and click the terminal
+14:05
+for details
+14:06
+point and click on all of you how the
+14:10
+sum of all the magnetic fields influence
+14:13
+the main field after the rotor position
+14:22
+shown the voltage of the red terminal
+14:25
+has passed maximum negative voltage and
+14:29
+is approaching zero since the generators
+14:32
+connected to an atomic load current will
+14:35
+flow through the windings which is in
+14:38
+phase with the voltage at the road
+14:44
+show the voltage green terminal has
+14:48
+passed 0 and it's approaching maximum
+14:51
+negative voltage since the generators
+14:55
+connected to an ohmic load a current
+14:57
+will flow through the windings which is
+15:00
+in phase with the voltage after the
+15:07
+rotor position shown volunteer to the
+15:10
+blue terminal is at its maximum since
+15:15
+the generators connected to an all make
+15:18
+load it will flow a current through the
+15:20
+winding which is in phase with the
+15:23
+voltage according to the right-hand rule
+15:26
+magnetic field would appear around the
+15:29
+windings shown let's take a closer look
+15:35
+at how these small magnetic fields
+15:38
+around the windings affect the main
+15:41
+field as we can see we have a magnetic
+15:44
+field in the armature which crosses the
+15:47
+main field at the inductive load
+15:55
+connected to the terminals the coven
+15:58
+through the armature windings is 90
+16:01
+degrees phase shifted after the induced
+16:04
+voltage why
+16:10
+let's take a look at
+16:15
+floor men's law states that a change of
+16:19
+current in a conductor or winding will
+16:22
+in view cir voltage which will resist
+16:25
+the change of current that caused it to
+16:28
+be able to drive the current through the
+16:29
+coil the generator have to deliver a
+16:32
+voltage equal to the induced voltage in
+16:35
+the winding at an opposite direction and
+16:39
+alternate current in the winding would
+16:41
+make a flux and phase of the current the
+16:45
+flux change would induce a voltage 90
+16:49
+degrees after the current refer to how
+16:54
+does alternate voltage appear as we will
+17:00
+see in the following illustrations that
+17:02
+is current and the armature windings
+17:05
+this was set at a magnetic field around
+17:08
+the windings in the direction indicated
+17:11
+by the arrows refer to the right time
+17:15
+drool point-and-click the terminal for
+17:18
+details
+17:19
+point and click on all of you how the
+17:24
+sum of all the magnetic fields influence
+17:27
+the main field that's the real
+17:33
+shown the voltage of the red terminal
+17:36
+has just passed its maximum negative
+17:39
+voltage and is approaching zero act the
+17:44
+rotor position shown devoted to the
+17:47
+green terminal or just fast 0 and is
+17:51
+approaching max in a negative voltage at
+17:58
+the rotor position shown voltage to the
+18:01
+blue terminal will be at maximum because
+18:06
+of the phase shift due to the inductive
+18:09
+load the current will be a Dominion and
+18:13
+as a result will not have any magnetic
+18:16
+field around these windings let's take a
+18:22
+closer look to how these small magnetic
+18:25
+fields around the windings affect the
+18:29
+main field a frequency by direction of
+18:34
+the magnetic field around the windings
+18:36
+will form a magnetic field with opposing
+18:40
+direction to the main field the main
+18:44
+field will be weakened and by this the
+18:47
+induced voltage will be lower than the
+18:50
+generator with only comic load that's
+18:57
+good
+18:58
+active load connected to the terminals
+19:00
+the Covenant throughout the armature
+19:02
+windings will be phase shifted 90
+19:06
+degrees in front of the voltage why the
+19:14
+capacitor can be considered short
+19:16
+circuited at the time when there is no
+19:19
+load and no voltage in the circuit so
+19:23
+the more we can be with a capacitor as
+19:26
+being fully restricted or endless
+19:30
+resistance when the capacitor is fully
+19:34
+charged from this we can imagine that
+19:37
+the Covenant will be at its maximum when
+19:40
+the voltage crosses zero on the finest
+19:42
+curve and at minimum when the voltage is
+19:47
+at its maximum out maximum supply
+19:50
+voltage the capacitor is fully charged
+19:54
+and therefore it will also have a
+19:56
+voltage equal to the supply voltage but
+20:00
+in an opposite direction conclusion
+20:04
+since the capacitor can be considered a
+20:07
+short circuited when supply voltage
+20:09
+crosses evil the current has to be at
+20:13
+its maximum value and other result by 90
+20:16
+degrees before the supply voltage in
+20:18
+phase point-and-click the terminals the
+20:22
+details point and click on all of you
+20:26
+how the sum of all the magnetic field
+20:28
+influence on the name field or rotary
+20:33
+field after the rotor positions
+20:40
+home the voltage of the red terminal has
+20:43
+just cast maximum negative voltage and
+20:47
+is approaching zero because of the phase
+20:51
+shift the current flows in the direction
+20:54
+shown after the rotor position show
+21:00
+devoted to the green terminal has just
+21:04
+passed 0 and it's approaching maps in
+21:07
+the negative voltage because the phase
+21:11
+shift the current would have the
+21:14
+position shown after the rotor position
+21:19
+show the bold clear to the duel terminal
+21:22
+will be at its maximum because of the
+21:25
+phase shift due to the capacitive load
+21:28
+the current will be active minimun and
+21:32
+as a result have no magnetic fields
+21:35
+around these windings let's take a
+21:42
+closer look and how these small magnetic
+21:45
+fields around the windings affect the
+21:49
+main fields as we can see the direction
+21:52
+of the magnetic fields around the
+21:54
+windings will form a magnetic field for
+21:58
+the same direction as the main field the
+22:02
+main field is strengthened and this
+22:05
+would increase the induced voltage
+22:07
+asking if
+22:14
+mean the induced voltage and the
+22:16
+terminal voltage are dependent on the
+22:19
+type of those connected to generate
+22:22
+terminals a ship installation includes
+22:27
+all the described load components with a
+22:31
+typical power factor between 0.8 0.9 to
+22:37
+maintain the terminal voltage within
+22:39
+acceptable limits you to load change on
+22:43
+the generator we need to vary to
+22:45
+strength the main field

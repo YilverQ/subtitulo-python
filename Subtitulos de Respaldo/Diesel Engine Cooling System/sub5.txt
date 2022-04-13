@@ -1,0 +1,272 @@
+00:00
+After completing this chapter the learner will know the maintenance
+00:03
+requirements of a diesel engine cooling system now the reasons for using
+00:08
+chemical treatment in a diesel engine cooling system know the basic principles
+00:12
+of how chemical treatment protects the system
+00:35
+when a diesel engine cooling system is operated with good quality water which
+00:40
+is correctly treated then maintenance is minimal and the system should give long
+00:44
+term operation with few problems lack of or inadequate treatment will lead to
+00:51
+scale deposits and corrosion of the system components which may result in
+00:55
+failure or overheating the only general maintenance required is to keep the
+01:00
+coolant levels topped up and to maintain the correct concentration of treatment
+01:04
+in the system care must be taken when draining the system containing treatment
+01:08
+chemicals as they may pose a pollution risk disposal should be in accordance
+01:13
+with the material safety data sheet and any marple requirements the system
+01:19
+components such as the pumps and heat exchangers will require periodic
+01:23
+maintenance to ensure satisfactory performance circulating pump impellers
+01:28
+and sealing rings often referred to as wear rings shaft bearings and shafts
+01:33
+seals will need to be replaced periodically in accordance with
+01:37
+manufacturer's instructions it may also be necessary
+01:40
+to clear debris from impellers occasionally heat exchangers may need to
+01:45
+be manually or chemically cleaned periodically with seals and anodes being
+01:50
+replaced as required system valves will also require periodic overhaul including
+01:56
+reconditioning of seat phases and repacking of glands the quality of the
+02:01
+fresh water used for the first charge and topping up is critical for good
+02:05
+performance of the system normally the water will be produced on board in the
+02:10
+freshwater generator and should be good quality there should therefore be very
+02:15
+low levels of dissolved solids in the water so scale formation should not be a
+02:19
+problem the water will still require treatment to bring the alkalinity to a
+02:25
+suitable level to prevent corrosion in the system this will be achieved by the
+02:29
+correct concentration of a suitable water treatment it should be noted that
+02:34
+any of the treatments which are normally soluble in the water will actually cause
+02:38
+the total dissolved solids content of the water to increase excess
+02:43
+concentrations will therefore lead to possible deposit
+02:46
+the heat transfers surfaces which can cause overheating due to the insulating
+02:51
+effect as has been stated the quality of the water in the cooling system dictates
+02:56
+how well the system will perform even with good quality water the system still
+03:02
+needs to be treated to prevent scale and corrosion there are many different
+03:06
+treatments available which are usually corrosion inhibitors and all scale
+03:11
+preventers most treatments also have some antifreeze component to give low
+03:16
+temperature protection by lowering the freezing point of the coolant there is
+03:21
+also a need to protect against cavitation erosion particularly on
+03:25
+cylinder liners you can click on the button to learn more about cavitation
+03:30
+erosion when you have finished this page the actual treatment required for a
+03:34
+particular system is dependant to a large extent on the materials used in
+03:39
+the system some treatments do not protect certain materials and in fact
+03:44
+can accelerate the rate of corrosion when used with them most treatments are
+03:49
+therefore combinations of different chemicals which give protection to the
+03:52
+system as a whole you may be surprised to know that many of the treatment
+03:56
+chemicals nitrate and nitrite based for example give protection against
+04:01
+corrosion by forming passive scale coatings on the metal surfaces which act
+04:06
+as a protective film against further corrosive attack since these protective
+04:11
+films are very thin there is only minor insulating effect and heat transfer is
+04:16
+hardly affected cavitation erosion is a particular problem with wet cylinder
+04:21
+liners damaged caused by this mechanism can lead to corrosion problems on the
+04:27
+water side of the line of wall as the piston moves up and down in the cylinder
+04:31
+liner during the cycle the pressure in the cylinder varies the area of the
+04:36
+liner at which side thrusts from the piston acts' also varies this variation
+04:42
+in pressure and thrust causes the line of wool to vibrate this vibration causes
+04:47
+the line of wool to move in and out affecting the volume in the water space
+04:52
+this leads to local pressure variations on the water side of the liner as the
+04:57
+liner wall moves in toward the center pressure on the wet side of the line of
+05:01
+Walled reduces and vapor bubbles form as the line of wool moves back out it
+05:07
+creates rapid increase in local pressure which causes the vapor bubbles to
+05:11
+collapse the collapsing bubbles allow the water to impact on the liner with
+05:16
+great force this action can break down the protective films formed by the water
+05:21
+treatment and erode the liner metal the damaged areas are then subject to a high
+05:26
+risk of corrosion traditionally the chemical composition of cooling water
+05:30
+treatment was either chromate or nitrate bore rate based often with the addition
+05:36
+of silicates the treatments commonly used today include so called
+05:40
+supplemental cooling additives SC A's these are complex compounds of soluble
+05:47
+chemicals which provide good corrosion protection for a wide range of materials
+05:52
+as well as scale prevention they often use some of the traditional treatments
+05:57
+combined with other additives such as molybdate sand phosphates another
+06:02
+traditional treatment is soluble oil another group of treatments are referred
+06:06
+to as organic acid technology but we will not consider these here as they are
+06:10
+not common in marine use we don't need to consider the chemistry in detail but
+06:15
+you should be aware of the basic way in which the treatments work click on the
+06:19
+buttons for more information on the most common treatments chromate based
+06:23
+treatments work by forming a thin film of the surface of the metal components
+06:27
+in the system this film forms a passive barrier which isolates the metal from
+06:32
+any oxygen within the system and therefore prevents oxidation and
+06:36
+corrosion occurring they are often combined with phosphates which help
+06:41
+maintain the alkalinity of the system chromates will not prevent scale
+06:45
+formation it should be noted that chromates are highly toxic and are
+06:49
+calcio genic that is they can lead to cancer chromate based treatments are
+06:54
+therefore not allowed in systems which are used to heat freshwater generators
+06:58
+if the product is used as potable water nitrite based treatments work in a
+07:03
+similar way to chromates in that they form passive protective
+07:07
+layers to prevent corrosion the borate component acts to maintain
+07:11
+alkalinity are often included in the treatment to
+07:15
+improve protection of aluminium components in the system nitrites can
+07:19
+give rise to microbial problems and the treatment compound often includes a
+07:24
+biocide soluble oil when used in the correct concentration gives corrosion
+07:29
+protection by forming a thin film over the metal surfaces soluble oil will not
+07:34
+prevent scale formation as with the other treatments considered in this
+07:38
+module if the protective layer formed by the
+07:41
+treatment breaks down then concentrated pitting corrosion will result you should
+07:46
+always make sure that you are familiar with the content of the materials safety
+07:50
+data sheets for any chemicals that you have to handle on board the ship
+07:54
+particular care must be taken with storage personal protective equipment
+07:58
+requirements and first aid measures the code of safe working practices also
+08:04
+gives general guidance on handling chemicals many of the cooling water
+08:08
+system chemicals are alkaline based to ensure a correct condition of the water
+08:13
+acidity of the water will increase corrosion the concentration of the
+08:17
+treatment chemicals and cooling water systems can usually be checked by simple
+08:22
+comparative tests the treatments calls the water to color and the intensity of
+08:27
+the color measured against a color comparator will give a direct reading of
+08:31
+the concentration some treatments require the addition of an indicator
+08:35
+solution to the sample prior to carrying out the comparative tests other test
+08:39
+methods include the addition of tablets until the sample color changes a
+08:43
+conversion chart is then used to give the result in parts-per-million
+08:48
+concentration any inhibitor type treatments which use passive film
+08:52
+formation to prevent corrosion need to be maintained at the correct
+08:56
+concentrations if this is not achieved then partial breakdown of the passive
+09:01
+film can give rise to local anodic areas which will result in severe pitting of
+09:06
+the metal and lead to early failure of the components excess concentrations of
+09:11
+soluble oil can form insulating layers on the heat exchange surfaces which may
+09:16
+lead to overheating of the engine in very high concentrations the soluble oil
+09:21
+may come out of solution and corrosion protection may be lost altogether the
+09:26
+quiet constant and dosage instructions for all
+09:29
+treatments will be given in the material safety data sheet and should be followed
+09:33
+if adequate protection is to be achieved the sea water solid of the system may be
+09:38
+treated to minimize or completely avoid marine growth in the pipe work or on the
+09:44
+seawater side of the heat exchangers the treatment used may either be chemical
+09:49
+additives or electro chlorination which generates sodium hypochlorite from
+09:54
+seawater care must be taken to use the treatment in such a way that no damage
+09:59
+is done to the environment or marine ecology by excessive dosage or
+10:03
+concentrations you should always refer to the manufacturer's instructions when
+10:08
+using any treatments corrosion protection can be achieved by fitting
+10:12
+sacrificial anodes to the end covers of the individual heat exchangers typically
+10:18
+zinc is used for the anodes as the name suggests the anodes will corrode rather
+10:24
+than the system metals in this section we have looked at the problems
+10:28
+associated with cooling water systems and some of the treatments available to
+10:32
+overcome these problems we have also considered some of the basic corrosion
+10:36
+mechanisms and seen her of the various treatments act to prevent them you
+10:41
+should now have an understanding of the treatments and the necessity to maintain
+10:44
+correct concentrations

@@ -1,0 +1,44 @@
+00:00
+As a result of studying this section you will learn starting and stopping of the
+00:06
+power units from the wheelhouse the meaning of the different alarms what
+00:10
+action to be taken in case of alarms
+00:33
+the wheelhouse panel is the main control panel of the steering gear functions and
+00:38
+alarms normally under seagoing conditions all orders related to the
+00:43
+steering gear should be given from the bridge
+00:46
+case 1 case 2 case 3
+00:52
+case 1
+00:55
+one power unit running the other in standby an alarm occurs the steering
+01:02
+gear system will then automatically start the standby power unit and the
+01:06
+power unit with the alarm stops
+01:12
+k-stew
+01:15
+two power units running an alarm occurs on one of them the steering gear system
+01:21
+will then automatically stop the power unit with the alarm
+01:27
+case three
+01:30
+one power unit running the other is not whom stand by an alarm occurs on the
+01:36
+running unit the steering gear system will then let the power unit with the
+01:40
+alarm run until it stops the steering gear is now ready for control from the
+01:46
+wheelhouse before you start you should push the lamp test button and adjust the
+01:51
+dimmer if necessary an alarm indicates an abnormal situation by a flashing lamp
+01:57
+and a buzzing sound move the mouse over the buttons to get a detailed
+02:01
+explanation of each

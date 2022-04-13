@@ -1,0 +1,461 @@
+00:00
+Después de completar este capítulo, el alumno comprenderá las razones para
+00:04
+introducción de sistemas de refrigeración central conozca los principios operativos de un
+00:08
+sistema de refrigeración central conocer el diseño general de un sistema de refrigeración central
+00:33
+la cantidad de mantenimiento requerido para cualquier sistema de agua de refrigeración depende principalmente
+00:38
+en los materiales utilizados para los componentes consistentes de la tubería y también en el
+00:42
+calidad del agua y del tratamiento del agua utilizados en el sistema cuando se utiliza agua de mar
+00:47
+para temperaturas superiores a 50 grados Celsius el nivel de corrosión y escala
+00:51
+La formación se vuelve inaceptable, el problema de la corrosión puede ser hasta cierto punto
+00:57
+evitado por la selección de material, aunque el costo aumenta cuando se utilizan
+01:01
+aleaciones algunos de los materiales aleaciones a base de cobre se mencionaron en un
+01:06
+La selección de material del capítulo anterior realmente no ayuda con la formación de escamas y
+01:11
+la única forma de reducir esto es utilizar agua de mejor calidad en los sistemas
+01:16
+es la principal razón para el desarrollo de sistemas de refrigeración central en los que
+01:20
+del sistema tradicional de agua de mar se reemplaza por circuitos de agua dulce, esto es
+01:25
+ahora es la opción preferida y es probable que dicho sistema se emplee en
+01:29
+su embarcación actual, debe verificar esto la próxima vez que esté en el
+01:32
+sala de máquinas el sistema de enfriamiento central básico tiene dos agua dulce interconectados
+01:38
+circuitos uno un circuito de alta temperatura y el otro un circuito de baja temperatura
+01:43
+y un circuito de agua de mar simple, los circuitos de agua dulce son normalmente
+01:48
+denominados circuitos HT y lt para indicar temperaturas altas y bajas
+01:53
+respectivamente, el circuito HT sirve al agua de refrigeración de la camisa del motor diesel
+01:58
+sistemas para los motores principales y auxiliares también se puede utilizar para calefacción
+02:02
+el generador de agua dulce normalmente el sistema funciona para dar una
+02:06
+temperatura de salida del motor de entre 75 y 85 grados Celsius el HT
+02:13
+El circuito generalmente consta de dos bombas de circulación que hacen circular el
+02:17
+agua a través de las camisas del motor principal y del motor auxiliar un 3 vías
+02:22
+Se proporciona una válvula de control de temperatura que se conecta al sistema LT
+02:26
+También se ha previsto el paso del agua HT a través del generador de agua dulce.
+02:31
+intercambiador de calor cuando sea necesario con una instalación de derivación adecuada cuando se
+02:36
+fuera de línea el tanque colector y el desaireador completan el sistema válvulas adecuadas para
+02:41
+El aislamiento de los motores y bombas se proporciona con fines de mantenimiento.
+02:46
+mientras que los requisitos de refrigeración distintos de las camisas del motor principal y auxiliar
+02:50
+son cumplidos por el circuito LT esto incluye enfriamiento para el principal y auxiliar
+02:54
+aceite lubricante del motor y aire de carga otra maquinaria servida por el sistema LT
+03:00
+incluye compresores de aire y refrigeración y aire acondicionado
+03:04
+compresores y condensadores normalmente el sistema LT funciona con una temperatura de
+03:09
+aproximadamente 37 grados Celsius el sistema generalmente comprende dos bombas de circulación
+03:14
+y una serie de intercambiadores de calor los intercambiadores de calor incluyen los de refrigeración
+03:19
+aceite lubricante y aire para los motores diesel el aire comprime y
+03:23
+equipos de refrigeración y aire acondicionado, así como refrigerados por agua a 2 C
+03:27
+enfriadores centrales la válvula de control de temperatura de tres vías utilizada en bypass
+03:32
+El modo desviador controla el flujo de agua dulce a través de los refrigeradores centrales LT
+03:37
+El sistema está conectado al sistema HT a través de la válvula mezcladora de 3 vías y un
+03:43
+El control de la temperatura de conexión del sistema HT se logra mediante una válvula de 3 vías utilizada
+03:49
+Como válvula mezcladora, el sensor para controlar esta válvula suele ser
+03:53
+colocada en la salida de agua de la camisa principal del motor o en la línea de retorno a la
+03:57
+bombas de circulación La temperatura constante de salida del motor se logra mezclando agua
+04:03
+del circuito LT al circuito HT a través de esta válvula de 3 vías como el agua HT
+04:09
+la temperatura aumenta en la salida del motor debido al aumento de potencia del motor el sensor
+04:14
+detecta el aumento y envía una señal al controlador aquí se compara con
+04:19
+el punto de ajuste y se envía una señal correctiva a la válvula de control que se mueve
+04:24
+Permita que parte del agua LT se mezcle con el agua HT para reducir la temperatura.
+04:28
+puede haber control de temperatura individual adicional para el auxiliar
+04:33
+motores que utilizan vocales controladas termostáticamente
+04:36
+El control de temperatura del circuito LT se logra mediante una válvula de 3 vías utilizada para
+04:42
+controlar el flujo a través de los refrigeradores centrales en una disposición de derivación
+04:46
+sensor de la vlvula est posicionado aguas abajo del punto en el que el
+04:50
+retorno de los refrigeradores centrales vuelve a entrar en el circuito LT cuando el
+04:55
+la temperatura del sistema comienza a subir debido al aumento de la carga térmica
+04:59
+el sensor detecta el aumento y envía una señal al controlador aquí está
+05:04
+en comparación con el punto de ajuste y se envía una señal correctiva al control
+05:07
+válvula que se mueve para permitir que parte del agua LT pase a los refrigeradores
+05:12
+reducir la temperatura cualquier aumento adicional de la carga térmica en el sistema
+05:16
+hará que la válvula desvíe más flujo a los enfriadores en algunos sistemas
+05:22
+válvulas de 3 vías adicionales para controlar las temperaturas de los servicios individuales
+05:26
+pasando por alto los fluidos primarios en el mínimo de intercambiadores de calor correspondiente
+05:31
+La temperatura para el circuito LT se puede lograr mediante el control de rango dividido para
+05:36
+controlar una unidad de calefacción en el sistema el circuito de agua de mar para una refrigeración central
+05:40
+El sistema es muy simple, generalmente consta de dos sistemas de succión de agua de mar.
+05:45
+filtros dos o más bombas de circulación y dos intercambiadores de calor para central
+05:50
+Enfriadores estos intercambiadores de calor suelen ser del tipo de placa el material
+05:55
+utilizado para el trabajo de la tubería es generalmente de aleación de base completa de alta calidad
+05:58
+aunque algunos sistemas utilizan acero inoxidable, estos materiales producen
+06:03
+requisitos de mantenimiento, ya que son resistentes a la corrosión y hay
+06:08
+tan poca tubería en el sistema el costo es moderado las placas para el
+06:12
+Los intercambiadores de calor también están hechos de material de alta calidad que es resistente
+06:16
+a la corrosión, el acero inoxidable o el titanio a menudo se elige debido a la alta resistencia
+06:22
+permite utilizar placas muy delgadas que mejoran la transferencia de calor central
+06:27
+El sistema de enfriamiento se puede adaptar para proporcionar enfriamiento o calefacción para la mayoría de los
+06:31
+La maquinaria a bordo del sistema LT se puede utilizar para proporcionar el fluido secundario para
+06:36
+muchos de los requisitos de enfriamiento, como los intercambiadores de calor del compresor de aire y el aceite
+06:40
+enfriadores el sistema HT se puede utilizar como fuente de calefacción que ya hemos visto
+06:46
+que se puede utilizar como fuente de calor para el generador de agua dulce, también
+06:51
+ser utilizado para calentar agua doméstica y una maquinaria de precalentamiento como el principal y
+06:56
+motores diesel auxiliares el circuito de agua de mar se puede utilizar para proporcionar pre
+07:00
+alimentación calentada para el generador de agua dulce y también los requisitos de refrigeración para
+07:05
+cualquier sistema que requiera enfriamiento directo con agua de mar para lograr temperaturas más bajas
+07:10
+de lo que puede lograr el LT haciendo esto, el número de subsistemas
+07:15
+se puede reducir que la planta general simplificada en esta sección tenemos
+07:20
+examinó la disposición de un sistema de refrigeración central que ahora debería comprender
+07:24
+las razones para tener dicho sistema y ser consciente de los subsistemas que lo componen
+07:29
+el sistema principal, también debe comprender cómo el sistema
+07:32
+las temperaturas se controlan en el próximo capítulo veremos el mantenimiento
+07:36
+requisitos de los sistemas de agua de refrigeración y, en particular, cómo podemos tratar el
+07:42
+sistemas para minimizar este requisito
+00:00
+Después de completar este capítulo, el alumno conocerá el mantenimiento
+00:03
+requisitos de un sistema de enfriamiento de motor diesel ahora las razones para usar
+00:08
+tratamiento químico en un sistema de enfriamiento de motor diesel conocer los principios básicos
+00:12
+de cómo el tratamiento químico protege el sistema
+00:35
+cuando un sistema de enfriamiento de un motor diesel se opera con agua de buena calidad que
+00:40
+se trata correctamente, el mantenimiento es mínimo y el sistema debe
+00:44
+Operación a término con pocos problemas, la falta o el tratamiento inadecuado conducirán a
+00:51
+depósitos de incrustaciones y corrosión de los componentes del sistema que pueden provocar
+00:55
+falla o sobrecalentamiento, el único mantenimiento general requerido es mantener el
+01:00
+niveles de refrigerante rellenados y para mantener la concentración correcta de tratamiento
+01:04
+en el sistema se debe tener cuidado al drenar el sistema que contiene el tratamiento
+01:08
+productos químicos, ya que pueden representar un riesgo de contaminación, la eliminación debe realizarse de
+01:13
+con la hoja de datos de seguridad del material y cualquier requisito de marple el sistema
+01:19
+componentes como las bombas y los intercambiadores de calor requerirán
+01:23
+mantenimiento para garantizar un rendimiento satisfactorio de los impulsores de la bomba de circulación
+01:28
+y anillos de sellado a menudo denominados anillos de desgaste, cojinetes y ejes
+01:33
+Los sellos deberán ser reemplazados periódicamente de acuerdo con
+01:37
+instrucciones del fabricante también puede ser necesario
+01:40
+para limpiar los residuos de los impulsores, en ocasiones, los intercambiadores de calor pueden necesitar
+01:45
+limpiarse manual o químicamente periódicamente con juntas y ánodos
+01:50
+Reemplazado según sea necesario, las válvulas del sistema también requerirán una revisión periódica que incluye
+01:56
+reacondicionamiento de las fases del asiento y reembalaje de prensaestopas la calidad del
+02:01
+el agua dulce utilizada para la primera carga y el relleno es fundamental para el bien
+02:05
+rendimiento del sistema normalmente el agua se producirá a bordo en el
+02:10
+generador de agua dulce y debe ser de buena calidad, por lo tanto, debe haber muy
+02:15
+bajos niveles de sólidos disueltos en el agua, por lo que la formación de incrustaciones no debe ser un problema
+02:19
+problema, el agua todavía necesitará tratamiento para llevar la alcalinidad a un
+02:25
+nivel adecuado para evitar la corrosión en el sistema, esto se logrará
+02:29
+concentración correcta de un tratamiento de agua adecuado cabe señalar que
+02:34
+cualquiera de los tratamientos que normalmente son solubles en agua causará
+02:38
+el contenido total de sólidos disueltos del agua para aumentar el exceso
+02:43
+Por tanto, las concentraciones conducirán a un posible depósito
+02:46
+las superficies de transferencia de calor que pueden causar sobrecalentamiento debido al aislamiento
+02:51
+efecto, como se ha dicho, la calidad del agua en el sistema de enfriamiento dicta
+02:56
+qué tan bien funcionará el sistema incluso con agua de buena calidad
+03:02
+necesita ser tratado para prevenir incrustaciones y corrosión hay muchas
+03:06
+tratamientos disponibles que suelen ser inhibidores de corrosión y todas las incrustaciones
+03:11
+preventivos la mayoría de los tratamientos también tienen algún componente anticongelante para reducir
+03:16
+protección de temperatura bajando el punto de congelación del refrigerante hay
+03:21
+También es necesario proteger contra la erosión por cavitación, especialmente en
+03:25
+camisas de cilindros, puede hacer clic en el botón para obtener más información sobre la cavitación
+03:30
+erosión cuando haya terminado esta página el tratamiento real requerido para un
+03:34
+sistema particular depende en gran medida de los materiales utilizados en
+03:39
+el sistema algunos tratamientos no protegen ciertos materiales y de hecho
+03:44
+Puede acelerar la velocidad de corrosión cuando se usa con ellos, la mayoría de los tratamientos son
+03:49
+por lo tanto, combinaciones de diferentes productos químicos que dan protección a la
+03:52
+sistema en su conjunto, le sorprenderá saber que muchos de los tratamientos
+03:56
+productos químicos a base de nitrato y nitrito, por ejemplo, brindan protección contra
+04:01
+corrosión mediante la formación de revestimientos de incrustaciones pasivas en las superficies metálicas que actúan
+04:06
+como una película protectora contra un ataque corrosivo adicional ya que estos protectores
+04:11
+Las películas son muy delgadas, solo hay un efecto aislante menor y la transferencia de calor es
+04:16
+la erosión por cavitación apenas se ve afectada es un problema particular con el cilindro húmedo
+04:21
+Los revestimientos dañados por este mecanismo pueden provocar problemas de corrosión en el
+04:27
+lado del agua de la línea de la pared a medida que el pistón se mueve hacia arriba y hacia abajo en el cilindro
+04:31
+camisa durante el ciclo, la presión en el cilindro varía el área del
+04:36
+revestimiento en el que actúa el empuje lateral del pistón 'también varía esta variación
+04:42
+en presión y empuje hace que la línea de lana vibre, esta vibración causa
+04:47
+la línea de lana para entrar y salir afectando el volumen en el espacio de agua
+04:52
+esto conduce a variaciones de presión local en el lado del agua del revestimiento a medida que
+04:57
+La pared del revestimiento se mueve hacia la presión central en el lado húmedo de la línea de
+05:01
+Las paredes se reducen y se forman burbujas de vapor a medida que la línea de lana se retira.
+05:07
+crea un rápido aumento de la presión local que hace que las burbujas de vapor se
+05:11
+colapsar las burbujas que colapsan permiten que el agua impacte en el revestimiento con
+05:16
+gran fuerza esta acción puede romper las películas protectoras formadas por el agua
+05:21
+tratamiento y erosionan el revestimiento metálico, las áreas dañadas se someten a un alto
+05:26
+riesgo de corrosión tradicionalmente la composición química del agua de refrigeración
+05:30
+El tratamiento se basó en la tasa de perforación con cromato o nitrato a menudo con la adición
+05:36
+de silicatos, los tratamientos comúnmente utilizados en la actualidad incluyen los llamados
+05:40
+aditivos de enfriamiento suplementarios SC A estos son compuestos complejos de solubles
+05:47
+productos químicos que proporcionan una buena protección contra la corrosión para una amplia gama de materiales
+05:52
+Además de la prevención de escamas, a menudo utilizan algunos de los tratamientos tradicionales.
+05:57
+combinado con otros aditivos como fosfatos de arena de molibdato otro
+06:02
+el tratamiento tradicional es aceite soluble otro grupo de tratamientos se refieren
+06:06
+como tecnología de ácidos orgánicos, pero no los consideraremos aquí como son
+06:10
+no es común en el uso marino, no necesitamos considerar la química en detalle, pero
+06:15
+debe conocer la forma básica en que funcionan los tratamientos haga clic en el
+06:19
+botones para obtener más información sobre los tratamientos más habituales a base de cromato
+06:23
+los tratamientos funcionan formando una película delgada de la superficie de los componentes metálicos
+06:27
+en el sistema, esta película forma una barrera pasiva que aísla el metal de
+06:32
+cualquier oxígeno dentro del sistema y por lo tanto evita la oxidación y
+06:36
+la corrosión que se produce, a menudo se combinan con fosfatos que ayudan
+06:41
+Mantener la alcalinidad del sistema Los cromatos no evitarán la formación de incrustaciones.
+06:45
+formación cabe señalar que los cromatos son altamente tóxicos y son
+06:49
+Subtitulo no Encontrado06:54
+por lo tanto no permitido en sistemas que se utilizan para calentar generadores de agua dulce
+06:58
+si el producto se utiliza como agua potable, los tratamientos a base de nitrito funcionan en un
+07:03
+forma similar a los cromatos en que forman protectores pasivos
+07:07
+capas para prevenir la corrosión el componente de borato actúa para mantener
+07:11
+La alcalinidad a menudo se incluye en el tratamiento para
+07:15
+Mejorar la protección de los componentes de aluminio en el sistema Los nitritos pueden
+07:19
+dar lugar a problemas microbianos y el compuesto de tratamiento a menudo incluye un
+07:24
+El aceite soluble biocida cuando se usa en la concentración correcta da corrosión
+07:29
+protección formando una película delgada sobre las superficies metálicas, el aceite soluble no
+07:34
+prevenir la formación de escamas como con los otros tratamientos considerados en este
+07:38
+módulo si la capa protectora formada por el
+07:41
+el tratamiento se rompe, entonces se producirá corrosión concentrada por picaduras
+07:46
+Asegúrese siempre de estar familiarizado con el contenido de los materiales de seguridad.
+07:50
+hojas de datos de cualquier producto químico que tenga que manipular a bordo del barco
+07:54
+Se debe tener especial cuidado con el almacenamiento del equipo de protección personal.
+07:58
+requisitos y medidas de primeros auxilios el código de prácticas laborales seguras también
+08:04
+Ofrece orientación general sobre el manejo de productos químicos, gran parte del agua de refrigeración.
+08:08
+Los productos químicos del sistema tienen una base alcalina para garantizar un estado correcto del agua.
+08:13
+la acidez del agua aumentará la corrosión la concentración de la
+08:17
+Los productos químicos de tratamiento y los sistemas de agua de refrigeración se pueden comprobar normalmente con
+08:22
+pruebas comparativas los tratamientos llaman al agua a colorear y la intensidad de
+08:27
+el color medido contra un comparador de color dará una lectura directa de
+08:31
+la concentración algunos tratamientos requieren la adición de un indicador
+08:35
+solución a la muestra antes de realizar las pruebas comparativas otra prueba
+08:39
+Los métodos incluyen la adición de tabletas hasta que el color de la muestra cambie un
+08:43
+Luego, la tabla de conversión se usa para dar el resultado en partes por millón.
+08:48
+concentración cualquier tipo de inhibidor tratamientos que utilicen película pasiva
+08:52
+La formación para evitar la corrosión debe mantenerse al nivel correcto.
+08:56
+concentraciones si esto no se logra, entonces la ruptura parcial del pasivo
+09:01
+La película puede dar lugar a áreas anódicas locales que resultarán en picaduras severas de
+09:06
+el metal y conducir a una falla temprana de los componentes, concentraciones excesivas de
+09:11
+El aceite soluble puede formar capas aislantes en las superficies de intercambio de calor que pueden
+09:16
+conducir al sobrecalentamiento del motor en concentraciones muy altas el aceite soluble
+09:21
+puede salir de la solución y la protección contra la corrosión puede perderse por completo
+09:26
+instrucciones silenciosas constantes y de dosificación para todos
+09:29
+Los tratamientos se darán en la hoja de datos de seguridad del material y deben seguirse
+09:33
+Si se desea lograr una protección adecuada, el sólido de agua de mar del sistema puede
+09:38
+tratado para minimizar o evitar completamente el crecimiento marino en la tubería o en el
+09:44
+lado del agua de mar de los intercambiadores de calor el tratamiento utilizado puede ser químico
+09:49
+aditivos o electrocloración que genera hipoclorito de sodio a partir de
+09:54
+Se debe tener cuidado con el agua de mar para utilizar el tratamiento de tal manera que no se dañe
+09:59
+se hace al medio ambiente o ecología marina por dosis excesivas o
+10:03
+concentraciones, siempre debe consultar las instrucciones del fabricante cuando
+10:08
+utilizando cualquier tratamiento, la protección contra la corrosión se puede lograr colocando
+10:12
+ánodos de sacrificio a las cubiertas de los extremos de los intercambiadores de calor individuales típicamente
+10:18
+El zinc se usa para los ánodos, ya que el nombre sugiere que los ánodos se corroerán en lugar de
+10:24
+que los metales del sistema en esta sección hemos examinado los problemas
+10:28
+asociados con los sistemas de agua de refrigeración y algunos de los tratamientos disponibles para
+10:32
+superar estos problemas también hemos considerado algunos de los aspectos básicos de la corrosión
+10:36
+mecanismos y visto de los diversos tratamientos actuar para prevenirlos
+10:41
+ahora debe tener una comprensión de los tratamientos y la necesidad de mantener
+10:44
+concentraciones correctas

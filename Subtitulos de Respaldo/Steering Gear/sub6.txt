@@ -1,0 +1,88 @@
+00:01
+As a result of studying this section you will know what could cause an emergency
+00:06
+situation know what to do when an emergency situation occurs be able to
+00:12
+locate all emergency valves on the actuator
+00:28
+you
+00:35
+you
+00:37
+emergency steering is the same as local steering from the steering gear
+00:41
+compartment the operator has to push directly on the valves on the actuator
+00:46
+and keep his eyes on the rudder angle indicator wheel on the top of the
+00:50
+actuator rudder commands are to be received by phone from the bridge local
+00:56
+steering can also be done from the starter cabinets front panel
+01:02
+situations in which local steering may be necessary failure on the rudder or
+01:07
+rudder indication system bridge out of function
+01:12
+cable breakage
+01:15
+it is extremely important that the procedure for switching over to local
+01:19
+steering mode is familiar and drilled so everyone involved knows what to do this
+01:26
+is described in detail on the operating instructions I grabbed which hangs on
+01:31
+the bulkhead in the wheelhouse and in the steering gear compartment you should
+01:36
+study this operating instruction diagram on your vessel and go down to the
+01:41
+steering gear compartment to become familiar with the emergency steering
+01:45
+controls the controls may vary on different types of steering gear on the
+01:50
+following pages you will be shown the operating instructions I am click on the
+01:55
+hot spots to read the procedures changeover procedure start or stop of
+02:02
+pumps can be done from the bridge pumps are independent of each other pumps can
+02:07
+operate the steering gear independently or together each pump has its own
+02:12
+independent steering control circuit following valves have to be in open
+02:17
+position a b c d e and f electrical or valve block failure alarm one one pump
+02:28
+in operation 1.1.1 start standby pump if not also started one point one point to
+02:38
+stop the pump with failure function to two pumps in operation two point one
+02:46
+point one stop pump with failure function caution in some circumstances
+02:53
+the rudder may not respond to helm and no alarm is given if this happens
+02:59
+proceed as follows one point two point one change to non follow up steering
+03:06
+mode one point two point two start standby pump one point two point three
+03:14
+stop pump with function failure one point two point four control rudder
+03:20
+movement on the rudder indicator two point two point one switch over to non
+03:27
+follow up steering mode two point two point two stop pump number one control
+03:34
+the rudder indicator if none go to two point two point three two point two
+03:41
+point three start pump number one again and stop pump number two control the
+03:48
+rudder movement on the rudder indicator steering from the steering gear
+03:52
+compartment start and stop of pumps can be done in steering gear compartment
+03:57
+switch off B 1 and B 2 a by use of the non follow up switch in front of starter
+04:04
+or B by activating ll or mm depending on which pump in operation
+04:14
+open valve k valve e and f are normally open closed valve k after refilling the
+04:22
+steering gear has to be refilled through one steering gear pump by using the
+04:26
+storage tank system closed valves a and B or C and D

@@ -1,0 +1,88 @@
+00:20
+The engine has two cooling water systems one high-temperature jacket water system
+00:27
+and one low temperature system only the high temperature system would be
+00:33
+described here the high temperature system is a freshwater cooling system
+00:40
+during operation or just after the engine has been stopped most of the
+00:45
+engine will be hot touching the engine parts may cause burns in this system be
+00:52
+especially aware of the following parts cooling water pipes may get up to 90
+00:58
+degrees Celsius the operator should always be aware of the high water
+01:03
+temperature when working with parts of the cooling water system pay attention
+01:08
+to how the additives are stored the additives to the cooling water may
+01:13
+involve a health risk especially when highly concentrated the operators are
+01:20
+responsible for keeping updated with the producers warnings on the containers or
+01:25
+data sheets parts of the engine to be cooled by the jacket water system is a
+01:32
+cylinder block the cylinder liners the cylinder heads and the turbocharger
+01:42
+control of cooling water quality is very important to prevent corrosion sediments
+01:49
+and surface growth in the jacket water cooling system it is important to use
+01:55
+inhibitors in the jacket water both for fresh water and for distilled water when
+02:03
+using inhibitors the service instructions have to be followed very
+02:07
+carefully with respect to the water quality supplement volume treatment and
+02:14
+storage changing high temperature cooling water empty and flush the
+02:22
+cooling system thoroughly before commencing treatment to remove as much
+02:26
+sludge and rest as possible if the system is exceptionally rusty
+02:32
+it is advisable to repeat this procedure after the first week or two of treatment
+02:37
+click the components for further information the jacket water pump is an
+02:43
+engine-driven centrifugal pump type it delivers water for cooling the
+02:49
+turbocharger and the high-temperature section of charge air cooler for engines
+02:54
+equipped with two stage charge air cooler the roller bearings are
+03:00
+lubricated by the main lube oil system
+03:05
+do not operate without proper water supply this will destroy the pump if
+03:14
+observing lubricating oil or water coming through the telltale hole replace
+03:19
+both sealing rings to ensure satisfactory sealing the heater module
+03:26
+consists of an electric pump with electric element the purpose of the
+03:31
+heater module is to keep the engine temperature at approximately 50 degrees
+03:36
+Celsius while the engine is in standby mode never operate without proper water
+03:43
+supply because that will destroy the ceramic seals in the pump immediately
+03:49
+the purpose of the regulating valve is to adjust the jacket water flow rate the
+03:57
+jacket water cooler removes heat from the jacket water and transfers it to the
+04:02
+raw seawater system the plate heat exchanger consists of edge clamped
+04:08
+frames within which a number of plates and gaskets are compressed
+04:18
+it is of great importance to inspect the high temperature water cooler during the
+04:23
+running in period in order to gain experience to determine the correct
+04:29
+intervals for cleaning when the call is out of operation for a longer period
+04:35
+empty it open it and clean it cleaning of the plates is important to restrict
+04:44
+corrosion and to keep the heat transfer rate at a maximum level plate exchangers
+04:51
+should be inspected and cleaned at regular intervals

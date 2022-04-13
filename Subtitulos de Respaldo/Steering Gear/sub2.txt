@@ -1,0 +1,98 @@
+00:00
+As a result of studying this section you will learn the working principles of the
+00:05
+standard model of the rotary vane actuator to working principles of the
+00:10
+IMO model of the rotary vane actuator how the IMO system reacts to a leakage
+00:15
+the working principles of the RAM type actuator
+00:39
+basically there are two types of electro hydraulic steering gear working
+00:44
+principles the RAM type and the rotary vane type the working principles of the
+00:49
+two are very similar a strong slow movement of a mechanical surface is
+00:54
+created by the use of high oil pressure ram type uses cylinder pistons rotary
+01:00
+vane uses pressure working on the side of a vane on the RAM type the piston is
+01:05
+connected by a ram to a tiller and the tiller is fixed to the rudder stopped
+01:09
+creating the rotating movement on the rotary vane the vane is fixed to a boss
+01:14
+that is fixed directly to the stock the principles as described for the rotary
+01:19
+vane steering gear can easily be transformed to the RAM type typical for
+01:25
+RAM type steering gears is that they work with a much higher hydraulic
+01:28
+pressure they need an external rudder stock bearing and the working angle is
+01:33
+limited compared with the rotary vane steering gear the standard model is used
+01:38
+on all vessels except tankers with single rudder installation above 100,000
+01:43
+deadweight tons safety safety against single failure on the hydraulic system
+01:49
+according to sonís rules the IMO model is specially designed for tankers with
+01:56
+single rudder installation above 100,000 deadweight tons to comply with the
+02:01
+soleus rules it can also be used for other ships and/or rudder arrangements
+02:06
+where extraordinary safety is wanted safety safety against single failure on
+02:12
+the hydraulic system according to Solace rules
+02:21
+this is a schematic drawing of the standard steering gear you can click on
+02:26
+the buttons marked Porsche or starboard to see how it works and click on the
+02:30
+different parts for more information the model shows a normal operation situation
+02:35
+with one pump running using both pumps will double the speed of the rudder
+02:48
+you
+03:20
+this is a schematic drawing the IMO steering-gear you can click on the
+03:24
+buttons marked port or starboard to see how it works and click on the different
+03:28
+parts for more information the model shows a normal operation situation with
+03:34
+one pump running using both pumps will double the speed of the rudder
+03:46
+you
+04:12
+you will now be shown how the IMO system reacts on a leakage
+04:23
+you
+04:27
+to view how this situation is displayed on the wheelhouse panel click the link
+04:40
+you
+05:31
+the iro steering-gear is redundant for leakage over the vein seals so if the
+05:36
+oil can bypass one of the veins for any accidental reason the leaking vein can
+05:41
+be put out of function and the steering gear will operate on the other vein only
+05:45
+however if a leakage should occur over one of the stoppers both veins will be
+05:50
+inoperable a situation like this is not covered by the soleus class requirements
+05:55
+the double IMO will protect against accidental bypass over one of the
+06:00
+stoppers as well the double IMO is designed for ship owners who want the
+06:04
+most ultimate safety further than required by the sonís or class rules
+06:11
+the purpose of the locking device is to fix the rudder in any position and may
+06:16
+be used during maintenance of steering gear
+06:20
+anchoring
+06:24
+or towing

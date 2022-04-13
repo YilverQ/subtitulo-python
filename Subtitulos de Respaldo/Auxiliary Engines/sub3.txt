@@ -1,0 +1,862 @@
+00:00
+The main purpose of this section is to give all operating personnel a basic
+00:05
+understanding of the engines most essential functions how the systems work
+00:11
+to ensure that all operating personnel are able to locate recognize and
+00:18
+identify all essential components within the systems and execute the daily weekly
+00:25
+and monthly inspections and maintenance routines
+00:48
+the engine transmits signals from the alarm and monitoring system via the
+00:53
+junction box these signals may be observed while the engine is running
+00:57
+thereby making it easier to monitor the operation of the engine
+01:10
+you
+01:28
+in addition to these transmitters the engine is equipped with numerous
+01:32
+manometers and thermometers which should be logged on a daily basis and compared
+01:37
+to the values observed on the alarm and monitoring system if the signals
+01:42
+monitored by the alarm and monitoring system are outside the preset interval
+01:45
+the system will trigger an alarm
+01:55
+you
+01:59
+transmitters and switches on the engines and signals for the safety system which
+02:04
+will result in the engine shutdown if the values are outside the preset
+02:09
+interval
+02:17
+you
+02:45
+to over speed trips are fitted to the engine one mechanical and one
+02:50
+electropneumatic the mechanical over speed trip is triggered by a
+02:55
+spring-loaded wait on the camshaft while the electropneumatic is triggered by the
+02:59
+electric signal transmitted by tacko relay
+03:07
+click on the back
+03:13
+you
+04:09
+the governing system
+04:18
+upon a start signal from the ship auxilary engines control system starting
+04:23
+air is led to the system the Tucker relay receives the signal from the
+04:27
+magnetic pickup on the flywheel cover which indicates the engine speed when
+04:32
+the speed exceeds 300 revs per minute the target relay sends the signal to the
+04:37
+speed controller indicating that the engine is running and starting air is
+04:41
+shut off the speed controller receives the speed signal from the magnetic
+04:46
+pickup on the flywheel cover while the engine speed is below normal running
+04:50
+speed it sends signals to the actuator fitted on the flywheel end of the engine
+04:55
+to increase engine speed the actuator transforms the electric signals to
+04:59
+mechanical movement and through arms and linkages it changes the admission of the
+05:04
+fuel oil injection pump in multi engine systems when the engine achieves normal
+05:10
+running speed the synchronizers start comparing frequency phases and voltage
+05:14
+on the net side with the corresponding values on the generator side when they
+05:19
+are equal the synchronizer closes the circuit generator breaker and the
+05:23
+generator set is connected to the bus the synchronizer is automatically
+05:27
+switched off afterwards
+05:38
+the governing system
+05:44
+when the circuit generator break is closed the speed controller receives a
+05:49
+signal indicating the load of the engine from the sensors in the switchgear and
+05:53
+the signal showing the load of the auxilary engines in the vessel if the
+05:58
+load of the engine diverges from the wanted load compared to the other
+06:02
+engines the speed controller changes the signal to the actuator to change the
+06:07
+admission on the engine when a change in the load and the main bus occurs the
+06:12
+generator will be forced to increase its output since the engine speed is
+06:16
+constant determined by the frequency on the main bus the increased load from the
+06:21
+generator results in automatically increased power output from the engine
+06:26
+by increasing the admission the governing system
+06:34
+click on the red box to find out more
+06:42
+the electric hydraulic actuator is fitted on the flywheel end of the engine
+06:47
+the actuator receives electric signals from the speed controller which it
+06:51
+transforms to mechanical movement through arms and linkages the actuator
+06:56
+alters the admission to the fuel injection pumps thus regulating the
+06:59
+output from the engine the linkages and arms leading from the actuator to each
+07:04
+of the fuel oil injection pumps must always work smoothly this should be
+07:09
+checked every day and grease added and old joints and coupling maintenanced
+07:14
+when needed
+07:23
+fire there will always be a certain danger of
+07:28
+fire when running a diesel engine a combination of leaking fuel oil and hot
+07:33
+engine parts may start a fire that can be very damaging to the engine and in
+07:38
+some cases dangerous to engine crew leakages in the high-pressure part of
+07:43
+the fuel system may create situations where the probability of a fire
+07:46
+increases it is of utmost importance to undertake inspection of these parts and
+07:52
+carry out preventative measures against this on a regular basis Thermal hazards
+07:58
+fuel oil pipes may be very hot and should not be touched even though they
+08:03
+are insulated beware that fuel oil pipes leading from the heavy fuel oil feeder
+08:08
+booster module to the engine may be steam traced when performing maintenance
+08:12
+in the fuel oil system remember that heavy fuel oil is very hot fuel oils are
+08:18
+flammable and should be treated with care they may also irritate skin so
+08:23
+rinse off fuel oil as soon as possible take note not to wear clothing that is
+08:29
+soaked with oil
+08:35
+all Al Steinberg in Maine and auxilary engines can be operated on heavy fuel
+08:41
+oil under certain conditions which include heavy fuel oil and lubricating
+08:45
+oil quality and which equipment is needed
+08:56
+you
+09:24
+a safety indicative valve is fitted outside the cylinder head by means of
+09:29
+this valve the maximum pressure in each cylinder should be measured once a month
+09:33
+the measuring must be carried out with 100% load on the engine log the maximum
+09:40
+combustion pressures and exhaust temperatures find causes and rectify if
+09:46
+combustion pressure in one cylinder differs more than three bar from the
+09:50
+average maximum at full load abnormal change in the exhaust temperature of one
+09:55
+cylinder is indicated
+10:03
+the feeder booster module feeds heavy fuel oil to the engines a module
+10:08
+consists of equipment ensuring that the fuel oil is correctly filtered and that
+10:12
+it will have the correct temperature and viscosity when entering the engine the
+10:17
+feeder booster module consists of the following main components to suction
+10:22
+strainers to feeder pumps of which one is a standby pump mixing pipe /
+10:30
+deaeration vessel to booster pumps of which one is a standby pump to fuel
+10:38
+heaters automatic filter with separate manual bypass filter viscosity control
+10:45
+system duplex fine filter inspection and maintenance
+10:59
+you
+11:03
+the changeover valve is equipped with a switch for heavy fuel or diesel oil
+11:08
+operation a light indicates that the engine is running on marine diesel oil
+11:13
+or heavy fuel oil oil in a disconnected fuel oil system can circulate through
+11:18
+the valve and is thereby kept heated to correct temperature
+11:29
+you
+11:54
+in addition to logging the fuel oil pressure after the filter the filter
+11:59
+elements have to be checked at least once a month how often they have to be
+12:04
+replaced depends on the fuel oil quality
+12:08
+make sure that the filter that is going to be dismantled is not in operation by
+12:14
+checking the conk position open the vent plug empty the filter housing of diesel
+12:20
+oil by unscrewing the plug this is not necessary for checking the element
+12:25
+unscrew the nuts that remove the cover remove the filter element from the
+12:31
+housing and check the element
+12:35
+wash out all oil sediments in the filter housing blow the housing clean with
+12:41
+compressed air
+12:45
+place the text in the correct sequence
+12:55
+you
+13:05
+the fuel oil injection pumps inject the correct amount of fuel into the
+13:10
+combustion chamber by a short high pressure pipes and the injection valves
+13:14
+the pumps are driven by the camshaft via the push rods and regulated by the
+13:19
+regulator via the link arms all engines running on heavy fuel oil are equipped
+13:25
+with a cleaning system for the fuel injection pumps
+13:32
+it is of great importance to check the control levers and fuel pump wax weekly
+13:37
+for sticking tightening stalks for nuts and high-pressure fuel pipes must be
+13:43
+inside the tolerance given too much tightening may lead to reduced flow of
+13:48
+fuel to the cylinders due to narrowing of the pipes all engines running on
+13:53
+heavy fuel oil are equipped with a cleaning system for the fuel injection
+13:57
+pumps in order to prevent the control rod and sleeve from getting dirty and
+14:02
+sticky
+14:07
+the purpose of the system is to prevent the control rod and sleeve from getting
+14:12
+dirty and sticky the system uses marine diesel oil from a separate tank for
+14:18
+cleaning the pump is pneumatically operated and needs control air supply
+14:25
+working pressure is 3.0 bar
+14:32
+the fuel injection pump cleaning system should always be operating when running
+14:37
+on heavy fuel oil after cleaning or overhaul of the fuel injection pumps
+14:42
+start the cleaning system before the pumps check the diesel level in the
+14:48
+cleaning system tank
+14:51
+the fuel oil injection valves should provide the injection of fuel oil to the
+14:56
+combustion chambers when operating on heavy fuel oil the nozzles have to be
+15:01
+cooled this is done by the nozzle temperature control system
+15:12
+a nozzle should not be disassembled for inspection or changed unless the single
+15:17
+cylinder exhaust temperature deviates considerably from the average by
+15:22
+atomizing we understand that no solid beam of fuel shall be present complete
+15:28
+mixing of fuel and air is of vital importance to the combustion process
+15:36
+my exhaust temperature in one cylinder may be caused by leaking valves
+15:41
+incorrect injection timing or a leaking nozzle the problem is easy identified by
+15:47
+switching to valves and observing if the problem follows the nozzle
+15:57
+the cooling medium in the nozzle temperature control system is oil
+16:10
+the nozzle coolant has to be circulated also when the engine is running on
+16:14
+diesel oil the coolant temperature must be kept within the prescribed limits to
+16:19
+low temperature may cause corrosion on the nozzles
+16:30
+you
+16:59
+clean the filter once a week by turning the handle on the filter housing
+17:11
+you
+17:14
+click on the components for further information
+17:24
+you
+17:59
+the engine has two cooling water systems one high-temperature jacket water system
+18:05
+and one low temperature system only the high temperature system will be
+18:10
+described here the high temperature system is the freshwater cooling system
+18:16
+during operation or just after the engine has been stopped most of the
+18:21
+engine will be hot touching the engine parts may cause burns in this system be
+18:27
+especially aware of the following parts cooling water pipes may become up to 90
+18:33
+degrees Celsius the operator should always be aware of the high water
+18:37
+temperature when working with parts of the cooling water system pay attention
+18:42
+to how the additives are stored the additives of the cooling water may
+18:46
+involve a health risk especially when finely concentrated the operators are
+18:51
+responsible for keeping updated with the producers warnings on the containers or
+18:56
+data sheets
+19:04
+parts of the engine to be cooled by the jacket water system are the cylinder
+19:09
+block the cylinder liners the cylinder heads and the turbocharger
+19:21
+control of cooling water quality is very important to prevent corrosion sediments
+19:26
+and surface growth of the jacket water cooling system it is important to use
+19:31
+inhibitors in the jacket water both for fresh water and for distilled water when
+19:36
+using inhibitors the service instructions have to be followed very
+19:39
+carefully with respect to the water quality supplements volume treatment and
+19:44
+storage
+19:48
+changing the high temperature cooling water system empty and flushed the
+19:54
+cooling system thoroughly before commencing treatment to remove as much
+19:58
+sludge and rust as possible if the system is exceptionally rusty it is
+20:03
+advisable to repeat this procedure after the first week or two of treatment
+20:13
+click on the red blocks to find out more
+20:23
+you
+20:32
+the jagged water cooler removes heat from the jacket water and transfers it
+20:37
+to the raw seawater system the plate heat exchanger consists of edge clamped
+20:42
+frames within which a number of plates and gaskets are compressed
+20:52
+it is of great importance to inspect the high temperature water cooler during the
+20:56
+running in period in order to gain experience of determining the correct
+21:00
+intervals for cleaning when the cooler is out of operation for a longer period
+21:05
+empty it open it and clean it
+21:16
+you
+21:34
+the jacket water pump is an engine-driven centrifugal pump type it
+21:39
+delivers water for cooling the turbocharger and the higher temperature
+21:43
+section of charged air coolers for engines equipped with two-stage Joe much
+21:47
+air cooler the roller bearings are lubricated by the main lube oil system
+21:52
+do not operate without a proper water supply this will destroy the pump
+22:00
+if observing lubricating oil or water coming through telltale holes replace
+22:07
+both sealing rings to ensure satisfactory sealing
+22:18
+you
+22:24
+the heater module consists of an electric pump and an electric element
+22:29
+the purpose of the heater module is to keep the engine temperature at
+22:33
+approximately 50 degrees Celsius while the engine is in standby mode
+22:45
+never operate without a proper water supply because that will destroy the
+22:50
+ceramic seals in the pump immediately
+22:59
+the purpose of the regulating valve is to a
+23:02
+the jacket water flow rate
+23:11
+you
+23:55
+rocker arm lubricating system click on the red blocks to find out more
+24:08
+you
+24:19
+the relief valve of the system is mounted on the filter there is a cock
+24:24
+and a handle on the filter housing there is a function of bypassing and cleaning
+24:30
+of the filter respectively the F mark on the cock corresponds with the mark on
+24:35
+the filter housing during normal operation if not the filter is not in
+24:40
+use
+24:42
+the filter element should be cleaned once a day this is done by turning the
+24:47
+handle on the filter housing a few turns clean the filter element by clicking on
+24:53
+the handle
+24:59
+a rocker arm lubricating oil pump is a tandem pump of the gear type it is
+25:05
+driven by the crankshaft gear wheel in addition to operating as a rocker arm
+25:09
+lubricating oil pump it serves as a fuel oil feed pump or a nozzle temperature
+25:15
+control oil pump
+25:21
+to prevent leakage from the pump into the engine the space between the sealing
+25:25
+ring and the pump is drained through telltale hole 1 if a leakage is observed
+25:31
+the pump has to be removed so that the location of the leakage can be
+25:35
+determined and mend it if a leakage is observed from Telltale hole to the
+25:41
+sealing ring or at least one of the pumps will have to be replaced depending
+25:45
+on which is faulty inspect the telltale hold monthly
+25:54
+the purpose of the strainer is to connect sludge and cross particles in
+25:59
+the lubricating oil preventing damage to the pump
+26:06
+unscrew the drain plug
+26:10
+pull out the strainer element and clean it
+26:14
+remove sludge in the strainer housing reinstall the strain element reinstall
+26:22
+the plug watch the lubricating oil pressure until
+26:26
+the reading is normal and the low pressure alarm is off
+26:33
+main lubricating oil system
+26:43
+Thermal hazard during operation or just after the engine has been stopped most
+26:49
+of the engine will be hot touching the engine parts may cause burns in this
+26:54
+system be especially aware of the following parts lubricating oil pipes
+26:59
+may become up to 70 degrees Celsius lubricating oil hazards there will
+27:06
+always be a certain health risk concerning handling of lubricating oil
+27:10
+inhaling fumes over prolonged time or swallowing will lead to intoxication
+27:16
+lubricating oil in eyes or on sensitive skin will cause irritation for specific
+27:23
+hazards and countermeasures applying to lubricating oil always read the
+27:27
+producers information on the containers and data sheets
+27:39
+you
+28:26
+click the buttons to find out more
+28:31
+the oil level in a running engine should always be between the maximum and
+28:36
+minimum levels on the dipstick try to keep the oil level as close to maximum
+28:41
+as possible the level in the oil sump should be measured manually every day
+28:48
+in addition to the electronically made measurements of temperatures and
+28:52
+pressures in the lubricating oil system all thermometers and manometers should
+28:57
+be checked and recorded manually once a day
+29:08
+you
+29:17
+you
+29:24
+it is a great importance to show cleanliness when changing the lube oil
+29:28
+arrange the text in the correct order
+29:37
+the priming pump is an electrically driven pump of the gear type it starts
+29:42
+upon the engine stop signal and is used to circulate oil in the system during
+29:47
+periods when the engine is not running the pump may be turned off during
+29:51
+periods of longer standstill
+29:57
+when the engine has not been operating for several days the priming pump must
+30:02
+be started at least one hour before engine startup
+30:13
+the main lubricating oil pump is a gear type pump driven by the crankshaft gear
+30:18
+wheel
+30:22
+built into the pump cover is a safety valve protecting the pump and the pump
+30:26
+drive
+30:34
+you
+30:37
+the filter may be cleaned while the engine is running to avoid interchanging
+30:42
+of internal filter parts never dismantle more than one centrifugal filter at a
+30:47
+time
+30:52
+the oil is accelerated to high speed and is then thrown against the inner walls
+30:57
+of the rotor where particles heavier than the oil will fasten to a compact
+31:01
+mass the rotor has a removable Bowl to facilitate easy cleaning or replacement
+31:06
+and is lined with a paper insert for easy cleaning the cleaned oil leaves the
+31:12
+rotor to the screen and enters the drive chamber the oil is expelled through twin
+31:17
+Jets which spin the rotor and finally leaves the filter flowing to the oil
+31:22
+sump
+31:31
+you
+31:42
+close the valve leading oil to the centrifugal filter drain the filter for
+31:48
+one hour before dismantling it slacken the safety clamp
+31:57
+unscrew the cover not
+32:04
+lift off the cover
+32:11
+allow the oil to drain from the nozzles
+32:21
+lift off the rotor assembly with extreme care to make sure that the bearings do
+32:26
+not get damaged
+32:30
+unscrew the rotor cover nut and separate the rotor cover from the body
+32:40
+remove the standpipe and clean
+32:46
+remove sludge from the inside of the rotor and clean thoroughly
+32:55
+clean nozzles with brass wire Renu Oh ring if necessary
+33:08
+you
+33:26
+plate heat exchangers dissipate excessive heat from the oil
+33:35
+it is very important to inspect the oil cooler during the running in period due
+33:40
+to lack of sufficient data of the cleaning process when out of operation
+33:45
+for a longer period the heat exchangers should be emptied opened and cleaned
+33:55
+the cleaning of the plates is important to restrict corrosion and to keep the
+34:00
+heat transfer rate at maximum level the plate heat exchanger should be inspected
+34:05
+and cleaned at regular intervals intervals are dependent of operating
+34:09
+conditions temperature difference of the oil before and after the cooler should
+34:15
+be monitored every day when monitored values diverts from reference values the
+34:20
+oil cooler should be inspected and cleaned
+34:32
+the lube oil filter is a duplex type normally both filters are operating
+34:44
+you
+34:56
+during maintenance or in case of malfunction one filter may be shut off
+35:00
+by using the cook
+35:08
+click on the button if there is high viscosity or the filters get dirty the
+35:14
+pressure drop across the filter increases the valves inside the filter
+35:18
+will open and some oil will flow directly through the strainer if this is
+35:23
+not sufficient the valve will open and send part of the oil unfiltered through
+35:27
+the filter unit
+35:33
+this position will bypass the right filter
+35:41
+both filters are operating
+35:47
+place the correct filter elements aside the unit before starting to dismantle
+35:59
+you
+36:35
+clean and dry all parts thoroughly mount new filter elements
+36:43
+check all gaskets to ensure there is no damage replace strainer cover and drain
+36:50
+plug fill the filter and ventilate the air from the filter put the cock in the
+36:57
+desired position check for leakage under normal running conditions
+37:06
+fill up the new filter slowly before switching between them the filters
+37:12
+should be inspected at least once every six months even if the alarm is not
+37:16
+triggered
+37:25
+you
+37:50
+click on the images for enlarged views
+37:58
+heavy fuel oil only
+38:06
+marine diesel oil and heavy fuel oil
+38:15
+heavy fuel oil only
+38:24
+you
+38:27
+marine diesel oil and heavy fuel oil
+38:36
+marine diesel oil and heavy fuel oil
+38:45
+you
+38:50
+the main functions of the control air module are to reduce air pressure to
+38:54
+seven bar to filter the air and remove humidity draining of condensed water
+39:00
+must be done every day check manometer air pressure seven bar
+39:14
+you
+39:25
+note the starting air shutoff valve must be opened to lead air from the bottles
+39:31
+to the main starting air valve before the engine has started
+39:42
+you
+39:53
+to provide sufficient information about operational parameters and to assure
+39:58
+that the operating staff will notice significant changes in the system it is
+40:03
+important that the values from the instruments are checked and recorded
+40:07
+every day click on the red blocks to learn more
+40:12
+start air distributor
+40:21
+you
+40:25
+supply's starting heir to the cylinders in correct order it is driven by the
+40:30
+camshaft the relief valve protects against overpressure in the system if
+40:35
+the metal membrane and the relief valve is broken the failure in the starting
+40:40
+air system has to be detected before start it is very important to place the
+40:44
+disk correctly refill the lubricating chamber with grease twice a month
+40:57
+starting air compressors should have us and capacity to keep the pressure in the
+41:03
+starting air bottles sufficiently high to start the engine fill the bottles
+41:08
+from atmospheric pressure to maximum pressure in 60 minutes
+41:16
+the charge air and exhaust system
+41:21
+during operation and just after the engine has been stopped most of the
+41:27
+engine will be hot and touching the engine parts may cause burns in the
+41:32
+system be especially aware of the following plants the turbocharger and
+41:37
+connected piping will get extremely hot the charge air receiver may reach 70
+41:42
+degrees Celsius the exhaust system will get extremely hot even though the
+41:48
+exhaust manifold is well insulated flanges especially close to the
+41:53
+turbocharger may cause severe burns
+42:02
+air is drawn through the compressor side of the turbocharger and continues to the
+42:07
+charge air cooler fitted beneath the turbocharger after the charge air cooler
+42:12
+the charge air goes through the manifold from the manifold the air is distributed
+42:17
+to each cylinder after combustion the exhaust valves open to the exhaust
+42:22
+manifold the exhaust manifold leads the exhaust flow back to the turbocharger
+42:27
+where it drives the turbine rotor thereafter it is carried through
+42:31
+possible heat exchangers and silences through the atmosphere
+42:37
+note when operating on heavy fuel oil the exhaust temperature will increase
+42:44
+somewhat due to the slower combustion of that type of feel an increase of
+42:49
+approximately 10 to 20 degrees Celsius over diesel oil operation is normal
+42:55
+important look for any leakages tighten and change seals if necessary
+43:09
+it is important that the value of these instruments are checked and recorded
+43:13
+every day according to the log sheet to ensure that the operating staff will
+43:17
+notice significant changes
+43:27
+you
+43:29
+the insulation and screen must always be in place when the engine is running
+43:33
+because the exhaust manifold is hot and contact may cause fire or burning
+43:38
+accidents
+43:44
+the exhaust gas from the engine drives the turbine which drives the compressor
+43:48
+the compressor unit sucks in and compresses the air required for the
+43:52
+engine
+44:01
+you
+44:10
+the compressor side of the turbocharger should be washed daily this should be
+44:16
+carried out at no less than 75 percent engine load remove the screw on the top
+44:22
+of the tank fill 0.4 liters of water into the water tank tighten the screw
+44:30
+actuate the valve towards the spring and hold it for about
+44:34
+10 seconds until all water has been injected
+44:46
+you
+44:50
+engines running on heavy fuel oil should have turbochargers turbine washed once a
+44:56
+week
+45:04
+you
+45:25
+run the engine on marine diesel oil during water washing open the drain cock
+45:30
+and ensure that hot exhaust is coming out of the drain pipe if not clear the
+45:35
+blockage I just charged air pressure to 0.3 bar
+45:41
+by reducing engine load run for five minutes before washing
+45:54
+you
+46:02
+connect cold water supply from ships fresh water system to water pressure
+46:07
+regulator connection
+46:17
+open water injection valves before carefully opening the water to the hose
+46:22
+check water pressure if necessary adjust 1 plus minus 0.2 bar
+46:37
+you
+46:40
+cleaning should go on for 10 minutes so that's only water vapors and some drops
+46:45
+of water will come out of the drain cock shut off water to the hose and close the
+46:51
+water injection valves disconnect the hose run the engine at same load for 5
+46:57
+minutes to dry up the turbine then shut the drain cock increase engine load to
+47:03
+normal for evaporating of condensed water
+47:14
+you
+47:18
+check the oil level once a day
+47:24
+the oil level should be inside the red circle while at standstill if the color
+47:31
+of the lube oil is turned significantly darker than it was the day before there
+47:36
+is a possibility of seriously damaging the turbocharger increased foaming and
+47:42
+the oil gauge glass is an indication that the oil should be changed remember
+47:47
+both bearings have their own oil reservoir
+48:00
+the turbocharger must not run when the oil is being changed open the drain plug
+48:06
+and the filling plug on the bearing housing cover and drain the used oil
+48:15
+thousand the drain plug fill the lubricating oil up to the upper mark on
+48:21
+the side glass
+48:25
+place a gasket on the filling plug and fasten it thoroughly remember both
+48:31
+bearings have their own oil reservoir generally we recommend synthetic
+48:36
+lubricating oil which should be changed at least once per 5000 hours
+48:49
+you
+48:51
+when refilling oil follows the same procedure as when changing oil except
+48:56
+from opening the drain plug
+49:06
+remember those bearings have their own oil reservoir
+49:17
+you
+49:28
+the main purpose of the charge air cooler is to reduce the temperature for
+49:32
+charge air pensions running on heavy fuel oil are always fitted with
+49:37
+two-stage coolers Stage one is connected into the engines jacket water circuit
+49:42
+while Stage two was cooled by seawater or low temperature fresh water the heat
+49:48
+from the jacket water is used to heat the charged air at low engine load
+49:57
+two-stage air coolers are fitted with drain channels to ensure detection of
+50:02
+leakages if there is a water leakage water will come out of the tail hole air
+50:07
+leakage can be detected by a whistling sound in case of water or air leakage
+50:12
+the end cover gasket has to be replaced if you see the water cooling system is
+50:18
+used the end cover should be disassembled at regular intervals for
+50:22
+inspection and cleaning when out of service for longer periods drain and
+50:26
+leave drain and venting cocks open if using sea water cooling flush with fresh
+50:33
+water

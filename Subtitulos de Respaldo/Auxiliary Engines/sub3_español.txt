@@ -1,0 +1,968 @@
+00:00
+Los objetivos de esta sección son familiarizar al personal operativo
+00:05
+con datos técnicos de designación del tipo de motor
+00:31
+la siguiente documentación se entrega con todos los motores Bergen manchados
+00:39
+El manual de funcionamiento describe el funcionamiento y el mantenimiento diarios de
+00:43
+el manual de servicio del motor contiene especificaciones técnicas y descripción
+00:49
+de extensos trabajos de mantenimiento varias instrucciones contiene la documentación
+00:55
+de la documentación interactiva electrónica de nuestro subcontratista
+01:03
+Todos los intervalos de mantenimiento dados son solo una guía y dependen de
+01:09
+las condiciones de funcionamiento
+01:16
+el extremo del volante del motor es donde se monta el volante el extremo opuesto
+01:21
+se llama el extremo libre o el extremo de la bomba
+01:28
+el lado de maniobra del motor es el lado longitudinal donde el control
+01:32
+El panel está instalado, este es el mismo lado donde se encuentran las bombas de inyección de fueloil.
+01:37
+ubicado el lado opuesto se llama el lado de escape
+01:46
+la designación del cilindro en Steinberg en motores comienza desde el
+01:52
+extremo de la bomba, el cilindro más cercano al extremo de la bomba será el número uno y luego el
+01:58
+el número aumentará hacia el extremo del volante
+02:04
+la dirección de rotación de todos los motores Steenburgen es por definición como
+02:09
+visto desde el extremo del volante
+02:18
+tú
+02:22
+todos los motores en línea estándar de todos los Steenburgen giran en sentido antihorario
+00:00
+El propósito principal de esta sección es brindar a todo el personal operativo una
+00:04
+comprensión de la importancia de tomar las precauciones de seguridad necesarias y
+00:07
+estar consciente de los peligros potenciales al operar los motores auxiliares
+00:31
+tú
+00:34
+Peligros Los motores diésel están diseñados para minimizar el riesgo de accidentes.
+00:39
+No obstante, los accidentes pueden ocurrir, por ejemplo, debido a la negligencia del
+00:44
+la información que se muestra en los triángulos rojos representa el nivel mínimo
+00:48
+de conocimiento sobre peligros y precauciones de seguridad operadores de motores diesel
+00:52
+debe adquirir, sin embargo, también hay algunas reglas básicas que deben tenerse en cuenta
+00:58
+nunca ignore una alarma nunca ignore las señales en el motor o las advertencias en los manuales
+01:05
+Tenga en cuenta la ubicación del equipo de seguridad en la sala de máquinas para
+01:09
+ejemplo extintores de incendios y equipos médicos
+01:19
+haga clic en los peligros de incendio se puede iniciar un incendio cuando las chispas entran en contacto
+01:25
+con materiales inflamables durante la soldadura, etc., el operador siempre debe estar atento
+01:30
+del riesgo involucrado en dicho trabajo para mantener el riesgo al mínimo siempre mantenga
+01:37
+la sala de máquinas de forma limpia y ordenada recuerde cerrar los depósitos de aceite y
+01:42
+eliminar los derrames de petróleo
+01:47
+Peligros térmicos: siempre tenga en cuenta qué partes del motor toca cuando
+01:52
+trabajando en o por el motor
+01:59
+peligros electricos
+02:07
+tú
+02:11
+una descarga eléctrica de un sistema de alto voltaje puede ser letal, pero incluso descargas
+02:16
+de sistemas de media o baja tensión pueden provocar quemaduras o pérdida del conocimiento
+02:20
+esto puede causar lesiones debido a una caída resultante o al dejar caer herramientas o
+02:25
+otro equipo
+02:29
+Riesgos de ruido El ruido generalmente se define como un sonido no deseado alrededor de la carrera.
+02:36
+motor diésel siempre habrá un cierto nivel de ruido que puede
+02:40
+molestar o, en el peor de los casos, causar daños en el oído medidas de protección necesarias
+02:45
+variará de un barco a otro operador de motor y de cualquier persona que entre
+02:50
+espacio mientras el motor está en marcha deben proteger su audición con los medios
+02:54
+disponible
+03:02
+tú
+00:00
+El propósito principal de esta sección es brindar a todo el personal operativo una
+00:05
+comprensión de las funciones más esenciales del motor cómo funcionan los sistemas
+00:11
+para garantizar que todo el personal operativo pueda localizar, reconocer y
+00:18
+identificar todos los componentes esenciales dentro de los sistemas y ejecutar el diario semanal
+00:25
+e inspecciones mensuales y rutinas de mantenimiento
+00:48
+el motor transmite señales del sistema de alarma y monitorización a través del
+00:53
+caja de conexiones estas señales se pueden observar mientras el motor está funcionando
+00:57
+facilitando así el seguimiento del funcionamiento del motor
+01:10
+tú
+01:28
+Además de estos transmisores, el motor está equipado con numerosos
+01:32
+manómetros y termómetros que deben registrarse diariamente y compararse
+01:37
+a los valores observados en el sistema de alarma y monitorización si las señales
+01:42
+monitoreados por el sistema de alarma y monitoreo están fuera del intervalo preestablecido
+01:45
+el sistema disparará una alarma
+01:55
+tú
+01:59
+transmisores y conmutadores en los motores y señales para el sistema de seguridad que
+02:04
+resultará en la parada del motor si los valores están fuera de los valores predeterminados
+02:09
+intervalo
+02:17
+tú
+02:45
+a sobrevelocidad se instalan en el motor uno mecánico y otro
+02:50
+electroneumático, el disparo mecánico por exceso de velocidad se activa mediante un
+02:55
+espera con resorte en el árbol de levas mientras el electroneumático es
+02:59
+señal eléctrica transmitida por relé tacko
+03:07
+haga clic en la parte de atrás
+03:13
+tú
+04:09
+el sistema de gobierno
+04:18
+ante una señal de arranque del sistema de control del motor auxiliar del buque
+04:23
+el aire es conducido al sistema el relé Tucker recibe la señal del
+04:27
+pastilla magnética en la tapa del volante que indica la velocidad del motor cuando
+04:32
+la velocidad supera las 300 revoluciones por minuto el relé de destino envía la señal al
+04:37
+controlador de velocidad que indica que el motor está funcionando y el aire de arranque está
+04:41
+apagar el controlador de velocidad recibe la señal de velocidad del magnético
+04:46
+recogida en la tapa del volante mientras la velocidad del motor está por debajo del funcionamiento normal
+04:50
+velocidad envía señales al actuador instalado en el extremo del volante del motor
+04:55
+Para aumentar la velocidad del motor, el actuador transforma las señales eléctricas en
+04:59
+movimiento mecánico y a través de brazos y eslabones cambia la admisión de la
+05:04
+bomba de inyección de aceite combustible en sistemas de motores múltiples cuando el motor alcanza el nivel normal
+05:10
+velocidad de funcionamiento los sincronizadores comienzan a comparar las fases de frecuencia y el voltaje
+05:14
+en el lado de la red con los valores correspondientes en el lado del generador cuando
+05:19
+son iguales, el sincronizador cierra el disyuntor del generador de circuito y el
+05:23
+El grupo electrógeno está conectado al bus, el sincronizador se conecta automáticamente
+05:27
+apagado después
+05:38
+el sistema de gobierno
+05:44
+cuando la rotura del generador de circuito está cerrada, el controlador de velocidad recibe un
+05:49
+señal que indica la carga del motor de los sensores en el tablero y
+05:53
+la señal que muestra la carga de los motores auxiliares en el buque si el
+05:58
+La carga del motor difiere de la carga deseada en comparación con la otra
+06:02
+motores el controlador de velocidad cambia la seal al actuador para cambiar el
+06:07
+admisión en el motor cuando un cambio en la carga y el bus principal ocurre el
+06:12
+generador se verá obligado a aumentar su salida ya que la velocidad del motor es
+06:16
+constante determinada por la frecuencia en el bus principal la carga aumentada del
+06:21
+El generador da como resultado un aumento automático de la potencia de salida del motor.
+06:26
+aumentando la admisión al sistema de gobierno
+06:34
+haga clic en el cuadro rojo para obtener más información
+06:42
+el actuador electrohidráulico está montado en el lado del volante del motor
+06:47
+el actuador recibe señales eléctricas del controlador de velocidad que
+06:51
+se transforma en movimiento mecánico a través de brazos y vincula el actuador
+06:56
+altera la admisión a las bombas de inyección de combustible regulando así la
+06:59
+salida del motor los enlaces y brazos que van desde el actuador a cada
+07:04
+de las bombas de inyeccin de fueloil debe funcionar siempre sin problemas.
+07:09
+revisado todos los días y grasa añadida y mantenimiento de juntas y acoplamientos viejos
+07:14
+cuando sea necesario
+07:23
+fuego siempre habrá un cierto peligro de
+07:28
+fuego al hacer funcionar un motor diesel una combinación de fuga de aceite combustible y caliente
+07:33
+Las piezas del motor pueden iniciar un incendio que puede ser muy dañino para el motor y en
+07:38
+algunos casos peligrosos para la tripulación del motor fugas en la parte de alta presión de
+07:43
+el sistema de combustible puede crear situaciones en las que la probabilidad de un incendio
+07:46
+aumenta es de suma importancia llevar a cabo la inspección de estas piezas y
+07:52
+tomar medidas preventivas contra esto de forma regular Riesgos térmicos
+07:58
+Las tuberías de combustible pueden estar muy calientes y no deben tocarse aunque
+08:03
+están aisladas, tenga cuidado con las tuberías de aceite combustible que salen del alimentador de aceite combustible pesado
+08:08
+El módulo de refuerzo al motor se puede rastrear con vapor al realizar el mantenimiento.
+08:12
+en el sistema de fuel oil recuerde que el fuel oil pesado está muy caliente.
+08:18
+inflamables y deben tratarse con cuidado, también pueden irritar la piel, por lo que
+08:23
+Enjuague el aceite combustible lo antes posible.Tenga en cuenta de no usar ropa que esté
+08:29
+empapado en aceite
+08:35
+todos los motores Al Steinberg en Maine y auxiliares pueden funcionar con combustible pesado
+08:41
+aceite bajo ciertas condiciones que incluyen fuel oil pesado y lubricantes
+08:45
+calidad del aceite y qué equipo se necesita
+08:56
+tú
+09:24
+se instala una válvula indicadora de seguridad fuera de la culata mediante
+09:29
+esta válvula la presión máxima en cada cilindro debe medirse una vez al mes
+09:33
+la medición debe realizarse con el 100% de carga en el motor registrar el máximo
+09:40
+presiones de combustión y temperaturas de escape encuentran las causas y rectifican si
+09:46
+La presión de combustión en un cilindro difiere en más de tres bar de la
+09:50
+promedio máximo a plena carga cambio anormal en la temperatura de escape de uno
+09:55
+el cilindro está indicado
+10:03
+el módulo de refuerzo del alimentador alimenta aceite combustible pesado a los motores un módulo
+10:08
+Consiste en un equipo que asegura que el fuel oil se filtra correctamente y que
+10:12
+Tendrá la temperatura y la viscosidad correctas al entrar en el motor.
+10:17
+El módulo de alimentación del alimentador consta de los siguientes componentes principales para succión.
+10:22
+filtros a bombas de alimentación de las cuales una es una tubería de mezcla de bomba de reserva /
+10:30
+recipiente de desaireación a bombas de refuerzo de las cuales una es una bomba de reserva para alimentar
+10:38
+calentadores filtro automático con control de viscosidad del filtro de derivación manual independiente
+10:45
+inspección y mantenimiento del filtro fino dúplex del sistema
+10:59
+tú
+11:03
+la válvula de cambio está equipada con un interruptor para combustible pesado o gasoil
+11:08
+funcionamiento una luz indica que el motor está funcionando con gasóleo marino
+11:13
+o fuel oil pesado en un sistema de fuel oil desconectado puede circular a través
+11:18
+la válvula y por lo tanto se mantiene caliente a la temperatura correcta
+11:29
+tú
+11:54
+además de registrar la presión del aceite combustible después del filtro, el filtro
+11:59
+los elementos deben comprobarse al menos una vez al mes con qué frecuencia deben ser
+12:04
+reemplazado depende de la calidad del aceite combustible
+12:08
+asegúrese de que el filtro que se va a desmontar no esté en funcionamiento
+12:14
+Comprobación de la posición conk abrir el tapón de ventilación vaciar la carcasa del filtro de diesel
+12:20
+aceite desenroscando el tapón esto no es necesario para comprobar el elemento
+12:25
+desenroscar las tuercas que quitan la tapa quitar el elemento filtrante del
+12:31
+vivienda y comprobar el elemento
+12:35
+Lave todos los sedimentos de aceite en la carcasa del filtro.
+12:41
+aire comprimido
+12:45
+colocar el texto en la secuencia correcta
+12:55
+tú
+13:05
+Las bombas de inyección de fueloil inyectan la cantidad correcta de combustible en el
+13:10
+cámara de combustión por unos tubos cortos de alta presión y las válvulas de inyección
+13:14
+Las bombas son accionadas por el árbol de levas a través de las varillas de empuje y reguladas por el
+13:19
+regulador a través de los brazos articulados, todos los motores que funcionan con fueloil pesado están equipados
+13:25
+con sistema de limpieza para las bombas de inyección de combustible
+13:32
+Es de gran importancia revisar semanalmente las palancas de control y la cera de la bomba de combustible.
+13:37
+para pegar los tallos de apriete para tuercas y tuberías de combustible de alta presión deben ser
+13:43
+dentro de la tolerancia, dado que se aprieta demasiado, se puede reducir el flujo de
+13:48
+combustible a los cilindros debido al estrechamiento de los tubos todos los motores en marcha
+13:53
+fuel oil pesado están equipados con un sistema de limpieza para la inyección de combustible
+13:57
+bombas para evitar que la varilla de control y el manguito se ensucien y
+14:02
+pegajoso
+14:07
+El propósito del sistema es evitar que la barra de control y el manguito se
+14:12
+sucio y pegajoso, el sistema utiliza aceite diesel marino de un tanque separado para
+14:18
+La limpieza de la bomba se opera neumáticamente y necesita un suministro de aire de control.
+14:25
+la presión de trabajo es de 3,0 bar
+14:32
+El sistema de limpieza de la bomba de inyección de combustible debe estar siempre en funcionamiento cuando esté funcionando.
+14:37
+en fuel oil pesado después de la limpieza o revisión de las bombas de inyección de combustible
+14:42
+Inicie el sistema de limpieza antes de que las bombas comprueben el nivel de diesel en el
+14:48
+tanque del sistema de limpieza
+14:51
+Las válvulas de inyección de fueloil deben proporcionar la inyección de fueloil al
+14:56
+cámaras de combustión cuando se opera con fueloil pesado, las boquillas deben
+15:01
+enfriado esto se realiza mediante el sistema de control de temperatura de la boquilla
+15:12
+una boquilla no debe desmontarse para su inspección o cambiarse a menos que la única
+15:17
+La temperatura de escape del cilindro se desvía considerablemente de la media en
+15:22
+atomizando entendemos que ningún haz sólido de combustible estará presente completo
+15:28
+La mezcla de combustible y aire es de vital importancia para el proceso de combustión.
+15:36
+mi temperatura de escape en un cilindro puede ser causada por válvulas con fugas
+15:41
+sincronización de inyección incorrecta o una boquilla con fugas, el problema se identifica fácilmente mediante
+15:47
+cambiar a válvulas y observar si el problema sigue a la boquilla
+15:57
+el medio de enfriamiento en el sistema de control de temperatura de la boquilla es aceite
+16:10
+El refrigerante de la tobera debe circular también cuando el motor está funcionando
+16:14
+aceite diesel la temperatura del refrigerante debe mantenerse dentro de los límites prescritos para
+16:19
+la baja temperatura puede causar corrosión en las boquillas
+16:30
+tú
+16:59
+limpie el filtro una vez a la semana girando la manija en la carcasa del filtro
+17:11
+tú
+17:14
+haga clic en los componentes para obtener más información
+17:24
+tú
+17:59
+el motor tiene dos sistemas de agua de refrigeración un sistema de agua de camisa de alta temperatura
+18:05
+y un sistema de baja temperatura, solo el sistema de alta temperatura será
+18:10
+descrito aquí el sistema de alta temperatura es el sistema de enfriamiento de agua dulce
+18:16
+durante el funcionamiento o justo después de que el motor se haya detenido
+18:21
+El motor estará caliente al tocar las partes del motor se pueden producir quemaduras en este sistema.
+18:27
+especialmente consciente de las siguientes partes, las tuberías de agua de refrigeración pueden llegar a
+18:33
+grados Celsius, el operador siempre debe estar atento a la
+18:37
+temperatura cuando trabaje con partes del sistema de agua de refrigeración, preste atención
+18:42
+a cómo se almacenan los aditivos, los aditivos del agua de refrigeración pueden
+18:46
+implican un riesgo para la salud, especialmente cuando están finamente concentrados
+18:51
+responsable de mantenerse actualizado con las advertencias de los productores en los envases o
+18:56
+hojas de datos
+19:04
+Las partes del motor que deben ser enfriadas por el sistema de agua de la camisa son el cilindro.
+19:09
+Bloquear las camisas de los cilindros las culatas y el turbocompresor
+19:21
+El control de la calidad del agua de refrigeración es muy importante para evitar la corrosión de los sedimentos.
+19:26
+y el crecimiento de la superficie del sistema de refrigeración por agua de la camisa es importante utilizar
+19:31
+inhibidores en el agua de la camisa tanto para agua dulce como para agua destilada cuando
+19:36
+utilizando inhibidores, las instrucciones de servicio deben seguirse muy
+19:39
+cuidadosamente con respecto a la calidad del agua, complementos, tratamiento de volumen y
+19:44
+almacenamiento
+19:48
+cambiar el sistema de agua de refrigeración de alta temperatura, vaciar y lavar el
+19:54
+sistema de enfriamiento completamente antes de comenzar el tratamiento para eliminar tanto
+19:58
+lodo y óxido como sea posible si el sistema está excepcionalmente oxidado es
+20:03
+aconsejable repetir este procedimiento después de la primera o segunda semana de tratamiento
+20:13
+haga clic en los bloques rojos para obtener más información
+20:23
+tú
+20:32
+el enfriador de agua dentado elimina el calor del agua de la camisa y lo transfiere
+20:37
+al sistema de agua de mar bruta, el intercambiador de calor de placas consta de un borde
+20:42
+marcos dentro de los cuales se comprimen varias placas y juntas
+20:52
+Es de gran importancia inspeccionar el enfriador de agua de alta temperatura durante el
+20:56
+funcionando en el período para ganar experiencia en la determinación de la
+21:00
+intervalos de limpieza cuando el enfriador está fuera de funcionamiento durante un período más largo
+21:05
+vaciarlo abrirlo y limpiarlo
+21:16
+tú
+21:34
+la bomba de agua de la camisa es una bomba centrífuga impulsada por motor del tipo
+21:39
+entrega agua para enfriar el turbocompresor y la temperatura más alta
+21:43
+sección de enfriadores de aire cargado para motores equipados con Joe much de dos etapas
+21:47
+enfriador de aire los rodamientos de rodillos son lubricados por el sistema de aceite lubricante principal
+21:52
+no opere sin un suministro de agua adecuado, esto destruirá la bomba
+22:00
+si observa aceite lubricante o agua que entra por los orificios de los indicadores, reemplace
+22:07
+Ambos anillos de sellado para garantizar un sellado satisfactorio
+22:18
+tú
+22:24
+el módulo calefactor consta de una bomba eléctrica y un elemento eléctrico
+22:29
+El propósito del módulo calefactor es mantener la temperatura del motor en
+22:33
+aproximadamente 50 grados Celsius mientras el motor está en modo de espera
+22:45
+Nunca opere sin un suministro de agua adecuado porque eso destruirá el
+22:50
+sellos de cerámica en la bomba inmediatamente
+22:59
+El propósito de la válvula reguladora es
+23:02
+el caudal de agua de la camisa
+23:11
+tú
+23:55
+sistema de lubricación del balancín haga clic en los bloques rojos para obtener más información
+24:08
+tú
+24:19
+la válvula de alivio del sistema está montada en el filtro hay una llave
+24:24
+y un asa en la carcasa del filtro hay una función de derivación y limpieza
+24:30
+del filtro respectivamente la marca F en el grifo corresponde con la marca en
+24:35
+la carcasa del filtro durante el funcionamiento normal si no el filtro no está en
+24:40
+utilizar
+24:42
+El elemento filtrante debe limpiarse una vez al día, esto se hace girando el
+24:47
+manejar en la carcasa del filtro unas cuantas vueltas limpiar el elemento filtrante haciendo clic en
+24:53
+la manija
+24:59
+una bomba de aceite lubricante de balancines es una bomba en tándem del tipo de engranaje que es
+25:05
+accionado por la rueda dentada del cigüeñal además de funcionar como balancín
+25:09
+bomba de aceite lubricante sirve como bomba de alimentación de aceite combustible o como temperatura de la boquilla
+25:15
+bomba de aceite de control
+25:21
+Para evitar fugas de la bomba al motor, el espacio entre el sello
+25:25
+anillo y la bomba se drena a través del orificio indicador 1 si se observa una fuga
+25:31
+La bomba debe retirarse para que la ubicación de la fuga pueda ser
+25:35
+determinado y repararlo si se observa una fuga desde el orificio delator al
+25:41
+anillo de estanqueidad o al menos una de las bombas tendrá que ser reemplazada dependiendo
+25:45
+si está defectuoso, inspeccione el indicador mantener mensualmente
+25:54
+El propósito del filtro es conectar el lodo y las partículas cruzadas en
+25:59
+el aceite lubricante que evita daños en la bomba
+26:06
+desenroscar el tapón de drenaje
+26:10
+saque el filtro y límpielo
+26:14
+Retire el lodo en la carcasa del filtro vuelva a instalar el elemento de tensión vuelva a instalar
+26:22
+el tapón observe la presión del aceite lubricante hasta
+26:26
+la lectura es normal y la alarma de baja presión está apagada
+26:33
+sistema principal de aceite lubricante
+26:43
+Peligro térmico durante el funcionamiento o justo después de que el motor se haya parado
+26:49
+del motor estará caliente tocar las partes del motor puede causar quemaduras en este
+26:54
+tenga en cuenta especialmente las siguientes piezas que lubrican las tuberías de aceite
+26:59
+puede llegar a 70 grados Celsius peligros del aceite lubricante habrá
+27:06
+siempre hay un cierto riesgo para la salud en relación con la manipulación de aceite lubricante
+27:10
+La inhalación de vapores durante un tiempo prolongado o la ingestión provocarán intoxicación.
+27:16
+El aceite lubricante en los ojos o en la piel sensible causará irritación para
+27:23
+peligros y contramedidas aplicables al aceite lubricante, lea siempre las
+27:27
+información de los productores en los envases y fichas técnicas
+27:39
+tú
+28:26
+haga clic en los botones para obtener más información
+28:31
+el nivel de aceite en un motor en marcha debe estar siempre entre el máximo y
+28:36
+Niveles mínimos en la varilla de nivel trate de mantener el nivel de aceite lo más cercano al máximo.
+28:41
+como sea posible, el nivel en el cárter de aceite debe medirse manualmente todos los días
+28:48
+además de las mediciones electrónicas de temperaturas y
+28:52
+presiones en el sistema de aceite lubricante Todos los termómetros y manómetros deben
+28:57
+ser revisado y registrado manualmente una vez al día
+29:08
+tú
+29:17
+tú
+29:24
+Es de gran importancia mostrar limpieza al cambiar el aceite lubricante.
+29:28
+organizar el texto en el orden correcto
+29:37
+la bomba de cebado es una bomba accionada eléctricamente del tipo de engranajes que arranca
+29:42
+sobre la señal de parada del motor y se utiliza para hacer circular aceite en el sistema durante
+29:47
+períodos en los que el motor no está funcionando, la bomba puede apagarse durante
+29:51
+períodos de inactividad más largos
+29:57
+cuando el motor no ha estado funcionando durante varios días, la bomba de cebado debe
+30:02
+arrancar al menos una hora antes del arranque del motor
+30:13
+la bomba principal de aceite lubricante es una bomba de engranajes accionada por el engranaje del cigüeñal
+30:18
+rueda
+30:22
+incorporada en la tapa de la bomba hay una válvula de seguridad que protege la bomba y la bomba
+30:26
+manejar
+30:34
+tú
+30:37
+el filtro se puede limpiar mientras el motor está en marcha para evitar intercambiar
+30:42
+de las piezas del filtro interno nunca desmonte más de un filtro centrífugo en un
+30:47
+hora
+30:52
+el aceite se acelera a alta velocidad y luego se arroja contra las paredes internas
+30:57
+del rotor donde las partículas más pesadas que el aceite se adhieren a un compacto
+31:01
+masa el rotor tiene un cuenco extraíble para facilitar la limpieza o el reemplazo
+31:06
+y está forrado con un inserto de papel para facilitar la limpieza, el aceite limpio sale del
+31:12
+rotor a la pantalla y entra en la cámara de accionamiento, el aceite se expulsa a través de gemelos
+31:17
+Chorros que hacen girar el rotor y finalmente dejan el filtro fluyendo hacia el aceite.
+31:22
+sumidero
+31:31
+tú
+31:42
+cierre la válvula que conduce el aceite al filtro centrífugo drene el filtro por
+31:48
+una hora antes de desmontarlo aflojar la abrazadera de seguridad
+31:57
+unscrew the cover not
+32:04
+levanta la tapa
+32:11
+deje que el aceite se drene de las boquillas
+32:21
+Levante el conjunto del rotor con sumo cuidado para asegurarse de que los cojinetes
+32:26
+no se dañe
+32:30
+Desatornille la tuerca de la tapa del rotor y separe la tapa del rotor del cuerpo.
+32:40
+Retire el tubo vertical y limpie
+32:46
+eliminar los lodos del interior del rotor y limpiar a fondo
+32:55
+limpiar las boquillas con alambre de latón anillo Renu Oh si es necesario
+33:08
+you
+33:26
+plate heat exchangers dissipate excessive heat from the oil
+33:35
+Es muy importante inspeccionar el enfriador de aceite durante el período de funcionamiento debido
+33:40
+a falta de datos suficientes del proceso de limpieza cuando está fuera de servicio
+33:45
+durante un período más largo, los intercambiadores de calor deben vaciarse, abrirse y limpiarse
+33:55
+La limpieza de las placas es importante para restringir la corrosión y mantener la
+34:00
+tasa de transferencia de calor al nivel máximo, se debe inspeccionar el intercambiador de calor de placas
+34:05
+y se limpian a intervalos regulares dependen del funcionamiento
+34:09
+condiciones diferencia de temperatura del aceite antes y después del enfriador debe
+34:15
+ser monitoreados todos los días cuando los valores monitoreados se desvíen de los valores de referencia
+34:20
+El enfriador de aceite debe inspeccionarse y limpiarse.
+34:32
+el filtro de aceite lubricante es de tipo dúplex normalmente ambos filtros están funcionando
+34:44
+tú
+34:56
+durante el mantenimiento o en caso de mal funcionamiento, un filtro puede apagarse
+35:00
+by using the cook
+35:08
+haga clic en el botón si hay alta viscosidad o los filtros se ensucian
+35:14
+la caída de presión a través del filtro aumenta las válvulas dentro del filtro
+35:18
+se abrirá y algo de aceite fluirá directamente a través del colador si este
+35:23
+Si no es suficiente, la válvula se abrirá y enviará parte del aceite sin filtrar a través
+35:27
+la unidad de filtro
+35:33
+esta posición evitará el filtro derecho
+35:41
+ambos filtros están funcionando
+35:47
+Coloque los elementos filtrantes correctos a un lado de la unidad antes de comenzar a desmontar
+35:59
+tú
+36:35
+clean and dry all parts thoroughly mount new filter elements
+36:43
+Revise todas las juntas para asegurarse de que no haya daños reemplace la tapa del filtro y drene
+36:50
+plug fill the filter and ventilate the air from the filter put the cock in the
+36:57
+posición deseada comprobar si hay fugas en condiciones normales de funcionamiento
+37:06
+llene el nuevo filtro lentamente antes de cambiar entre ellos los filtros
+37:12
+debe inspeccionarse al menos una vez cada seis meses, incluso si la alarma no está
+37:16
+desencadenado
+37:25
+tú
+37:50
+haga clic en las imágenes para ampliarlas
+37:58
+solo fueloil pesado
+38:06
+marine diesel oil and heavy fuel oil
+38:15
+solo fueloil pesado
+38:24
+tú
+38:27
+gasóleo marino y fuelóleo pesado
+38:36
+gasóleo marino y fuelóleo pesado
+38:45
+tú
+38:50
+Las funciones principales del módulo de aire de control son reducir la presión del aire a
+38:54
+siete bar para filtrar el aire y eliminar la humedad que drena el agua condensada
+39:00
+debe hacerse todos los días comprobar la presión del aire del manómetro siete bar
+39:14
+tú
+39:25
+tenga en cuenta que la válvula de cierre del aire de arranque debe abrirse para sacar el aire de las botellas
+39:31
+a la válvula de aire de arranque principal antes de que arranque el motor
+39:42
+tú
+39:53
+proporcionar información suficiente sobre los parámetros operativos y asegurar
+39:58
+que el personal operativo notará cambios significativos en el sistema que está
+40:03
+importante que los valores de los instrumentos se comprueben y registren
+40:07
+todos los días haga clic en los bloques rojos para obtener más información
+40:12
+arranque distribuidor de aire
+40:21
+tú
+40:25
+suministro es el heredero inicial de los cilindros en el orden correcto es impulsado por el
+40:30
+rbol de levas la vlvula de alivio protege contra sobrepresin en el sistema si
+40:35
+la membrana metálica y la válvula de alivio están rotas la falla en el arranque
+40:40
+El sistema de aire debe ser detectado antes de comenzar, es muy importante colocar el
+40:44
+disco rellenar correctamente la cámara de lubricación con grasa dos veces al mes
+40:57
+Los compresores de aire de arranque deben tener capacidad para mantener la presión en el
+41:03
+botellas de aire de arranque lo suficientemente altas para arrancar el motor llenar las botellas
+41:08
+de la presión atmosférica a la presión máxima en 60 minutos
+41:16
+el aire de carga y el sistema de escape
+41:21
+durante el funcionamiento y justo después de que el motor se ha detenido
+41:27
+El motor estará caliente y tocar las partes del motor puede causar quemaduras en el
+41:32
+sistema sea especialmente consciente de las siguientes plantas: el turbocompresor y
+41:37
+las tuberías conectadas se calentarán mucho el depósito de aire de carga puede alcanzar 70
+41:42
+grados Celsius, el sistema de escape se calentará extremadamente aunque el
+41:48
+El colector de escape tiene bridas bien aisladas, especialmente cerca de la
+41:53
+el turbocompresor puede provocar quemaduras graves
+42:02
+El aire se aspira a través del lado del compresor del turbocompresor y continúa
+42:07
+enfriador de aire de carga instalado debajo del turbocompresor después del enfriador de aire de carga
+42:12
+el aire de carga pasa por el colector desde el colector el aire se distribuye
+42:17
+a cada cilindro después de la combustión las válvulas de escape se abren al escape
+42:22
+manifold the exhaust manifold leads the exhaust flow back to the turbocharger
+42:27
+donde impulsa el rotor de la turbina a partir de entonces se lleva a través
+42:31
+posibles intercambiadores de calor y silencios a través de la atmósfera
+42:37
+Tenga en cuenta que cuando se opera con fuel oil pesado, la temperatura de escape aumentará
+42:44
+algo debido a la combustión más lenta de ese tipo de sensación un aumento de
+42:49
+Aproximadamente de 10 a 20 grados Celsius sobre el funcionamiento del aceite diesel es normal
+42:55
+importante buscar fugas, apretar y cambiar los sellos si es necesario
+43:09
+es importante que el valor de estos instrumentos sea verificado y registrado
+43:13
+todos los días de acuerdo con la hoja de registro para garantizar que el personal operativo
+43:17
+notar cambios significativos
+43:27
+tú
+43:29
+el aislamiento y la pantalla deben estar siempre en su lugar cuando el motor está en marcha
+43:33
+porque el colector de escape está caliente y el contacto puede causar fuego o quemaduras
+43:38
+accidentes
+43:44
+the exhaust gas from the engine drives the turbine which drives the compressor
+43:48
+el compresor aspira y comprime el aire necesario para la
+43:52
+motor
+44:01
+you
+44:10
+el lado del compresor del turbocompresor debe lavarse diariamente, esto debe ser
+44:16
+llevado a cabo a no menos del 75 por ciento de la carga del motor quitar el tornillo en la parte superior
+44:22
+del depósito llene 0,4 litros de agua en el depósito de agua apriete el tornillo
+44:30
+accionar la válvula hacia el resorte y mantenerla
+44:34
+10 segundos hasta que se haya inyectado toda el agua
+44:46
+tú
+44:50
+Los motores que funcionan con fuel oil pesado deben tener turbinas de turbocompresores lavados una vez
+44:56
+semana
+45:04
+tú
+45:25
+run the engine on marine diesel oil during water washing open the drain cock
+45:30
+and ensure that hot exhaust is coming out of the drain pipe if not clear the
+45:35
+blockage I just charged air pressure to 0.3 bar
+45:41
+reduciendo la carga del motor, haga funcionar durante cinco minutos antes del lavado
+45:54
+tú
+46:02
+conectar el suministro de agua fría del sistema de agua dulce del barco a la presión del agua
+46:07
+conexión del regulador
+46:17
+Abra las válvulas de inyección de agua antes de abrir con cuidado el agua a la manguera.
+46:22
+comprobar la presión del agua si es necesario ajustar 1 más menos 0,2 bar
+46:37
+you
+46:40
+la limpieza debe durar 10 minutos, por lo que solo son vapores de agua y algunas gotas
+46:45
+saldrá agua por el grifo de drenaje, cierre el agua de la manguera y cierre el
+46:51
+válvulas de inyección de agua desconectar la manguera hacer funcionar el motor a la misma carga durante 5
+46:57
+minutos para secar la turbina y luego cerrar la llave de drenaje aumentar la carga del motor a
+47:03
+normal para la evaporación de agua condensada
+47:14
+tú
+47:18
+comprobar el nivel de aceite una vez al día
+47:24
+el nivel de aceite debe estar dentro del círculo rojo mientras está parado si el color
+47:31
+del aceite lubricante se vuelve significativamente más oscuro que el día anterior
+47:36
+Existe la posibilidad de dañar seriamente el turbocompresor aumento de la formación de espuma y
+47:42
+el indicador de aceite es una indicación de que se debe cambiar el aceite, recuerde
+47:47
+ambos rodamientos tienen su propio depósito de aceite
+48:00
+el turbocompresor no debe funcionar cuando se cambia el aceite abrir el tapón de drenaje
+48:06
+y el tapón de llenado en la tapa de la caja del cojinete y drene el aceite usado
+48:15
+thousand the drain plug fill the lubricating oil up to the upper mark on
+48:21
+el vidrio lateral
+48:25
+Coloque una junta en el tapón de llenado y fíjela bien recuerde tanto
+48:31
+los rodamientos tienen su propio depósito de aceite, generalmente recomendamos los
+48:36
+lubricating oil which should be changed at least once per 5000 hours
+48:49
+you
+48:51
+al rellenar aceite se sigue el mismo procedimiento que al cambiar aceite, excepto
+48:56
+de abrir el tapón de drenaje
+49:06
+recuerde que esos rodamientos tienen su propio depósito de aceite
+49:17
+tú
+49:28
+El propósito principal del enfriador de aire de carga es reducir la temperatura para
+49:32
+Las pensiones de aire de carga que funcionan con fuelóleo pesado siempre están equipadas con
+49:37
+enfriadores de dos etapas La etapa uno está conectada al circuito de agua de la camisa del motor
+49:42
+mientras que la segunda etapa se enfrió con agua de mar o agua dulce a baja temperatura, el calor
+49:48
+del agua de la camisa se utiliza para calentar el aire cargado a baja carga del motor
+49:57
+Los enfriadores de aire de dos etapas están equipados con canales de drenaje para garantizar la detección de
+50:02
+fugas si hay una fuga de agua saldrá agua por el aire del orificio de cola
+50:07
+las fugas pueden detectarse mediante un silbido en caso de fugas de agua o aire
+50:12
+La junta de la tapa del extremo debe reemplazarse si ve que el sistema de enfriamiento de agua está
+50:18
+utilizado, la tapa del extremo debe desmontarse a intervalos regulares para
+50:22
+inspección y limpieza cuando está fuera de servicio por períodos más largos drenaje y
+50:26
+Deje abiertos los grifos de drenaje y ventilación si utiliza refrigeración por agua de mar.
+50:33
+agua

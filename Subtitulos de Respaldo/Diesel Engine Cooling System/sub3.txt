@@ -1,0 +1,826 @@
+00:00
+After completing this chapter the learner will know the main components of
+00:04
+a diesel engine cooling water system know the function of each of the
+00:08
+components in a diesel engine cooling water system know the basic control
+00:12
+alarm and safety functions of a diesel engine cooling system
+00:36
+the illustration shows the main components of a typical basic jacket
+00:41
+water cooling system we will look at each of the components and identify the
+00:45
+roles they have within the system we will also look at some of the different
+00:49
+types that are commonly used you can compare them with the systems on board
+00:53
+your current vessel most of the cooling water systems that you will come across
+00:58
+will use some form of electrically driven centrifugal pump as the main flow
+01:02
+generator for the coolant for many smaller engines the circulating pump
+01:06
+will be engine driven these pumps which are a type of rotor dynamic pump use a
+01:11
+rotating impeller to give the fluid kinetic energy by accelerating the fluid
+01:16
+from the center of the impeller the eye towards the outer edge this kinetic
+01:20
+energy is converted into static pressure either by using a volute casing or a
+01:25
+veined diffuser ring and it is this increased pressure which gives the
+01:30
+system flow many pump designs use a combination of volute casing a diffuser
+01:35
+to increase the available pressure the system pressure is dictated by the
+01:40
+discharge head or the height that the pump has to deliver to as a general
+01:44
+guide pumps with large diameter shallow impellers are used where high pressures
+01:49
+are required and volume is unimportant while those with smaller diameter deep
+01:54
+impalas are used where volume is the main concern multistage types using two
+02:01
+or more impellers in series can be used where higher pressures are required you
+02:05
+will probably find that most of the centrifugal pumps used in the cooling
+02:09
+systems on board your vessel are of the single stage type using a combination of
+02:14
+diffuser ring and volute casing the impellers will be of moderate diameter
+02:19
+and depth this will give adequate pressure and sufficient flow for most
+02:23
+systems you should click on the buttons to see how the volute casing and
+02:27
+diffuser ring work as the fluid enters the center of the impeller the
+02:32
+centrifugal action causes it to move upwards along the impeller vanes
+02:36
+accelerating it as it goes the vanes are shaped to assist in driving the fluid
+02:42
+around and outward while increasing the speed the natural centrifugal action
+02:47
+adds to the outward radial movement as the fluid leaves the impeller edge it is
+02:52
+gathered in the volute of the casing as you can see the volute casing is shaped
+02:57
+to have an increasing cross-section as you move along it towards the pump
+03:01
+outlet this causes the fluid speed to decrease and the kinetic energy is
+03:06
+converted into static pressure as the fluid enters the center of the impeller
+03:11
+the centrifugal action causes it to move upwards along the impeller vanes
+03:16
+accelerating it as it goes the vanes are shaped to assist in driving the fluid
+03:21
+around and outwards while increasing the speed for natural centrifugal action
+03:26
+adds to the output radial movement as the fluid leaves the impeller edge it
+03:31
+enters the channels between the diffuser ring vanes
+03:34
+as you can see the diffuser vanes are shaped to have an increasing
+03:38
+cross-section as you move to the outer end this causes the fluid speed to
+03:42
+decrease and the kinetic energy is converted into static pressure some
+03:47
+centrifugal pump designs have both the diffuser ring and the volute casing in
+03:52
+the same unit the operating principle is similar to that already described but
+03:56
+higher pressures can be obtained in this arrangement heat exchanges as the name
+04:02
+suggests are devices designed to allow transfer of heat from one substance to
+04:06
+another for the cooling systems that we are concerned with this transfer is
+04:11
+normally from the primary to secondary cooling fluids although there are many
+04:15
+types of heat exchanger they are generally designed in such a way that a
+04:19
+barrier is formed to separate the two fluids heat is transferred from the hot
+04:23
+fluid to the cold fluid by conduction through the barrier mainly by a
+04:28
+combination of conduction and convection to the cold fluid where air is one of
+04:32
+the fluids convection and radiation are the main transfer their mechanisms heat
+04:37
+transfer rates depend on the fluids properties the temperature differentials
+04:41
+the barrier materials and the type of flow the heat transfer rate can be
+04:46
+affected by fouling of the fluid contact surfaces and changes to the fluid flow
+04:51
+heat exchangers can be arranged for parallel flow both fluids traveling in
+04:56
+the same direction counter flow fluids travel in opposite direction
+05:01
+or cross flow fluids flowing at right-angles they can also be arranged
+05:06
+for different flow paths or pulses single paths is where the fluids enter
+05:11
+at one end to side and flow to the other end or side to exit double paths is
+05:18
+where the fluids exit at the same end as they enter having passed up and down the
+05:22
+length of the heat exchanger it is also possible to have other multi pass
+05:27
+Arrangements the number of pulses is usually achieved by varying the design
+05:31
+of the end covers plate heat exchangers are now commonly used assist in coolers
+05:37
+and heaters in a wide variety of marine applications they can be easily adapted
+05:42
+for different duties and sizes large heat transfer areas can be achieved with
+05:47
+a relatively compact unit plate heat exchangers consist of a number of thin
+05:52
+stamped plates supported on a beam frame and clamped between two heavy end plates
+05:57
+one of the end plates is fixed to the frame and the other the compression
+06:02
+plate can slide along the frame Tybalt's pulsing through the two end plates are
+06:07
+used to clamp the assembly together one of the heavy end mates is solid while
+06:12
+the other is provided with full ports protected against erosion damage with
+06:16
+rubber inserts for the inlet and outlet of the two fluids the stamped plates are
+06:21
+formed with corrugations that provide flow paths for the fluids on opposite
+06:25
+sides of the plates and for holes to match the end plate ports the plates are
+06:31
+separated and sealed from each other by preformed gaskets in such a way that a
+06:35
+fluid space is formed between adjacent plates each fluid is admitted to
+06:40
+alternate spaces in the plate stack so that each plate has one fluid on one
+06:45
+side and the other fluid on the other side the material used for the plates is
+06:49
+often stainless steel or titanium which means that the plates are strong and
+06:54
+resistant to corrosion and erosion while being thin enough to give good heat
+06:58
+transfer characteristics you will find many designs of shell and tube type heat
+07:03
+exchangers on the ships that you sail on they are used as heaters or coolers in
+07:07
+the various systems on board prior to the introduction of plate types these
+07:12
+for the main form of heat changer used in the marine and general
+07:16
+engineering applications essentially this type of heat exchanger uses tubes
+07:20
+to separate the two fluids one flowing through the inside of the tube with the
+07:25
+other flowing over the outside the tubes are usually arranged as a stack or
+07:29
+bundle with the open ends fitted into end plates or two plates intermediate
+07:35
+support plates are often fitted to the stack to prevent distortion and to guide
+07:39
+fluid flow around the outside of the stack the tubes may be straight with two
+07:44
+end plates or formed as few tubes with a single end plate sometimes the tubes can
+07:50
+be formed as spirals or have inserts to affect the nature of the flow to give
+07:54
+improved efficiency you may have come across some of these such as swirly flow
+07:59
+tubes which are quite common the tube stack fits into a casing the shell and
+08:05
+is arranged in such a way that the two plates
+08:08
+seal against the shell with a stack free to expand at one end the shell is
+08:13
+provided with connections for inflow and outflow of the fluid that passes over
+08:17
+the outside of the tubes the final components are the end covers or headers
+08:22
+these are provided with connections for the fluid that will flow through the
+08:26
+tubes and also partition webs which direct the flow path and determine the
+08:30
+number of passes through the heat exchanger roll the mouse over the
+08:35
+diagram to identify the different components another way of improving the
+08:40
+heat transfer rate is to increase the surface area in contact with one of the
+08:44
+fluids this can be achieved by providing fins either on the outside of tubes or
+08:50
+heat exchanger elements this is common where one of the fluids is either air or
+08:54
+a gas you will probably have come across this arrangement either with air cooled
+08:59
+radiators or charged air coolers on diesel engines or with evaporators used
+09:04
+in the refrigeration plant some diesel engines and air compressors also use
+09:10
+thinned cylinder blocks to assist the cooling in this way the valves that you
+09:15
+will find fitted in the cooling systems onboard the vessels you sail on will be
+09:19
+a mixture of the various types available most common will be manually operated
+09:24
+types such as gate valves screw valves and screw down non-return valves
+09:29
+apart from a few specific duties no particular type is right or wrong and
+09:34
+the valves will be selected by the designer to suit his preference wear a
+09:39
+cooling system has two circulating pumps which as you will know is very common
+09:43
+then the discharge side of the pump will require a non-return valve to be fitted
+09:48
+to prevent backflow from the running pump through the standby pump 3-way
+09:52
+Valve's fitted for temperature control may also take a number of forms with
+09:56
+contoured plug types being commonly used we will look at these in detail later in
+10:01
+this section the purpose of the deaerator
+10:05
+is to help release any air gases or vapors from the circulating jacket water
+10:09
+the deaerator is usually a cylindrical shaped tank with a conical top and is
+10:15
+fitted in the outlet line from the engine positioned at a height greater
+10:19
+than the engine connections are provided for Inlet and outlet of jacket water and
+10:25
+also a riser and down comer from the header tank the main Inlet and outlet
+10:29
+pipes are usually connected to the deaerator
+10:32
+in such a way that the water rotates around the tank from the upper entry
+10:36
+point to the lower exit point this rotation helps to release any air gas
+10:41
+and vapor which then passes through the top riser connection of the deaerator to
+10:46
+the header tank and out to the atmosphere through the vent pipe the
+10:50
+header tank or expansion tank as it is also referred to acts as an additional
+10:55
+volume within the system to accommodate expansion and contraction of the water
+10:59
+in the system as the temperature rises and falls it also acts as a point of
+11:04
+exit from the system for any air gas or vapor released in the deaerator
+11:09
+it has to be positioned high enough in the system to allow for the circulating
+11:13
+pressure and as such provides a positive suction head for the circulating pump
+11:18
+filling is usually arranged to be manual so that in case of leakage that
+11:23
+otherwise might not be easily detected system losses can be monitored by the
+11:27
+amount of make-up required the material used for the pipe work of cooling
+11:32
+systems is chosen to give acceptable service life at reasonable cost the
+11:37
+cooling medium being you is the main factor when choosing the
+11:40
+material the freshwater side of the system usually incorporates mild steel
+11:45
+pipe work selected for the low cost of manufacture the pipe work for the
+11:49
+seawater side of the system is often made from a corrosion resistant alloy
+11:53
+such as copper nickel or nickel aluminium bronze based materials the
+11:58
+system drawings on board your ship will give the details of the materials used
+12:02
+for the different piping systems we have already seen that freshwater is often
+12:07
+chosen as the coolant in preference to sea water because of the corrosion and
+12:11
+scale deposits associated with sea water this does not mean that freshwater
+12:16
+systems are corrosion and scale free freshwater as opposed to distilled water
+12:21
+still has an appreciable mineral salt content the actual concentration and
+12:26
+nature of the minerals depends on the source of the freshwater these minerals
+12:31
+can lead to scale formation and also corrosion particularly at higher
+12:36
+temperatures in many cases the freshwater produced on board the ship is
+12:40
+almost pure distilled water with a very low mineral content often less than five
+12:45
+parts per million measured as chlorides the water is likely to be slightly
+12:50
+acidic and needs to be treated with chemicals to make it slightly alkaline
+12:54
+the treatment chemicals are often combined with corrosion inhibitors to
+12:59
+further protect the system components concentration testing is usually done
+13:04
+with a simple color comparator we will look at the actual treatments and test
+13:08
+methods in a later chapter some systems have facility for adding the chemicals
+13:12
+to the system through a special dosage pot in other systems the treatment is
+13:17
+added via the header tank in order to monitor the performance of a diesel
+13:21
+engine and the associated systems it is necessary to have suitable
+13:25
+instrumentation available to establish the values of key parameters for the
+13:30
+cooling systems this means there must be thermometers for temperature readings as
+13:34
+well as pressure gauges there also needs to be suitable alarms for temperature
+13:39
+pressure flow and level some of these will be linked to automatic slow down
+13:45
+and shutdown of the engine as an absolute minimum there should be
+13:49
+thermometers at the inlet and outlet from the engine and a pressure
+13:53
+at the pump discharge in practice as you will be able to see from the systems on
+13:58
+board your vessel there is usually more instrumentation than this fitted which
+14:02
+allows better monitoring and fault diagnosis of the system in order to
+14:07
+monitor the performance of a cooling system effectively it is not really
+14:11
+sufficient to have only the inlet and outlet temperatures and pressure of the
+14:15
+system you will also need to have detailed information as to the
+14:19
+efficiency of the heat exchangers with suitable instrumentation this is easily
+14:24
+achieved during operation the effectiveness of a heat exchanger will
+14:29
+be adversely affected by fouling either scale buildup or blockage by measuring
+14:34
+the temperature difference across the primary and secondary coolant sides of
+14:38
+the heat exchanger it is possible to pinpoint where fouling has occurred
+14:42
+imagine a scale buildup on the inside of the tubes of the cooler in a jacket
+14:47
+cooling water system there will be very little restriction to flow and pressure
+14:52
+drops across the cooler will be almost normal
+14:55
+however the scale will act as an insulator blocking the heat transfer
+14:59
+very little heat would be taken from the primary coolant the jacket water and
+15:04
+heat transfer to the secondary coolant the sea water will be reduced if you
+15:09
+check the cooler inlets and outlet temperatures of the two fluids you would
+15:13
+find the jacket water outlet temperature was higher than normal with a reduced
+15:17
+differential to the inlet and the sea water outlet temperature was lower than
+15:22
+normal again with a reduced differential to the inlet this would give a good
+15:27
+indication that the cooler had a scale buildup and required cleaning blockage
+15:31
+of the sea water site without scale build-up would reduce the flow of
+15:35
+seawater causing an increased sea water and jacket water outlet temperature when
+15:41
+a heat exchanger is partly blocked then the fluid flow is reduced and this will
+15:45
+affect the system temperatures as well as the pressures considering a jacket
+15:49
+water cooler with seawater as the coolant the sea water side is the most
+15:54
+likely to get blocked due to shells and other marine debris if a partial
+15:59
+blockage occurs it can be indicated in two ways the fluid outlet temperatures
+16:04
+will both be higher than normal and the outlet pressure of the seawater
+16:07
+will be reduced it may also be seen that the seawater inlet pressure is slightly
+16:13
+increased although this may not be noticeable in a seawater system serving
+16:17
+other coolers and services rather than comparing the inlet and outlet pressures
+16:22
+systems are often fitted with u-tube manometers which measure the pressure
+16:27
+drop across the cooler directly you will probably have this arrangement on board
+16:32
+your vessel for the diesel engine charged air coolers it is also commonly
+16:36
+used for pressure drops across filters on various systems before we can move on
+16:41
+to look at temperature control of a cooling system we need to consider a
+16:45
+basic control loop the basic components are shown in the diagram the transmitter
+16:51
+and positioner current red are not required for all systems control valves
+16:57
+and the different actuators used to power them are considered in detail in
+17:01
+the following pages you can click on the buttons to learn a bit more about the
+17:06
+function of each of the other elements although we cannot go into great detail
+17:11
+in discussing controllers in this module you should at least have an
+17:14
+understanding of what a controller is and what it does not every control
+17:19
+circuit requires a controller simple on-off control can be achieved directly
+17:24
+by using a switching device such as a thermostat as the sensor for more
+17:29
+complex control requirements then a controller is used the signal from the
+17:34
+sensor the measured value is sent to the controller where it is compared with the
+17:38
+setpoint the desired value the controller computes the difference
+17:43
+between the two signals and generates an output signal the output signal is used
+17:48
+to power the actuator connected to the control valve there is usually a
+17:52
+facility of the controller to changeover from automatic to manual control the
+17:57
+output signal from the controller is usually proportional to the difference
+18:01
+between the measured and desired values and so the controller is referred to as
+18:05
+proportional action control many of the controller is used in onboard systems
+18:11
+are more complex and use not only proportional action but also integral
+18:16
+derivative action again this is outside the scope of this module valve
+18:22
+positioners are widely used in marine control applications usually operating
+18:27
+with higher air pressures and increased air flow compared to the controller
+18:31
+there are many reasons for air valve position that might be fitted some of
+18:35
+the common ones are when accurate valve positioning is required to speed up the
+18:40
+valve response to act as an amplifier for the controller output signal when
+18:45
+there is a lot of friction in the valve and where varying differential pressures
+18:49
+within the fluid would cause the valve plug position to vary positioners can
+18:54
+also be used with a suitable electropneumatic converter to operate a
+18:58
+pneumatically actuated control valve in response to a direct signal from an
+19:03
+electrical controller or sensor the terms sensor and transducer can often be
+19:10
+used to refer to the same device a transducer is a device that measures one
+19:14
+physical characteristic and converts it to another an example of this is a
+19:19
+resistance thermometer as the temperature varies then there is a
+19:23
+corresponding variation in the resistance this change in resistance can
+19:27
+be used to generate a change in voltage which can be transmitted to the
+19:30
+controller in pneumatic control systems the term transmitter is often used for a
+19:36
+transducer the resistance thermometer is also a sensor since it is sensing the
+19:41
+temperature of a process fluid in our case cooling water temperature for
+19:45
+cooling water systems the main sensors used are shown in the list the last
+19:50
+three of these devices listed rely on a change in resistance with temperature to
+19:55
+vary a voltage output to the controller the most commonly used sensing device
+20:00
+for diesel engine cooling systems is the resistance thermometer in many
+20:05
+situations the output signal from the sensor is too small and needs to be
+20:10
+boosted this may also be the case where the sensor is a long way from the
+20:14
+controller to overcome this a transmitter can be used which can both
+20:20
+convert the signal and boost it before sending it to the controller
+20:24
+transmitters can be either pneumatic or electric types or converter
+20:29
+which change a pneumatic signal to an electrical signal or an electrical
+20:34
+signal to a pneumatic one the most common types of valves used for cooling
+20:39
+water system temperature control of a 3-way wex element valve hue matically
+20:44
+controlled three-way valve and occasionally electrically controlled
+20:48
+three-way valve the balance may have rotary valve plugs and ports or may have
+20:54
+contoured valve plugs and double seats which can improve control over a wide
+20:59
+range of operating conditions the choice of valve is really dependent on the
+21:03
+general control system installed for a particular machinery plant or there some
+21:08
+valves particularly wax element diverter valves are supplied as standard with
+21:12
+some engine types you can learn a bit more about each of these valve types by
+21:17
+clicking on the action buttons below wax element valves are one of the simplest
+21:22
+forms of temperature control valve and can be used as either mixing valves or
+21:26
+diverter valves they are often self-contained units with the wax
+21:31
+element acting as both the sensor and actuator for the valve
+21:34
+they are normally fitted into the primary coolant system to give direct
+21:39
+temperature sensing and control the valves are usually three way valves
+21:44
+having either two inlets and a single outlet when used as mixing
+21:48
+valves or one Inlet and two outlets when used as diverter valves in cooling water
+21:55
+systems the valves are normally used as diverter valves to give bypass of the
+21:59
+heat exchanger as the water temperature increases the wax which is normally
+22:05
+contained in a bellows unit expands and drives a push rod which moves the valve
+22:09
+plug to gradually close off the bypass port and open the flow through port this
+22:15
+arrangement ensures that the total flow bypass and through flow combined is
+22:20
+maintained for any valve position pneumatically actuated temperature
+22:25
+control valves are often three-way valves operated by a control air signal
+22:29
+acting on a diaphragm connected to the valve spindle this type is popular
+22:35
+because of its proven reliability and simplicity the arrangement may include a
+22:40
+valve positioner to give better response greater effort is required to move the
+22:44
+valve the valve can be fitted in the primary coolant system and arranged with
+22:49
+two Inlet connections one connected to the bypass line for the heat exchanger
+22:53
+and the other to the outlet from the heat exchanger and a single outlet
+22:57
+connection the inlet to the engine with a temperature sensor fitted to the
+23:02
+outlet line from the engine the outlet temperature can be controlled the valve
+23:07
+will usually backseat due to spring force when the signal pressure is at a
+23:11
+minimum this will normally be the through flow position which is
+23:15
+considered the failsafe position when the valve is used to control temperature
+23:20
+by varying the bypass flow of the heat exchanger you will almost certainly have
+23:24
+valves of this type fitted to some of the systems on your current vessel see
+23:29
+if they are arranged in the way described above the next time you are in
+23:32
+the engine room an electrically operated temperature control valve can be
+23:36
+arranged in exactly the same way as a pneumatic type but the actuator will be
+23:41
+an electrical device such as a linear motor or solenoid due to the relatively
+23:45
+high cost compared to pneumatic types electrical control valves are not
+23:50
+commonly used in cooling water systems as we have just seen a basic control
+23:55
+circuit consists of a sensor a controller and a control device which is
+24:00
+usually a valve complete with actuator the system may also include a positioner
+24:05
+and a transmitter normally the controlled parameter for a diesel engine
+24:09
+cooling system is the engine outlet temperature the desired value for the
+24:14
+temperature is used as the setpoint for the controller and the value measured by
+24:18
+the sensor is compared against this any difference between these two values
+24:22
+generates a correcting signal that is applied to the value actuator to alter
+24:27
+the valve setting this alteration in position will cause either an increase
+24:32
+or decrease in the amount of flow bypassing the heat exchanger in most
+24:37
+systems the temperature control valve is arranged so that part of the primary
+24:41
+coolant bypasses the heat exchanger if the measured temperature is lower than
+24:45
+the desired temperature some of the diesel engine cooling systems will have
+24:49
+more complex control circuits to help to improve the control and response over a
+24:54
+wide and low drain these will include splits range and
+24:58
+cascade control you can learn the basic principles of these two forms of control
+25:03
+by clicking on the action buttons where a system requires control of heating as
+25:09
+well as cooling then instead of having two separate control circuits a single
+25:13
+combined circuit can be arranged to control two valves this is done by
+25:18
+splitting the controller output signal range into two sections the example
+25:22
+given is for a simple split range control circuit for controlling the
+25:26
+temperature of the fuel valve cooling water system cascade control is a form
+25:31
+of control which uses two controllers a master and a slave with the output from
+25:36
+the master controller being used to onto the set point of the slave controller
+25:40
+each controller will measure a different process variable for example jacket
+25:46
+water temperature and sea water flow rate with this arrangement faster
+25:50
+response can be achieved over a wide load range for applications where
+25:55
+heating and cooling are required the cascade system can be adapted so that
+25:59
+the slave controller operates as a split range controller in order to provide
+26:04
+protection to the diesel engine against damaged due to operating outside of the
+26:08
+recommended limits a number of parameters are normally monitored
+26:11
+continuously many of these are associated with the engine coolant water
+26:15
+systems for those parameters which are considered essential for safe operations
+26:20
+safety devices which give automatic slowed down or shut down are provided in
+26:25
+addition to audible and visual alarms the set points are usually arranged to
+26:30
+give an alarm first and then a slowed down or shut down if the condition
+26:35
+deteriorates click on the action buttons to learn more about the common alarms
+26:39
+and safety devices associated with the different groups of parameters the main
+26:44
+temperature alarms associated with the various cooling systems for a diesel
+26:48
+engine are as shown in the list typically the alarm points are set 5 to
+26:54
+10 degrees Celsius above or below the normal temperature not every diesel
+26:59
+engine installation will have all of these alarms and you should check the
+27:02
+engine on your vessel to see the actual alarms fitted where operation of the
+27:07
+engine of temperatures above the white would lead to severe engine damage
+27:11
+then there will be further protection in the form of a slowdown or shutdown short
+27:16
+temperatures continue to rise typically these would be for jacket cooling water
+27:21
+high-temperature piston cooling water high temperature
+27:24
+and turbocharger cooling water outlet high temperature although it can be
+27:30
+considered as of secondary importance to temperature when dealing with cooling
+27:34
+water systems the system pressure is still an important parameter and
+27:38
+requires monitoring during operation there will only be low pressure alums
+27:42
+fitted for all of the diesel engine cooling water systems at the inlet to
+27:47
+the engine low pressure may be an indication of low
+27:50
+header tank level loss of coolant circulating pump failure system blockage
+27:55
+or failed piping any of which could lead to serious engine damage obviously
+28:00
+effective cooling of the diesel engine relies on constant flow of the coolant
+28:04
+at the required rate to remove excess heat any reduction or failure of flow
+28:09
+will result in local overheating and failure of the engine components diesel
+28:14
+engines with water-cooled Pistons normally have a flow indicator and alarm
+28:18
+at the return from each cylinder it is also common to her flow alarms and slow
+28:23
+down function arranged for the jacket water outlet from each unit one of the
+28:28
+simplest methods of sensing the flow for alarm purposes is to measure the
+28:32
+differential pressure across an orifice plate fitted in a section of pipe in the
+28:36
+system a reduction in the differential pressure is an indication of reduced
+28:41
+flow rate severe reduction in flow in the cooling system will normally result
+28:46
+in an automatic slowdown of the engine the main level alarm for diesel engine
+28:51
+cooling water systems is a low level alarm on the jacket water header tank
+28:55
+this gives protection in the event of leakage from the system either internal
+29:00
+or external to the engine there may also be a high level alarm fitted to the tank
+29:05
+to protect against overfilling the high level alarm can also give protection if
+29:10
+due to a cracked liner or cylinder cover combustion gas enters the system and
+29:15
+causes foaming of the water in the header tank there may also be high and
+29:20
+low level alarms fitted to the reservoir for any other cooling water systems to
+29:24
+give protection due to either cross leakage from secondary coolant or loss
+29:29
+of water due to leakage when testing any of the alarms or safety device functions
+29:34
+care must always be taken to ensure there is no danger of injury to
+29:38
+personnel or machinery damaged a suitable risk assessment should always
+29:43
+be made permit to work obtained and relevant personnel informed before any
+29:48
+testing is carried out the methods used should give a realistic simulation of
+29:52
+the actual event so that the function is properly tested rather than just
+29:56
+checking the switch action the following preferred methods for testing alarms
+30:00
+slowdowns and shutdowns should be used taking into account any specific
+30:05
+instructions from the manufacturer temperature place the temperature sensor
+30:10
+into a test tank provided with a heating element and thermometer the sensor
+30:15
+should be left connected to its circuit so that as the alarm or safety device
+30:19
+set point is reached an actual alarm slowdown or shutdown occurs pressure
+30:25
+shut off the pressure line to the sensor again with the circuit intact and bleed
+30:30
+the pressure until the setpoint is reached and the alarm slow down or shut
+30:34
+down occurs flow the signal should be gradually shut off until the alarm slow
+30:41
+down or shut down occurs the actual method depending on the type of sensor
+30:45
+level normally this will be a float alarm with either a separate float
+30:50
+chamber or with the float placed directly in the tank the preferred test
+30:55
+method is to isolate and drain the float chamber or push down the float until the
+31:00
+alarm slow down or shut down occurs in this chapter we have looked at the
+31:05
+various components that make up the diesel engine cooling water systems that
+31:09
+can be found on board you should now be aware of the different systems that are
+31:13
+required and also the common types of component within the systems and the
+31:17
+function of each of them we have also considered the various temperature
+31:21
+control methods and the alarm and safety devices that may be fitted to the
+31:25
+systems you should now be aware of the types used as well as the methods for
+31:30
+checking the alarms slowdowns and shutdowns associated with marine diesel
+31:34
+engine cooling systems with this knowledge you
+31:37
+should now be in a position to better understand the systems and Arrangements
+31:41
+on the vessels that you sail on you should use the knowledge along with the
+31:45
+operating manuals for the machinery on board your current vessel to make sure
+31:49
+that you understand the plant and can operate it safely in the next chapter we
+31:53
+will look at central cooling systems which are a common way to reduce the
+31:57
+size and complexity of the sea water system and minimize the amount of sea
+32:01
+water pipe work onboard the main benefit of this type of system as you will
+32:06
+appreciate should be reduced maintenance requirements for the cooling systems

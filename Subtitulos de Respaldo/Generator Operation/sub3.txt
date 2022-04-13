@@ -1,0 +1,556 @@
+00:00
+Marine Online
+00:16
+This section will familiarize you with
+00:22
+voltage regulation the one phase
+00:25
+generator the three phase generator as
+00:32
+we've seen so far in a section the
+00:35
+induced voltage and therefore the
+00:37
+terminal voltage is dependent on the
+00:40
+type of load connected to the generator
+00:42
+terminals to maintain the terminal
+00:47
+voltage within acceptable limits due to
+00:50
+load change on the generator we need to
+00:53
+vary the strength the main field the
+00:58
+curves show the relationship between
+01:01
+terminal voltage and current at constant
+01:04
+magnetism it is evident that an
+01:08
+inductive load demands the largest
+01:11
+voltage regulation however the different
+01:15
+consumers onboard a typical ship consist
+01:18
+of both ohmic inductive and capacitive
+01:21
+loads in which the total power factor on
+01:26
+the generators is normally between 0.8
+01:29
+and 0.9 there are many voltage
+01:35
+regulators on the market and the way in
+01:38
+which an automatic voltage control or
+01:41
+AVR for short controls the excitation
+01:46
+varies from model to model in this
+01:50
+section we will have a look the
+01:52
+principles for the following two types
+01:54
+the brush slip ring generator even
+01:59
+though it is not found on board modern
+02:01
+vessels today all voltage regulators are
+02:04
+based upon the same principle and can
+02:07
+therefore be considered an introduction
+02:10
+to the modern brushless automatic
+02:12
+excitation systems the brushless
+02:15
+generator with current compounding
+02:18
+transformers and electronic control unit
+02:22
+when the road
+02:27
+starts turning low voltage will be
+02:30
+induced because magnetic remanence in
+02:33
+the rotor this small voltage passes the
+02:37
+current limiter and the primary winding
+02:40
+P to the magnitude around p 2 with
+02:46
+induced current in s the current limiter
+02:51
+and the condensate a battery is turned
+02:55
+to resonance at nominal frequency and a
+02:58
+current through the circuit in resonance
+03:00
+is tuned to the nominal terminal voltage
+03:04
+as you can read from the formulas and
+03:09
+the illustrations the impedance will
+03:12
+decrease and the current will increase
+03:14
+until 60 Hertz achieved the circuit is
+03:20
+tuned to give a sufficient excitation
+03:22
+current to maintain 440 volts at nominal
+03:27
+frequency as we remember a reactive load
+03:33
+will weaken the main field in a
+03:35
+generator the regulator has to
+03:39
+compensate for this by strengthening the
+03:42
+magnetization this will automatically be
+03:48
+taken care of by means of the primary
+03:51
+winding p1 as soon as a generator is
+03:55
+loaded a current will flow in the
+03:58
+primary windings which we induce voltage
+04:01
+the magnetic field in p1 induces an
+04:07
+extra current in the secondary winding s
+04:10
+therefore the magnetism current is load
+04:15
+dependent although the above principle
+04:21
+is ingenious due to its simplicity it
+04:24
+does have disadvantages brushes and slip
+04:28
+rings cause attentiveness due to wear
+04:30
+and dirt it is difficult to adjust
+04:33
+nominal voltage the voltage is to a
+04:37
+certain degree dependent on the power
+04:39
+factor on
+04:40
+loads and the prime movers rotational
+04:44
+speed the modern voltage regulator
+04:48
+systems have the excitation equipment
+04:51
+mounted directly on the generator shaft
+04:54
+let us have a closer look at a typical
+04:58
+voltage regulator system found on board
+05:02
+a ship today we have removed the
+05:04
+capacitor bank from this system some
+05:09
+manufacturers do this to prevent the
+05:11
+variation of feel resistance and thereby
+05:14
+affect the component current caused by
+05:17
+temperature variations the brushless
+05:24
+generator has its own excitation
+05:27
+generator mounted directly on the
+05:30
+generator shaft the rectifier and the
+05:35
+excitation machines armature windings a
+05:38
+part of the generators rotating parts
+05:41
+the excitation winding of the excitation
+05:47
+machine represent the stator the
+05:51
+response time is a little slower than
+05:53
+the brush slip ring generator without
+05:57
+AVR because it is more component in a
+06:02
+system which delay the response but does
+06:06
+not have the disadvantages mentioned
+06:09
+under the brush slip ring system voltage
+06:13
+between in the terminals caused by the
+06:16
+remanent in the rotor the star connected
+06:20
+reactor coil l2 can be viewed upon at a
+06:25
+small internal load in the generator the
+06:31
+inductive current which appears in the
+06:33
+reactor coil will flow through the
+06:36
+primary windings t1 this current induces
+06:42
+a current in the secondary windings s
+06:44
+the alternate
+06:48
+is then directed in a three phase diode
+06:51
+bridge v2 a directed excitation current
+06:56
+will flow from v2 through the excitation
+07:00
+winding l1 by strengthening the
+07:05
+magnetization field we will induce
+07:08
+voltage in a stator of the excitation
+07:11
+machine this voltage is then directed
+07:15
+through the diode bridge v3 and fed into
+07:21
+the synchronous generators excitation
+07:23
+winding me all the voltage regulator
+07:29
+system found on board are designed in
+07:33
+such a way that the regulators control
+07:36
+the voltage down in proportion to the n
+07:38
+regulated voltage unregulated voltage
+07:43
+would arise to approximately hundred
+07:46
+twenty percent of nominal voltage if the
+07:49
+regulator or Sai rishta were removed
+07:53
+this over compensation is damned to
+08:00
+achieve as quick a regulation as
+08:02
+possible during connection to large
+08:05
+consumers let's see what happens when we
+08:08
+start the generator as we can see the
+08:23
+actual value equals the setpoint what
+08:26
+happens on the actual value is greater
+08:28
+than the set point when the actual
+08:36
+it is grated moset point the comparator
+08:40
+in the regulator gives an output to the
+08:43
+thyristor gate which opens by rishta the
+08:47
+positive half of the phase in the middle
+08:50
+will be shunted by the open PI rishta
+08:52
+and reduce the output from the rectifier
+08:56
+bridge the firing angle of the fire
+08:59
+rishta is determined by the setpoint
+09:02
+actual value deviation after to the main
+09:22
+breaker applying a load to the generator
+09:25
+the primary winding will come into
+09:28
+action as well as a static voltage
+09:31
+regulator connect the breaker through
+09:34
+the push-button because of the old
+09:45
+impound station ug will be greater than
+09:48
+UN and the thyristor will open to limit
+09:53
+the excitation the regulator is
+10:05
+necessary to ensure equal excitation
+10:08
+current to the generators which will
+10:11
+ensure equal load sharing this was not
+10:16
+necessary for the brush slip ring
+10:18
+generators as the magnetization windings
+10:22
+were accessible but we could parallel
+10:25
+the excitation current wires to avoid an
+10:28
+equal load sharing our
+10:35
+r 2 and the electronic circuit arielle
+10:38
+can be viewed upon a 30 make resistances
+10:42
+with individual voltage drops UT 1
+10:49
+represents the actual voltage at
+10:54
+increasing load the UT one voltage will
+10:58
+drop and the voltage over the resistors
+11:01
+will change proportionally as you
+11:06
+arielle changes in proportion with a
+11:09
+terminal voltage this value is used of
+11:13
+the actual value for the comparator the
+11:17
+actual value is compared to the setpoint
+11:20
+the result of the comparison is
+11:24
+amplified the output from the amplifier
+11:29
+is divided into pulses which switches a
+11:32
+thyristor on and off the size of the
+11:37
+Purser's depends on the deviation note
+11:41
+that the tire wrister works against the
+11:43
+magnetism which means that when you g is
+11:47
+less than un the limitation of
+11:50
+excitation current stops this means that
+11:54
+the thyristor is blocked note that the
+11:57
+resistance r1 is adjusted to a lower
+12:01
+value the voltage will decrease over r1
+12:05
+and respectively increase over arielle
+12:09
+this will cause the actual value in the
+12:13
+set point to be equal at a lower
+12:16
+terminal voltage to achieve equal
+12:22
+excitation current at all loads at
+12:25
+parallel operation we have to provide
+12:28
+the regulator with a current transformer
+12:31
+as we will see in the following pages
+12:33
+the current transformer is a crucial
+12:36
+component required to achieve the
+12:39
+voltage droop this is necessary for a
+12:43
+stable reactive load sharing the
+12:47
+regulator
+12:48
+earlier show is only for single
+12:51
+generator installations when the
+12:58
+generator runs diagonal or not connected
+13:01
+no current is present for the p2 are two
+13:05
+circuit when the generators canna taking
+13:12
+load a current will flow in the t2 are
+13:16
+two circuit which will have another
+13:19
+direction depending on the power factor
+13:21
+for an increasing load the voltage over
+13:26
+r2 will decrease shown as a resulting
+13:30
+you are too in the pop-up the voltage
+13:34
+drop over arielle will increase slightly
+13:38
+due to this let us start the generator
+13:43
+the generator is now running at idle as
+13:52
+we can see there is no current present
+13:56
+in the UT to our to circuit let us
+14:00
+connect the generator as we can see from
+14:09
+the bow
+14:10
+droop pop up the actual voltage is four
+14:14
+percent lower and the set point voltage
+14:16
+the comparator compares the actual
+14:25
+voltage with the set point voltage the
+14:28
+result of the comparison gives an output
+14:31
+to the thigh rishta which will parallel
+14:34
+shift the droop until you g equals um if
+14:43
+the power factor increases the voltage
+14:46
+over r2 decreases and the output from
+14:50
+arielle increases ug exceeds UN and the
+14:56
+comparator will give an output to fire
+14:59
+rishta which would open it to limit the
+15:02
+excitation current until you g equals um
+15:06
+let's see what happens when we reduce
+15:15
+the load to eighty percent the
+15:20
+comparator reads that you g is greater
+15:22
+than un and will give an output which
+15:26
+will parallel shift the droop until you
+15:29
+g equals un note for a single generator
+15:36
+the current transformer is not necessary
+15:39
+because the generator takes the entire
+15:41
+load anyway and therefore the
+15:45
+manufacturers have a switch which
+15:48
+disconnects the current transformer wide
+15:51
+and single operation the regulator then
+15:55
+regulates in relation to voltage alone
+15:57
+let us add another generator to the best
+16:02
+spa in order to share the load press the
+16:08
+start dg2 button
+16:16
+press the contagion a two-button note as
+16:21
+soon as dg2 takes load the load on DG 1
+16:24
+will be reduced ug will therefore be
+16:28
+greater than UN and the fire is still
+16:30
+open the regulators on DG 1 and dg2 will
+16:36
+then decrease and increase the load on
+16:39
+the generators until they are balanced
+16:42
+to ensure equal load sharing at all
+16:49
+loads fiddling with a regulator
+16:51
+components is not recommended we will
+16:55
+now take a closer look at possible
+16:56
+effects of such tampering if we increase
+17:02
+our one on DG 1 during parallel
+17:05
+operation the output from arielle will
+17:09
+then decrease the regulator believes for
+17:13
+the you g is greater than un the
+17:16
+comparator output will cause an
+17:18
+increased excitation current the
+17:21
+generator will then take a large part of
+17:23
+the reactive load as you can see
+17:35
+characteristic dg2 would take a larger
+17:38
+part of the load if we change the
+17:41
+voltage droop on DG one to eight percent
+17:45
+during parallel operation the complete
+17:50
+AVR circuitry is very complex and
+17:53
+includes a few preset variable resistors
+17:57
+for the control of sensitivity offset
+18:00
+error and stability these are adjusted
+18:05
+and set during the generator trials to
+18:09
+achieve an optimum and stable
+18:11
+performance it is strongly recommended
+18:13
+that you do not tamper with such preset
+18:17
+resistors r1 which is found in the main
+18:20
+switchboard should only be adjusted as
+18:23
+an exception in order to define
+18:26
+adjustments to the generator voltage
+18:29
+when it is idle in the following pages

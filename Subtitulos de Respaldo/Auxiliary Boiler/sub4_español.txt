@@ -1,0 +1,150 @@
+00:00
+Después de completar esta sección, tendrá una mayor conciencia de la seguridad
+00:04
+operación de una planta de vapor auxiliar
+00:27
+suponemos que la caldera ha estado fuera de servicio durante un tiempo y que no
+00:33
+Se ha realizado un trabajo de mantenimiento importante, compruebe que las siguientes válvulas estén
+00:37
+válvula de cierre principal cerrada válvula de soplado de espuma válvula de soplado inferior válvula de ventilación encendida
+00:45
+válvula de drenaje del economizador en el economizador
+00:59
+compruebe que las siguientes válvulas estén abiertas todas las válvulas del manómetro todo el nivel
+01:06
+válvulas manométricas válvula de ventilación en el tambor de vapor válvula de ventilación en la válvula de drenaje del supercalentador
+01:13
+en la válvula de agua de alimentación del supercalentador
+01:32
+Compruebe que los tubos y las conexiones de los manómetros estén abiertos soplando
+01:37
+a través del tubo debe estar lleno de condensado todo el tiempo
+01:43
+Compruebe el nivel del agua y vuelva a llenar si es necesario, utilice tanto el auxiliar como el principal.
+01:51
+línea de agua de alimentación para pruebas
+02:00
+Encienda el precalentador de aire.Revise la cámara de combustión para ver si hay derrame de aceite
+02:05
+todo está bien, inicie la purga del soplador de aire de combustión durante dos a cuatro minutos
+02:11
+a plena capacidad, vuelva a circular el aceite combustible hasta que tenga la viscosidad correcta de
+02:26
+los quemadores seleccionan las puntas de quemador más pequeñas reducen la capacidad del soplador
+02:32
+Inserte la antorcha y verifique la llama de la posición de la antorcha abierta para combustible.
+02:38
+al quemador y verifique que la llama sea adecuada, si está bien, retire el soplete y verifique
+02:44
+Llame de nuevo si no está bien, cierre la válvula de combustible y
+02:50
+Aumente la capacidad del soplador al máximo de nuevo purgue durante dos a cuatro minutos.
+02:55
+antes de volver a intentar encender el quemador dependiendo del tamaño y diseño del
+03:01
+caldera, debe usar una o dos horas para alcanzar la presión de vapor máxima, esto es para
+03:08
+evitar daños en el horno y los tubos de la caldera
+03:31
+después de un tiempo puede abrir la válvula de vapor principal
+03:35
+ligeramente para evitar que se pegue, cierre la válvula de drenaje en el supercalentador, mantenga el
+03:41
+La válvula de ventilación del supercalentador se abre hasta que el flujo de vapor a los consumidores haya sido
+03:47
+establecido que este flujo de vapor es necesario para llamar al soplo del supercalentador
+04:06
+medidores de nivel a medida que aumenta la presión, el nivel del agua aumentará pero
+04:12
+asegúrese de poder leer el nivel todo el tiempo si el nivel del agua es demasiado
+04:17
+alto puede soplar un poco a través de la válvula de espuma incandescente no use el
+04:23
+válvula de soplado inferior, siempre que esté disparando, el nivel del agua también puede ser demasiado
+04:28
+baja causada por el drenaje y la ventilación si observa golpes de ariete en el
+04:33
+economizador debe enfriarse con suministro de agua de alimentación es una buena práctica
+04:38
+hacia - entre los quemadores durante la cocción porque esto hará que el
+04:44
+calentamiento de la caldera más incluso cuando ha alcanzado la presión de funcionamiento
+04:48
+debe comenzar a calentar el sistema de tuberías abriendo las válvulas de drenaje.
+04:54
+porque el nivel del agua no es demasiado alto antes de abrir la válvula principal de vapor
+04:59
+esto porque la presión más baja en la línea de vapor puede hacer que entre agua
+05:04
+supercalentador cambiar las puntas del quemador a tamaño normal comprobar de nuevo
+05:10
+relación aceite-aire antes de cambiar a control automático
+05:31
+Compruebe que la válvula de agua de mar con condensador esté cerrada y sea fácil de abrir.
+05:36
+Abra una válvula de sección de agua de mar y comience a usar agua de mar Panth abra lentamente el agua de mar
+05:43
+válvula al condensador y comprobar el flujo de agua iniciar el vacío del condensador
+05:48
+bombear el eyector de vapor y comprobar que funciona correctamente
+05:54
+Cuando bajan las presiones, compruebe si la alarma de alta presión del condensador es
+05:59
+reiniciar poner en marcha la bomba de condensado y comprobar el caudal de condensado comprobar que
+06:22
+La válvula de drenaje de la carcasa está abierta y compruebe si hay agua. Compruebe que la válvula de suministro de vapor.
+06:28
+está cerrada abrir la válvula de escape de vapor comprobar completamente el nivel de aceite lubricante
+06:35
+en el CEMP y posible agua en el aceite arranque el aceite lubricante eléctrico
+06:41
+bomba y comprobar la presión comprobar la presión diferencial en el filtro de aceite
+06:46
+Abra y compruebe el sistema de vapor del casquillo ajustar la presión de vapor glam cuando
+06:54
+hay una glándula menor de vapor que se filtra a la atmósfera abierta al vapor glamoroso
+06:59
+condensador cerrar cualquier calentamiento del nuevo sistema de briquetas de aceite restablecer el
+07:05
+sistema de parada de emergencia abrir ligeramente la válvula de cierre
+07:39
+revise el drenaje de la carcasa de la turbina para ver si hay agua nuevamente continúe abriendo el acelerador
+07:45
+la válvula lentamente hasta que la turbina comience a girar verifique si hay algún sonido desconocido
+07:52
+y las vibraciones mantienen la turbina girando durante unos minutos
+07:58
+aumente las RPM hasta que alcance la velocidad de ralentí o sin carga y continúe
+08:06
+funcionar a estas rpm durante otros cinco minutos comprobar la presión del aceite lubricante y detener
+08:13
+La bomba de aceite lubricante eléctrica compruebe la temperatura del aceite y abra para
+08:19
+Enfriamiento del aceite lubricante cuando supera los 40 grados centígrados cuando la velocidad
+08:24
+la válvula de control está en acción abrir la válvula de parada de emergencia completamente verificar
+08:30
+de nuevo que todo indica que las lecturas comprometidas son normales de acuerdo con
+08:34
+manual de funcionamiento y transferir el control de rpm a la posición de control remoto
+08:42
+tú
+08:56
+Si es posible, debe comenzar a soplar antes de cerrar la caldera de aceite.
+09:04
+válvula de ventilación y válvula de drenaje ligeramente en el supercalentador cerrar el aceite a la
+09:10
+quemadores y sacarlos del horno mantener el soplador en funcionamiento durante un tiempo para
+09:16
+eliminar todos los gases del horno detener el ventilador y cerrar la entrada de aire para
+09:22
+Evite que entre aire frío en el horno cuando la presión del vapor sea inferior a lo normal.
+09:28
+Cierre la válvula de vapor principal cuando la presión de vapor sea de uno a dos bares.
+09:35
+Abra la válvula de ventilación del drenaje del supercalentador completamente cuando la caldera
+09:40
+se ha enfriado las válvulas de agua de alimentación deben estar cerradas apagar el aire
+09:46
+precalentador

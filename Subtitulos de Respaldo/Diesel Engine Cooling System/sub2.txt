@@ -1,0 +1,552 @@
+00:00
+After completing this chapter the learner will be familiar with the
+00:03
+configuration of a typical basic diesel engine cooling water system be familiar
+00:08
+with the configuration of the other cooling systems for a diesel engine
+00:32
+as we have already seen from the previous chapter we have to cool the
+00:37
+components and systems of a diesel engine if we wish to operate
+00:40
+continuously for long periods we can achieve this by circulating a primary
+00:45
+coolant which will take the heat from the engine components and then
+00:49
+circulating the primary and a secondary coolant through a heat exchanger to
+00:53
+remove the heat from the primary coolant having completed chapter 1 you should
+00:58
+now be aware of which coolants are suitable for the various cooling
+01:01
+requirements in this chapter we will look at the different cooling systems
+01:05
+that you are likely to be dealing with when you are operating large diesel
+01:09
+engines a diesel engine jacket water cooling system must be able to take away
+01:15
+the heat transferred into the cylinder components during the combustion process
+01:20
+to achieve this it will circulate a suitable coolant usually fresh water
+01:24
+through the cooling spaces provided these cooling spaces will usually be
+01:29
+around the cylinder liner and inside the cylinder cover the jacket water system
+01:35
+may also serve the exhaust valve cages and turbocharger casing for those
+01:40
+designs that require cooling the sketch shows a basic jacket water system using
+01:45
+fresh water as the primary coolant and sea water as the secondary coolant the
+01:51
+fresh water will normally enter at the lower part of the liner and exit from
+01:54
+the cylinder cover don't worry at this stage if you are not familiar with the
+01:58
+details and purpose of all of the components as we will look at these
+02:02
+individually in a later chapter obviously not every diesel engine jacket
+02:08
+cooling water system is operated with exactly the same parameter values that
+02:13
+are certain to be differences between systems due to different designs and
+02:16
+choice of materials for the various engine components also sea water
+02:21
+temperatures will vary due to the geographical area that the ship is
+02:25
+operating in the value is given in the table are typical for a large two-stroke
+02:30
+diesel engine you may find that the temperature of the jacket water may be
+02:34
+15 degrees Celsius or more higher for some small high-powered diesel engines
+02:39
+you should make yourself familiar with the actual values of the parameters for
+02:44
+all of the cooling systems for diesel engines on the ships you are
+02:47
+sailing with as part of your familiarization with the engine plant
+02:51
+although the primary purpose of a jacket water system is to cool the diesel
+02:55
+engine it can also serve as secondary function by providing a preheating
+03:00
+facility for the engine this is particularly necessary when preparing
+03:04
+the engine for a first start in cold climates in order to minimize thermal
+03:09
+stresses the other cooling systems included in this module will have a pre
+03:14
+heat facility the diesel engine requires the heat of compression of the air in
+03:18
+the cylinder to provide the ignition source for the fuel to help achieve this
+03:23
+the engine cylinder can be warmed using a jacket water preheating system the
+03:28
+heating for the jacket cooling water can be provided by a sub circuit of the main
+03:32
+system using electrical heating elements or steam heating coils some systems use
+03:37
+the heat from the auxiliary engine cooling system to preheat the main
+03:41
+system by using suitable crossover arrangements what arrangements do you
+03:46
+have on your ship at present if you are unsure you should check it out next time
+03:51
+you are in the engine room different jacket water cooling systems
+03:55
+will have different layouts and valve arrangements the principles of operation
+04:00
+however will be the same before starting the system the header
+04:04
+tank level should be checked and adjusted as necessary and all of the
+04:08
+valves should be correctly set for preheating once the pumps are started
+04:13
+the valves should be adjusted to regulate the flow so as to ensure
+04:17
+correct temperatures throughout the system when the temperature of the
+04:21
+system has reached the required level and all other required conditions met
+04:25
+the engine can be started and the preheating shutoff temperatures and flow
+04:30
+are usually monitored at each cylinder the temperature control in modern
+04:34
+systems is usually an automatic function and in the system shown it is controlled
+04:39
+by a 3-way valve we will look at what about a control in more detail later in
+04:44
+the module
+04:47
+you should familiarize yourself with the system on the ship that you were on
+04:51
+including the means used to manually regulate the temperature in the event of
+04:55
+control function failure this applies to all of the systems for the equipment
+05:00
+that you may be involved with as well as the cylinder cover and
+05:05
+cylinder liner the Pistons also heat up due to the combustion process they also
+05:11
+received some heat due to friction between piston rings and liner and
+05:15
+piston skirt and liner even though when operating correctly these surfaces are
+05:20
+separated by an oil film frictional heat is still generated and transferred
+05:24
+between components in large slow speed engines the Pistons are usually cooled
+05:29
+by a separate system to the jacket water the coolant mainly used for this is oil
+05:34
+from the main lubricating oil system though some older systems used fresh
+05:39
+water the preference for oil is due to the risk of coolant leakage into the
+05:44
+crankcase as was stated earlier trunk piston engines use lubricating oil
+05:48
+either circulated through the piston crown or splashed up in the crankcase as
+05:53
+a piston coolant with water as the coolant a so-called cocktail shaker
+05:57
+effect is often used to optimize the cooling effect on the piston the cooling
+06:03
+chambers are designed to be half full and the reciprocating motion of the
+06:06
+piston causes the water to be thrown onto the underside of the piston crown
+06:11
+as if it was a cocktail shaker most of the large two-stroke engines
+06:16
+that you will sail with will have oil cooled Pistons certainly the majority of
+06:21
+recently built engines will use oil as the coolant however there are still many
+06:26
+engines in service which were designed for water cooling of the Pistons the
+06:30
+values given in the table are typical for a large two-stroke diesel engine one
+06:36
+of the main large two-stroke engine manufacturers used the piston cooling
+06:40
+system for cooling the turbocharger rather than the jacket water system
+06:44
+since it was felt that the temperatures and the pressures for the system were
+06:48
+better suited again make yourself familiar with the actual values of the
+06:52
+parameters for the systems on the ship's you were sailing with as part of your
+06:55
+familiarization with the engine plant before starting the system the drain
+07:01
+tank level should be checked and adjusted as necessary the tank should
+07:05
+also be checked for any oil contamination typically the cooling
+07:09
+water is supplied to and returned from the Pistons fly a telescopic Clips the
+07:15
+telescopic pipes are arranged so that the sealing glands are outside of the
+07:19
+crankcase to minimize the risk of contaminating the lubricating oil system
+07:23
+it is necessary to monitor these sealing glands for leakage once the tank is at
+07:28
+normal level and the valves have been correctly set the pump can be started
+07:33
+continuous flow of cooling water through each piston is essential for continued
+07:38
+operation and sight glasses are normally fitted in the return pipes so that flow
+07:42
+can be monitored the temperature is usually monitored at each cylinder and
+07:46
+the cooler bypass is used to adjust it this basic system shows the temperature
+07:52
+being manually controlled click on the button to see the operation of the
+07:56
+system
+08:39
+the location in the cylinder head and the exposure of the injector nozzle to
+08:44
+the combustion chamber mean that excess heat has to be removed to avoid seizure
+08:49
+of the needle valve and overheating of the fuel within the fuel injection valve
+08:53
+any failure of the system such as blockage or scale deposits would cause
+08:58
+the fuel injection valves to overheat and seize will lead to carbon deposits
+09:02
+inside the valves due to overheating of the fuel having an additional system
+09:07
+means increased cost and maintenance other common problems associated with
+09:12
+these systems include contamination of the coolant with fuel due to leakages
+09:16
+within the fuel injection valves and corrosion of valve bodies to avoid the
+09:21
+problems associated with fuel valve cooling systems engine manufacturers
+09:26
+have developed their engine designs to avoid the need for such systems if you
+09:30
+were on ships with older engines you may still come across fuel valve cooling
+09:34
+systems the type of fuel that the engine operates on will influence the cooling
+09:39
+arrangements for the fuel injection valves click on the action buttons to
+09:43
+learn more about this for some engines operating on distillate fuel the risk of
+09:48
+overheating a fuel injection valves due to transfer of residual heat when the
+09:52
+engine was first stopped meant that a separate cooling system was necessary
+09:57
+during normal load operation the flow of the relatively cold fuel was sufficient
+10:02
+to maintain acceptable temperatures some systems combine the cooling for fuel
+10:07
+injection valves and exhaust valve cages freshwater is used as the coolant oil or
+10:13
+freshwater could be used for fuel valve cooling where these systems are separate
+10:17
+by fitting an additional heat exchanger the system could also be used to
+10:22
+maintain valve temperatures when operating at low load to avoid possible
+10:26
+cold corrosion problems this heating facility would also be used to preheat
+10:31
+the fuel in the injection valves to improve starting of a cold engine for
+10:36
+engines using heavy fuel oil the fuel injection valves require positive
+10:40
+cooling since the hot fuel means that the valves are at a higher temperature
+10:45
+either a separate cooling system or some means to ensure continuous flow of the
+10:50
+fuel through the injector bodies to remove excess heat is
+10:53
+necessary wear a separate cooling system is fitted oil or fresh water can be used
+10:59
+as the coolant with this type of system it is normal to change from heavy to
+11:04
+distillate fuel allowing plenty of time to clear the lines of all of the heavy
+11:08
+fuel before the engine was stopped the heating facility is usually included to
+11:13
+maintain temperatures at low load and for pre-start
+11:16
+current practice is to have automatic recirculation of the fuel through the
+11:21
+valves when the engine has stopped this allows acceptable temperatures to be
+11:25
+maintained even with want heavy fuel oils you will possibly have some
+11:30
+experience of this type of arrangement if you've worked with heavy fuel burning
+11:34
+engines built in the last 20 years most diesel engines that you will sail with
+11:38
+will be designed to operate without separate cooling of the fuel injection
+11:42
+valves instead they will use either recirculation of the fuel or cylinder
+11:48
+cover design to achieve the required cooling however there are still many
+11:52
+engines in service which were designed with separate valve cooling systems the
+11:57
+values given in the table are typical for a large two-stroke diesel engine and
+12:01
+would be similar for many four-stroke engines again make yourself familiar
+12:05
+with the actual values of the parameters for the systems on the ships you were
+12:10
+sailing with as part of your familiarization with the engine plant
+12:13
+with a system filled and the tank level correct the pump can be started once the
+12:18
+discharge and system valves are set to circulate the cooling water prior to
+12:23
+starting the engine the fuel valve coolant is heated by passing it through
+12:27
+the pre heater this heats up the injectors and the fuel contained in them
+12:32
+close to normal operating temperatures which makes starting easier once the
+12:36
+cooling system temperature exceeds normal levels the pre heater is shut off
+12:40
+and the temperature can be controlled by adjusting the cooler bypass when
+12:46
+operating continuously on low load it may be necessary to maintain
+12:49
+temperatures by using the pre heater again the temperature control can be
+12:54
+either manual or automatic because of the high risk of fuel contamination of
+12:59
+the cooling water in this type of system the system tank should be checked
+13:03
+regularly during operation
+13:43
+diesel engines that are designed to operate without any pressure charging of
+13:48
+the combustion air are referred to as naturally aspirated this type of design
+13:53
+is usually restricted to engines for emergency duties it is likely that you
+13:58
+will have some engines of this type on board your vessel now for example the
+14:02
+lifeboat engines or emergency fire pump engine the vast majority of diesel
+14:07
+engines that you sail with will be pressure charged usually using an
+14:11
+exhaust gas driven turbocharger the purpose of pressure charging a diesel
+14:15
+engine is to increase the mass of air in the cylinder and so allow greater power
+14:20
+to be developed by burning a greater quantity of fuel than would be possible
+14:23
+with a naturally aspirated engine the air delivered to the engine by a
+14:27
+turbocharger or other compressor device will be hot due to the compression
+14:32
+process it is not uncommon for the air temperature to exceed 100 degrees
+14:37
+Celsius at the exit from the turbocharger compressor at this
+14:41
+temperature the air density is low and the mass for a given volume quite small
+14:46
+to increase the effective mass of air in the cylinder it is necessary to cool the
+14:51
+air to increase the density before it enters the engine the purpose of the
+14:56
+charge air cooler or intercooler as it is referred to on some engines is to
+15:01
+reduce the air temperature to the required level typically the air
+15:05
+temperature at inlet to the engine will be in the range of 35 degrees Celsius to
+15:09
+50 degrees Celsius in order to achieve the relatively low air temperatures
+15:15
+required at the engine Inlet the coolant temperature has to be lower than the
+15:19
+final air temperature this means that the jacket cooling water cannot be used
+15:24
+and many engines therefore use seawater as the primary coolant for charge air
+15:28
+cooling when sea water is used as the primary coolant a direct feed from the
+15:33
+main seawater system is supplied to the charge air cooler either a three-way
+15:38
+valve or a bypass valve in parallel with the charge air cooler is used to
+15:42
+regulate the air temperature you will see later in the module that where a
+15:46
+central cooling system is employed it is possible to use the fresh water from the
+15:50
+low temperature circuit to cool the charged air as indicated in an earlier
+15:55
+section some medium and high speed engines have separate cooling water
+15:58
+systems for the exhaust valve cages this may be combined with the fuel valve
+16:03
+cooling water system for large two-stroke engines cooling of the
+16:08
+exhaust valve cages is usually an extension of the main jacket cooling
+16:12
+water system for the majority of modern engines exhaust valve cage cooling is
+16:16
+achieved using the main jacket water system by either circulating the jacket
+16:21
+water through balls in the cage or by the position of the cooling spaces in
+16:25
+the cylinder cover there are also some engine designs which
+16:28
+have water cooling for the exhaust manifold although this is not very
+16:32
+common we have seen that it is preferable to use fresh water as the
+16:35
+primary coolant for the engine jacket cooling system we have also seen that
+16:40
+sea water can be used as the secondary coolant for the jacket water and other
+16:44
+cooling systems we will also see later in the module our sea water usage can be
+16:49
+kept to a minimum by employing a central cooling system in practice where sea
+16:54
+water is used as the secondary coolant it is normal to arrange the seawater to
+16:58
+flow through the heat exchangers of the various engine systems in series with
+17:02
+this arrangement the sea water flows through the heat exchanger for the
+17:06
+system with the lowest required temperature before passing to the next
+17:10
+one it is not normally possible to arrange the charged air cooling in this
+17:14
+way and this is usually fed directly from the sea water main each heat
+17:18
+exchanger is fitted with a bypass valve to control individual system
+17:22
+temperatures while still ensuring the required sea water flow for cooling the
+17:26
+other systems sometimes provision is made to feed the jacket water system
+17:31
+from the sea water system in the event of loss of fresh water this facility
+17:36
+should be regarded as a short-term emergency means of operation and when
+17:40
+called this way the engine would be operated at reduced load to reduce the
+17:46
+risk of accidental admission of sea water to the system the cross
+17:49
+connections are normally provided with locked nerves or blanking plates
+17:53
+obviously the sea water temperature will vary depending on where in the world the
+17:58
+ship is operating the temperature range for sea water is from sub-zero up to
+18:03
+about 38 degrees Celsius the majority of engines are designed to operate
+18:08
+with a minimum seawater temperature of about 10 degrees Celsius to achieve this
+18:13
+the system will usually be fitted with a recirculation facility with part of the
+18:17
+water in the system being returned to the pump suction rather than being
+18:21
+discharged overboard the recirculation and therefore the minimum temperature
+18:25
+can be controlled with a three-way valve using either manual or automatic
+18:30
+adjustment seawater system pressure is usually in the range of 2 to 3 bar gauge
+18:36
+pressure with the actual value dictated by the vertical position of the coolers
+18:40
+relative to the pump outlet and the valve and piping arrangement after
+18:45
+opening ship side low suction and overboard valves suction strain Inlet
+18:49
+and outlet valves pump suction valve and the bypass and inlet valves on each
+18:54
+cooler one of the seawater pumps can be started with the discharge valve partly
+18:59
+open once the pump has run up then the discharge barrel can be fully opened
+19:04
+once the engine is started the temperatures of the individual systems
+19:08
+can be controlled by using the cooler outlet and bypass valves to give the
+19:13
+required sea water flow through each cooler in practice the outlet and bypass
+19:18
+functions are usually combined by using an automatic 3-way valve on the primary
+19:23
+fluid which avoids the need to manually balance the individual valves to
+19:28
+maintain correct flow in the sea water system we will look at automatic control
+19:32
+later in the module many smaller diesel engines are arranged with integral
+19:37
+services and systems including the cooling water systems some small diesel
+19:42
+engines may be sea water cooled for example live boat engines although fresh
+19:47
+water is always the preferred option with these arrangements the cooling
+19:51
+water pumps as well as other service pumps such as lubricating oil and fuel
+19:55
+oil are normally mounted on and driven by the engine in some cases small
+20:00
+electric driven pumps are provided for first start and standby requirements the
+20:06
+heat exchanges for the various services are also usually engine mounted on this
+20:10
+type of engine it is probable that the auxiliary engines on your ship have an
+20:14
+arrangement similar to this the heat which is carried away by the
+20:19
+jacket water as we have seen originates partly from the combustion of fuel in
+20:23
+the cylinder when the heat is transferred from the jacket water to
+20:27
+seawater then the heat is wasted it is just dumped into the sea if any of the
+20:32
+heat can be used for a productive purpose then the overall plant
+20:35
+efficiency can be improved one common means of achieving this is to use the
+20:40
+heat from the jacket water to heat the feed and the generating elements for a
+20:44
+freshwater generator this reduces the cost of freshwater production on board
+20:49
+as no additional fuel is required to provide the necessary heat energy using
+20:54
+the jacket water in this way also means that the freshwater generator is being
+20:58
+used as a cooler for the engine jacket water cooling system the full operating
+21:02
+details of the freshwater generator are outside of the scope of this module and
+21:07
+you should refer to CBT module zero 98 for more information on this piece of
+21:13
+equipment if you are not familiar with it in this chapter we have looked at all
+21:17
+of the cooling water systems which may be required to allow continuous
+21:21
+operation of a diesel engine the systems for any particular engine will be
+21:26
+determined by the actual design of that engine the systems we have considered
+21:30
+have all used sea water is the secondary coolant this probably seems logical to
+21:35
+you as there is plenty of it and it is normally relatively cold using seawater
+21:40
+however means that the systems are subject to scaling fouling and corrosion
+21:45
+which not only affect the efficiency of the system but also increases downtime
+21:50
+and maintenance costs minimizing the use of sea water as a secondary coolant also
+21:56
+minimizes these adverse effects we will see in a later chapter that separate
+22:00
+systems are no longer the preferred choice it is now common with modern
+22:04
+designs to use central cooling systems with freshwater as the primary and
+22:09
+secondary coolant for most cooling duties and only a simple seawater
+22:13
+circuit for final heat removal we will consider this in more detail in a later
+22:18
+chapter

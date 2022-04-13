@@ -1,0 +1,142 @@
+00:00
+Como resultado del estudio de esta sección conocerá los parámetros esenciales para
+00:05
+el tamaño del mecanismo de dirección poder explicar cómo actúan las fuerzas de los cojinetes saber
+00:11
+los principios de las disposiciones de timón más utilizadas
+00:35
+Para mover el timón, el mecanismo de gobierno tiene que crear una cierta conversación.
+00:41
+El requisito de torque viene dado por las reglas de clase para garantizar una maniobrabilidad segura de
+00:46
+el barco el tamaño y la forma del timón y también la velocidad del barco
+00:51
+se toma en consideración
+00:55
+La disposición del timón también está expuesta a estas fuerzas, las fuerzas actuales creadas por
+01:00
+hélice y ondas gravedad de los componentes y fuerzas laterales del movimiento del barco
+01:06
+al girar, las fuerzas dependen del tipo y tamaño del timón y también del
+01:11
+disposición del timón
+01:15
+haga clic en los botones para obtener más información sobre los diferentes timones
+01:18
+disposiciones Timón de pala 1/2 Timón de pala Timón de aleta
+01:25
+este es el tipo de timón más utilizado en transbordadores y barcos más pequeños este tipo de
+01:30
+El timón ofrece una muy buena maniobrabilidad dependiendo del ángulo de timón disponible.
+01:35
+y el perfil del timón
+01:40
+Este tipo de timón se usa con mayor frecuencia en embarcaciones grandes.Este timón no es
+01:46
+tan efectivo como un timón de pala del mismo tamaño
+01:52
+Este tipo de timón se utiliza cuando se requiere muy buena maniobrabilidad.
+01:58
+trasero delgado exagerado s: el movimiento del timón hace que el timón sea más
+02:02
+eficaz
+02:12
+miembro
+00:00
+Como resultado de estudiar esta sección, aprenderá los principios de funcionamiento del
+00:05
+modelo estándar del actuador de paletas rotativas a los principios de funcionamiento del
+00:10
+Modelo IMO del actuador de paletas rotativas cómo reacciona el sistema IMO a una fuga
+00:15
+los principios de funcionamiento del actuador tipo RAM
+00:39
+Básicamente, hay dos tipos de mecanismos de dirección electrohidráulicos que funcionan
+00:44
+principios el tipo RAM y el tipo de paleta rotatoria los principios de funcionamiento del
+00:49
+dos son muy similares un movimiento lento y fuerte de una superficie mecánica es
+00:54
+creado por el uso del tipo de ariete de alta presión de aceite utiliza pistones de cilindro giratorios
+01:00
+La paleta usa presión trabajando en el lado de una paleta en el tipo RAM el pistón es
+01:05
+conectado por un ariete a un timón y el timón se fija al timón parado
+01:09
+creando el movimiento de rotación en la paleta giratoria la paleta está fijada a un saliente
+01:14
+que se fija directamente a la culata los principios descritos para el rotativo
+01:19
+El mecanismo de dirección de paletas se puede transformar fácilmente al tipo RAM típico para
+01:25
+Engranajes de dirección tipo RAM es que funcionan con un sistema hidráulico mucho más alto.
+01:28
+presión necesitan un cojinete de mecha de timón externo y el ángulo de trabajo es
+01:33
+limitado en comparación con el mecanismo de dirección de paletas rotativas se utiliza el modelo estándar
+01:38
+en todos los buques excepto los petroleros con instalación de timón único por encima de 100.000
+01:43
+toneladas de peso muerto seguridad seguridad contra un solo fallo en el sistema hidráulico
+01:49
+De acuerdo con las reglas de son, el modelo IMO está especialmente diseñado para camiones cisterna con
+01:56
+instalación de un solo timón por encima de 100.000 toneladas de peso muerto para cumplir con la
+02:01
+reglas soleus también se puede utilizar para otros barcos y / o disposiciones de timón
+02:06
+donde se desea una seguridad extraordinaria seguridad seguridad contra un solo fallo en
+02:12
+el sistema hidráulico de acuerdo con las reglas de Solace
+02:21
+este es un dibujo esquemático del mecanismo de dirección estándar en el que puede hacer clic
+02:26
+los botones marcados Porsche o estribor para ver cómo funciona y haga clic en el
+02:30
+diferentes partes para más información el modelo muestra una situación de funcionamiento normal
+02:35
+con una bomba en funcionamiento utilizando ambas bombas se duplicará la velocidad del timón
+02:48
+tú
+03:20
+Este es un dibujo esquemático del mecanismo de dirección IMO, puede hacer clic en el
+03:24
+botones marcados a babor o estribor para ver cómo funciona y hacer clic en los diferentes
+03:28
+partes para obtener más información, el modelo muestra una situación de funcionamiento normal con
+03:34
+una bomba funcionando con ambas bombas duplicará la velocidad del timón
+03:46
+tú
+04:12
+Ahora se le mostrará cómo reacciona el sistema IMO ante una fuga.
+04:23
+tú
+04:27
+para ver cómo se muestra esta situación en el panel de la timonera, haga clic en el enlace
+04:40
+tú
+05:31
+el mecanismo de dirección del iro es redundante para las fugas sobre los sellos de las venas, por lo que si el
+05:36
+El aceite puede pasar por alto una de las venas por cualquier motivo accidental, la vena con fugas puede
+05:41
+se pondrá fuera de funcionamiento y el mecanismo de dirección funcionará solo en la otra vena
+05:45
+Sin embargo, si se produce una fuga sobre uno de los tapones, ambas venas se
+05:50
+inoperable una situación como esta no está cubierta por los requisitos de la clase soleus
+05:55
+el doble IMO protegerá contra bypass accidental sobre uno de los
+06:00
+tapones, así el doble IMO está diseñado para armadores que desean el
+06:04
+la máxima seguridad más allá de lo requerido por las reglas del son o de la clase
+06:11
+El propósito del dispositivo de bloqueo es fijar el timón en cualquier posición y puede
+06:16
+ser utilizado durante el mantenimiento del mecanismo de dirección
+06:20
+fondeo
+06:24
+o remolcando

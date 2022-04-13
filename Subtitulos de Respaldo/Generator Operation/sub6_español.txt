@@ -1,0 +1,1026 @@
+00:00
+Marina en línea
+00:16
+Esta sección lo familiarizará con
+00:22
+regulación de voltaje la fase única
+00:25
+generador el generador trifásico como
+00:32
+hemos visto hasta ahora en una sección el
+00:35
+voltaje inducido y por lo tanto el
+00:37
+El voltaje del terminal depende de la
+00:40
+tipo de carga conectada al generador
+00:42
+terminales para mantener la terminal
+00:47
+voltaje dentro de los límites aceptables debido a
+00:50
+cambio de carga en el generador que necesitamos
+00:53
+variar la fuerza el campo principal el
+00:58
+las curvas muestran la relación entre
+01:01
+voltaje y corriente de terminal a constante
+01:04
+magnetismo es evidente que un
+01:08
+la carga inductiva exige la mayor
+01:11
+regulación de voltaje, sin embargo, los diferentes
+01:15
+los consumidores a bordo de un barco típico consisten
+01:18
+de inductivo óhmico y capacitivo
+01:21
+cargas en las que el factor de potencia total en
+01:26
+los generadores normalmente está entre 0,8
+01:29
+y 0.9 hay muchos voltajes
+01:35
+reguladores en el mercado y la forma en
+01:38
+que un control automático de voltaje o
+01:41
+AVR para controles cortos de la excitación
+01:46
+varía de un modelo a otro en este
+01:50
+sección echaremos un vistazo a la
+01:52
+principios para los siguientes dos tipos
+01:54
+el generador de anillos colectores incluso
+01:59
+aunque no se encuentra a bordo moderno
+02:01
+buques hoy todos los reguladores de voltaje son
+02:04
+basado en el mismo principio y puede
+02:07
+por lo tanto, ser considerado una introducción
+02:10
+a la moderna automática sin escobillas
+02:12
+sistemas de excitación sin escobillas
+02:15
+generador con combinación de corriente
+02:18
+transformadores y centralita electronica
+02:22
+cuando el camino
+02:27
+comienza a girar bajo voltaje será
+02:30
+inducida porque la remanencia magnética en
+02:33
+el rotor este pequeño voltaje pasa el
+02:37
+limitador de corriente y devanado primario
+02:40
+P a la magnitud alrededor de p 2 con
+02:46
+corriente inducida en s el limitador de corriente
+02:51
+y el condensado se enciende una batería
+02:55
+a resonancia a frecuencia nominal y un
+02:58
+corriente a través del circuito en resonancia
+03:00
+está sintonizado con la tensión nominal del terminal
+03:04
+como puede leer en las fórmulas y
+03:09
+las ilustraciones la impedancia
+03:12
+Disminuirá y la corriente aumentará.
+03:14
+hasta que se alcancen 60 Hertz, el circuito es
+03:20
+sintonizado para dar una excitación suficiente
+03:22
+corriente para mantener 440 voltios en nominal
+03:27
+frecuencia como recordamos una carga reactiva
+03:33
+debilitará el campo principal en un
+03:35
+generador el regulador tiene que
+03:39
+compensar esto fortaleciendo la
+03:42
+magnetización esto será automáticamente
+03:48
+atendido por medio de la primaria
+03:51
+bobinado p1 tan pronto como un generador
+03:55
+cargado una corriente fluirá en el
+03:58
+devanados primarios que inducimos voltaje
+04:01
+el campo magnético en p1 induce una
+04:07
+corriente extra en el devanado secundario s
+04:10
+por lo tanto, la corriente de magnetismo es de carga
+04:15
+dependiente aunque el principio anterior
+04:21
+es ingenioso por su sencillez
+04:24
+tiene desventajas cepillos y resbalones
+04:28
+los anillos causan atención debido al desgaste
+04:30
+y suciedad es difícil de ajustar
+04:33
+voltaje nominal el voltaje es a un
+04:37
+cierto grado dependiente de la potencia
+04:39
+factor en
+04:40
+cargas y los motores primarios rotacionales
+04:44
+acelerar el regulador de voltaje moderno
+04:48
+los sistemas tienen el equipo de excitación
+04:51
+montado directamente en el eje del generador
+04:54
+echemos un vistazo más de cerca a un típico
+04:58
+sistema regulador de voltaje que se encuentra a bordo
+05:02
+un barco hoy hemos eliminado el
+05:04
+banco de condensadores de este sistema algunos
+05:09
+los fabricantes hacen esto para evitar
+05:11
+variación de la resistencia al tacto y por lo tanto
+05:14
+afectar la corriente del componente causada por
+05:17
+variaciones de temperatura sin escobillas
+05:24
+generador tiene su propia excitación
+05:27
+generador montado directamente en el
+05:30
+eje generador el rectificador y el
+05:35
+máquinas de excitación bobinados de inducido a
+05:38
+parte de los generadores partes giratorias
+05:41
+el devanado de excitación de la excitación
+05:47
+máquina representan el estator el
+05:51
+el tiempo de respuesta es un poco más lento que
+05:53
+el generador de anillos colectores sin
+05:57
+AVR porque es más componente en un
+06:02
+sistema que retrasa la respuesta pero no
+06:06
+no tener las desventajas mencionadas
+06:09
+bajo el voltaje del sistema de anillos deslizantes del cepillo
+06:13
+entre en las terminales causadas por el
+06:16
+remanente en el rotor la estrella conectada
+06:20
+La bobina del reactor l2 se puede ver en un
+06:25
+pequeña carga interna en el generador
+06:31
+corriente inductiva que aparece en el
+06:33
+La bobina del reactor fluirá a través del
+06:36
+devanados primarios t1 esta corriente induce
+06:42
+una corriente en los devanados secundarios s
+06:44
+el alterno
+06:48
+luego se dirige en un diodo trifásico
+06:51
+puente v2 una corriente de excitación dirigida
+06:56
+fluirá desde v2 a través de la excitación
+07:00
+bobinado l1 fortaleciendo el
+07:05
+campo de magnetización induciremos
+07:08
+voltaje en un estator de la excitación
+07:11
+máquina, este voltaje se dirige
+07:15
+a través del puente de diodos v3 y alimentado
+07:21
+la excitación de los generadores síncronos
+07:23
+bobinándome todo el regulador de voltaje
+07:29
+sistema que se encuentra a bordo están diseñados en
+07:33
+de tal manera que los reguladores controlen
+07:36
+el voltaje hacia abajo en proporción a la n
+07:38
+voltaje regulado voltaje no regulado
+07:43
+se elevaría a aproximadamente cien
+07:46
+veinte por ciento del voltaje nominal si el
+07:49
+regulador o Sai rishta fueron eliminados
+07:53
+esta sobrecompensación está condenada a
+08:00
+lograr una regulación tan rápida como
+08:02
+posible durante la conexión a grandes
+08:05
+consumidores veamos qué sucede cuando
+08:08
+Encienda el generador como podemos ver el
+08:23
+valor real es igual al punto de ajuste que
+08:26
+ocurre en el valor real es mayor
+08:28
+que el punto de ajuste cuando el
+08:36
+está rallado moset point el comparador
+08:40
+en el regulador da una salida al
+08:43
+puerta de tiristor que se abre por rishta el
+08:47
+mitad positiva de la fase en el medio
+08:50
+será desviado por el PI rishta abierto
+08:52
+y reducir la salida del rectificador
+08:56
+puentear el ángulo de disparo del fuego
+08:59
+rishta está determinado por el punto de ajuste
+09:02
+desviación del valor real después de la principal
+09:22
+interruptor aplicando una carga al generador
+09:25
+el devanado primario entrará en
+09:28
+acción así como una tensión estática
+09:31
+regulador conecte el interruptor a través
+09:34
+el pulsador por el viejo
+09:45
+ug de la estación incautada será mayor que
+09:48
+ONU y el tiristor se abrirán al límite
+09:53
+la excitación el regulador es
+10:05
+necesario para asegurar una excitación igual
+10:08
+corriente a los generadores que
+10:11
+Asegurar un reparto de carga equitativo, esto no fue
+10:16
+necesario para el anillo deslizante del cepillo
+10:18
+generadores como bobinados de magnetización
+10:22
+eran accesibles pero podíamos paralelos
+10:25
+los cables de corriente de excitación para evitar una
+10:28
+igual carga compartiendo nuestra
+10:35
+r 2 y el circuito electrónico arielle
+10:38
+Se puede ver con 30 resistencias
+10:42
+con caídas de tensión individuales UT 1
+10:49
+representa el voltaje real en
+10:54
+aumentando la carga, el voltaje UT uno
+10:58
+caída y el voltaje sobre las resistencias
+11:01
+cambiará proporcionalmente a medida que
+11:06
+arielle cambia en proporción con un
+11:09
+voltaje terminal este valor se utiliza de
+11:13
+el valor real para el comparador el
+11:17
+el valor real se compara con el punto de ajuste
+11:20
+el resultado de la comparación es
+11:24
+amplificó la salida del amplificador
+11:29
+se divide en pulsos que conmuta un
+11:32
+tiristor dentro y fuera del tamaño del
+11:37
+El sobrecargo depende de la nota de desviación
+11:41
+que el montador de neumáticos trabaja contra el
+11:43
+magnetismo lo que significa que cuando g es
+11:47
+menos que en la limitación de
+11:50
+la corriente de excitación se detiene, esto significa que
+11:54
+el tiristor está bloqueado tenga en cuenta que el
+11:57
+la resistencia r1 se ajusta a un menor
+12:01
+valor el voltaje disminuirá sobre r1
+12:05
+y respectivamente aumentar sobre arielle
+12:09
+esto provocará que el valor real en el
+12:13
+punto de ajuste para ser igual a un menor
+12:16
+voltaje terminal para lograr la igualdad
+12:22
+corriente de excitación en todas las cargas en
+12:25
+operación paralela tenemos que proporcionar
+12:28
+el regulador con un transformador de corriente
+12:31
+como veremos en las siguientes páginas
+12:33
+el transformador de corriente es fundamental
+12:36
+componente necesario para lograr el
+12:39
+caída de voltaje esto es necesario para un
+12:43
+carga reactiva estable que comparte el
+12:47
+regulador
+12:48
+El programa anterior es solo para solteros
+12:51
+instalaciones de generadores cuando el
+12:58
+el generador funciona en diagonal o no está conectado
+13:01
+no hay corriente presente para el p2 son dos
+13:05
+circuito cuando los generadores no pueden tomar
+13:12
+carga una corriente fluirá en el t2 son
+13:16
+dos circuitos que tendrán otro
+13:19
+dirección en función del factor de potencia
+13:21
+para una carga creciente el voltaje sobre
+13:26
+r2 disminuirá mostrado como resultado
+13:30
+tu tambien estas en el pop-up el voltaje
+13:34
+drop over arielle aumentará ligeramente
+13:38
+por eso pongamos en marcha el generador
+13:43
+el generador ahora está funcionando al ralentí como
+13:52
+podemos ver que no hay presente actual
+13:56
+en la UT a nuestro circuito déjanos
+14:00
+conecte el generador como podemos ver en
+14:09
+el arco
+14:10
+caída emergente el voltaje real es cuatro
+14:14
+porcentaje más bajo y el voltaje del punto de ajuste
+14:16
+el comparador compara el real
+14:25
+voltaje con el voltaje del punto de ajuste el
+14:28
+el resultado de la comparación da una salida
+14:31
+al muslo rishta que será paralelo
+14:34
+cambia la inclinación hasta que g sea igual a um si
+14:43
+el factor de potencia aumenta el voltaje
+14:46
+sobre r2 disminuye y la salida de
+14:50
+arielle aumenta ug excede UN y el
+14:56
+el comparador dará una salida para disparar
+14:59
+rishta que lo abriría para limitar el
+15:02
+corriente de excitación hasta que g sea igual a um
+15:06
+veamos que pasa cuando reducimos
+15:15
+la carga al ochenta por ciento
+15:20
+el comparador lee que tu g es mayor
+15:22
+que un y dará una salida que
+15:26
+desplazará en paralelo la caída hasta que
+15:29
+g es igual a un note para un solo generador
+15:36
+el transformador de corriente no es necesario
+15:39
+porque el generador toma todo
+15:41
+cargar de todos modos y por lo tanto el
+15:45
+los fabricantes tienen un interruptor que
+15:48
+desconecta el transformador de corriente de ancho
+15:51
+y una sola operación el regulador luego
+15:55
+regula en relación con el voltaje solo
+15:57
+agreguemos otro generador al mejor
+16:02
+spa para compartir la carga presione el
+16:08
+botón de inicio dg2
+16:16
+presione el contagio una nota de dos botones como
+16:21
+tan pronto como dg2 toma la carga, la carga en DG 1
+16:24
+se reducirá ug será por tanto
+16:28
+mayor que la ONU y el fuego sigue
+16:30
+abrir los reguladores en DG 1 y dg2 se
+16:36
+luego disminuya y aumente la carga en
+16:39
+los generadores hasta que estén equilibrados
+16:42
+para garantizar un reparto equitativo de la carga
+16:49
+cargas jugando con un regulador
+16:51
+componentes no se recomienda lo haremos
+16:55
+ahora echa un vistazo más de cerca a lo posible
+16:56
+efectos de tal manipulación si aumentamos
+17:02
+nuestro en la DG 1 durante el paralelo
+17:05
+operación la salida de arielle será
+17:09
+luego disminuya el regulador cree para
+17:13
+el joven es mayor que en el
+17:16
+La salida del comparador provocará una
+17:18
+aumento de la corriente de excitación
+17:21
+El generador tomará una gran parte de
+17:23
+la carga reactiva como puede ver
+17:35
+la característica dg2 tomaría un mayor
+17:38
+parte de la carga si cambiamos el
+17:41
+caída de voltaje en DG de uno a ocho por ciento
+17:45
+durante el funcionamiento en paralelo el
+17:50
+El circuito AVR es muy complejo y
+17:53
+incluye algunas resistencias variables preestablecidas
+17:57
+para el control de la compensación de sensibilidad
+18:00
+error y estabilidad estos se ajustan
+18:05
+y configurado durante las pruebas del generador para
+18:09
+lograr un óptimo y estable
+18:11
+rendimiento se recomienda encarecidamente
+18:13
+que no altere tal preset
+18:17
+resistors r1 which is found in the main
+18:20
+el cuadro de distribución sólo debe ajustarse
+18:23
+una excepción para definir
+18:26
+ajustes al voltaje del generador
+18:29
+cuando está inactivo en las siguientes páginas
+00:00
+Marina en línea
+00:16
+Completar esta sección el alumno
+00:22
+debe tener una buena comprensión de cómo
+00:24
+power is produced and a mutuality
+00:27
+entre los principales impulsores y el
+00:29
+alternator's a pre-requisite for
+00:34
+el funcionamiento en paralelo satisfactorio es igual
+00:38
+velocidad en los motores principales Diesel es el
+00:43
+La velocidad de los motores diesel es
+00:44
+controlados por sus gobernadores hay
+00:47
+diferentes tipos de controladores en el
+00:49
+mercado, pero el principio es el mismo
+00:53
+purpose of the controllers is to
+00:55
+maintain the speed at all loads and for
+00:58
+reparto de carga de la carga activa en el
+01:01
+ejemplo a continuación, el uso del generador es un seis
+01:05
+generador de polos y la frecuencia nominal
+01:08
+es 60 Hertz, esto significa que la velocidad de
+01:12
+the diesel engine has to be 1,200 rpm if
+01:19
+una carga de kilovatios como la calefacción es
+01:21
+conectado al alternador luego
+01:24
+energy is drawn from the alternator and
+01:26
+converted into heat this energy must be
+01:30
+provided by increasing the rate of fuel
+01:33
+to the prime mover this happens
+01:36
+automatically in the following way
+01:52
+en cuanto a la regulación de tensión reactiva
+02:13
+load sharing the diviners are adjusted
+02:16
+para tener una caída de velocidad de cero a máxima
+02:20
+carga como podemos ver en la característica
+02:28
+las RPM se han reducido a 1152 del
+02:33
+ends at full load if the idle speed is
+02:36
+ajustado a 1200 rpm y la caída de velocidad es
+02:40
+cuatro por ciento la frecuencia bajará
+02:44
+proporcionalmente con una velocidad de 250 7,6
+02:48
+hurts let's parallel shift the droop so
+02:52
+que el generador está en su nominal
+02:54
+velocidad al cincuenta por ciento de carga esto se hace
+02:58
+cambiando el punto de ajuste de velocidad a medida que
+03:05
+can see the RPM is at 1200 rpms at fifty
+03:10
+percent load and the frequency will be
+03:13
+60 Hertz let's see what happens when we
+03:16
+cambiar la velocidad roop al dos por ciento
+03:20
+still wish to retain the nominal
+03:22
+frecuencia al cincuenta por ciento se redujo a
+03:29
+obtener una frecuencia nominal del cincuenta por ciento
+03:31
+carga también tenemos que cambiar la velocidad
+03:34
+set point let's keep the focus and group
+03:43
+setting
+03:44
+y el gobernador ajustado nominal
+03:46
+frequency 60 Hertz at fifty percent load
+03:49
+start the generator by pressing the
+03:57
+botón de inicio en el panel de control DG one
+04:00
+como puede ver el generador ha llegado
+04:06
+idle speed connect the generator by
+04:09
+presionando el botón de conexión en el DG
+04:11
+un panel de control carga el generador para
+04:18
+cincuenta por ciento cada clic en el aumento
+04:22
+or decrease button will change the load
+04:25
+en un diez por ciento, como puede ver, tenemos
+04:39
+frecuencia nominal al cincuenta por ciento de carga
+04:42
+Continuar cargando el generador dos
+04:44
+cien por ciento las RPM y la frecuencia es
+04:54
+at 1176 and 58.8 respectively at full
+05:01
+carga para mantener la frecuencia nominal
+05:04
+we must add more fuel to the diesel by
+05:07
+the means of the governor press the up
+05:10
+button on the governor we want to
+05:17
+conecte el generador 2 al bus principal en
+05:20
+para compartir la carga que tiene el gobernador
+05:24
+la misma característica de caída de velocidad que
+05:26
+número uno inicie dg2 presionando el
+05:30
+botón de inicio en el panel de control dg2
+05:33
+ajustar la frecuencia de dg2 y es
+05:37
+ligeramente por encima de la frecuencia del bus principal por
+05:41
+pressing the down button the frequency
+05:45
+for the incoming connects dg2 by
+05:48
+pressing the connect button in the dg2
+05:50
+panel de control la mejor frecuencia principal
+05:53
+disminuirá si no disminuimos DG
+05:57
+one simultaneously let's adjust both the
+06:02
+del gobernador a la frecuencia nominal en
+06:10
+este punto debería ser obvio lo que
+06:13
+will happen if we tamper with a speed
+06:15
+group and speed setting let's have a
+06:18
+mira algunos ejemplos que cambian el
+06:23
+el punto de ajuste de velocidad Edwards en DG uno
+06:27
+dar como resultado que DG uno tome más de la
+06:29
+carga total que dg2 habrá un
+06:32
+constant load deviation between DG 1 and
+06:36
+dg2 cambiando la caída de velocidad en el gobernador
+06:41
+one to eight percent will cause DG one
+06:45
+tomar la mitad de la carga 50g para escuchar
+06:51
+tanto el punto de ajuste de velocidad como la caída de velocidad
+06:54
+se cambia en DG uno con estos nuevos
+06:58
+configuraciones obtenemos carga compartida equilibrada
+07:01
+only at fifty percent load note that
+07:07
+estos ajustes se han ajustado haciendo
+07:09
+el generador prueba y no debe ser
+07:12
+manipulado si no está completamente consciente
+07:15
+de lo que estás haciendo, ten en cuenta que
+07:17
+modernas plantas de energía eléctrica hay
+07:20
+una frecuencia automática controla que
+07:22
+han quitado Devon como aplicación
+07:24
+según un punto preestablecido,
+07:27
+procedimientos en este capítulo de un manual
+07:30
+ajuste de frecuencia y carga compartida
+07:32
+en la siguiente página
+07:40
+es esto
+00:00
+Marina en línea
+00:16
+En esta sección aprenderá a
+00:22
+sincronizar un generador entrante para
+00:25
+vivo el spa las siguientes condiciones
+00:30
+debe estar presente antes del paralelo
+00:32
+la conexión se realiza el generador
+00:35
+y la barra de bus principal debe tener voltaje
+00:38
+similitud el generador y el principal
+00:41
+la barra de ráfaga debe tener similitud de frecuencia
+00:44
+el generador y la barra de ruptura principal
+00:46
+debe estar sincronizado el voltaje se lee
+00:51
+entre las barras de ruptura principales y el
+00:53
+generador entrante los instrumentos son
+00:57
+que se encuentra en una sección de sincronización del
+00:59
+cuadro principal se lee la frecuencia
+01:05
+entre las principales barras de bus en el
+01:06
+generador entrante los instrumentos son
+01:10
+que se encuentra en la sección de sincronización en
+01:13
+se lee el sincronismo de la centralita
+01:17
+mediante la lámpara de sincronización y
+01:20
+el alcance sincronizado los instrumentos son
+01:23
+encontrado en una sección de sincronización el
+01:25
+tablero principal el alcance sincronizado es
+01:31
+el principal instrumento de sincronización el
+01:34
+las lámparas de sincronización pueden considerarse
+01:37
+ser un respaldo para el alcance de la finca tanto
+01:40
+alcance sincronizado que consta de un número
+01:42
+de LED y las lámparas de sincronización son
+01:45
+basado en el mismo principio hay
+01:51
+diferentes formas de conectar el
+01:53
+sincronizando lámparas pero hemos conectado
+01:55
+ellos en una combinación oscura brillante y
+01:58
+coloque la lámpara en un triángulo que da
+02:00
+un efecto de rotación las lámparas están dispuestas
+02:04
+para que h 1 y h 3 se enciendan mientras
+02:08
+Odio es oscuro cuando el generador y
+02:11
+mejor se sincronizan si el generador
+02:16
+frecuencias demasiado rápidas en relación con el
+02:18
+bus principal la rotación de la lámpara de sincronización
+02:21
+sería en el sentido de las agujas del reloj cuando el
+02:26
+de frecuencias demasiado lentas en relación con el
+02:29
+bus principal la rotación de la lámpara de sincronización
+02:32
+será en sentido antihorario la conexión
+02:37
+de un interruptor de generador debe ser
+02:39
+ejecutado cuando las lmparas estn en las cinco
+02:42
+a doce posiciones con un generador
+02:45
+frecuencia ligeramente por encima del autobús
+02:48
+frecuencia en el sentido de las agujas del reloj la razón
+02:52
+La frecuencia del generador debe ser ligeramente
+02:54
+por encima de la frecuencia del bus es porque la
+02:57
+generador estará asumiendo una carga el
+02:59
+momento en que se conecta al no hacer
+03:03
+esto corremos el riesgo de invertir el poder con un
+03:06
+disparo posterior del generador
+03:08
+vaso de precipitados comencemos el generador por
+03:13
+presionando el botón de inicio si el voltaje
+03:16
+por alguna razón es diferente a ti
+03:18
+El ajuste nominal de la excitación puede ser
+03:22
+necesario la frecuencia del generador es demasiado
+03:32
+baja aumente la velocidad presionando el
+03:35
+El botón ARRIBA conecta el bus y el generador
+03:39
+en sincronización
+00:00
+Marina en línea
+00:16
+Complete este capítulo el estudiante
+00:23
+Debería apreciar la necesidad de
+00:24
+diferentes instrumentos y cambio de marchas
+00:27
+normalmente se encuentran en tableros de interruptores principales y
+00:30
+tener los conocimientos teóricos necesarios
+00:32
+para operar el cuadro de distribución principal
+00:38
+la centralita es probablemente la más obvia
+00:40
+elemento la planta de energía eléctrica el
+00:45
+el cuadro de distribución principal es el control principal
+00:47
+centro de la planta de energía eléctrica en
+00:53
+además del control de seguimiento y
+00:55
+equipo de protección para el generador
+00:57
+establece el NSB D suministra energía al motor
+01:03
+tableros de inicio de grupo tableros de sección y
+01:06
+tableros de distribución tengamos un acercamiento
+01:11
+mira la instrumentación y el control
+01:14
+equipo en un típico clic de tablero
+01:19
+en la sección de centralita para una mejor
+01:21
+Mira
+01:41
+apuntar y hacer clic en las secciones DG y
+02:11
+las secciones de sincronización para tener un
+02:13
+Mire adentro para obtener detalles sobre el
+02:19
+disyuntor generador los dispositivos de protección
+02:21
+apunte y haga clic en el símbolo del interruptor
+02:24
+Mueva el cursor sobre el objeto durante
+02:29
+descripciones para obtener detalles sobre el
+02:38
+punto de ruptura del generador y haga clic en DG uno
+02:42
+está funcionando y conectado al bus principal
+02:44
+spa start DG para seleccionar el generador a
+02:50
+ser sincronizado mediante selector
+02:52
+cambiar la frecuencia y el voltaje
+03:00
+ser ajustado si es necesario
+03:13
+presione el botón de entrada y un alcance sincronizado
+03:19
+dentro de la posición de cinco a doce mientras
+03:23
+el ajuste de la frecuencia de voltaje es
+03:26
+no muy exigente con el personal
+03:29
+conexión en paralelo de dos generadores
+03:31
+requiere personal capacitado para ayudar
+03:35
+que el personal haga para realizar un paralelo
+03:37
+conexión de una sincronización semiautomática
+03:40
+El dispositivo a menudo se incluye, esto es un
+03:44
+relé de conexión en paralelo también llamado
+03:48
+comprobar el sincronizador que da una conexión
+03:51
+señal al interruptor principal cuando el voltaje
+03:54
+frecuencia y fase de la entrada
+03:58
+generador están dentro de los límites preestablecidos dg1
+04:05
+está funcionando y conectado al bus principal
+04:07
+bar start DG para seleccionar el generador a
+04:14
+sincronizarse mediante el selector
+04:16
+interruptor presione el botón correspondiente
+04:20
+para sincronización semiautomática si
+04:24
+necesario ajustar la frecuencia y
+04:26
+voltaje hasta que se encienda la lámpara
+04:30
+La lámpara de listo indica si el
+04:33
+el voltaje y la frecuencia están dentro
+04:35
+límites aceptables para la conexión
+04:49
+En el botón si el disyuntor no
+04:54
+no conectarse, es posible que tenga que ajustar el
+04:56
+frecuencia consulte el alcance sincronizado para
+05:01
+determinar qué ajustes son necesarios
+05:03
+para obtener más detalles, consulte el capítulo sobre
+05:07
+sincronizar generadores en el
+05:11
+páginas siguientes
